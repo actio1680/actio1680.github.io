@@ -6,9 +6,9 @@ layout: default
 
 ---
 
-Proyectos en Sociología y Derecho jurídicos y sociológicos.  
+Proyectos en Sociología, Derecho e Informática.  
 
-<iframe src="https://ghbtns.com/github-btn.html?user=chibicode&amp;repo=solo&amp;type=watch&amp;count=true&amp;size=large"
+<iframe src="https://ghbtns.com/github-btn.html?user=actio1680&amp;repo=actio1680&amp;type=watch&amp;count=true&amp;size=large"
   allowtransparency="true" frameborder="0" scrolling="0" width="170" height="30"></iframe><br/>
 
 Looking for a more standard Jekyll theme? Try out [Shiori](http://github.com/ellekasai/shiori) theme, which has Bootstrap integration.
