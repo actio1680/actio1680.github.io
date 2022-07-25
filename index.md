@@ -2,13 +2,11 @@
 layout: default
 ---
 
-## Deprecated: Use my new theme "Duo" instead:
-
-[https://chibicode.github.io/duo/](https://chibicode.github.io/duo/)
+#### Repositorio de [actio1680](https://github.com/actio1680)
 
 ---
 
-[Solo](http://chibicode.github.io/solo) is a Jekyll theme that supports **single-page websites** only, but supports them well. Yes, it's responsive.
+Proyectos en Sociología y Derecho jurídicos y sociológicos.  
 
 <iframe src="https://ghbtns.com/github-btn.html?user=chibicode&amp;repo=solo&amp;type=watch&amp;count=true&amp;size=large"
   allowtransparency="true" frameborder="0" scrolling="0" width="170" height="30"></iframe><br/>
