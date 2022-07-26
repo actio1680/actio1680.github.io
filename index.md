@@ -13,14 +13,14 @@ layout: default
 ## PROYECTOS
 
 ### - Código Civil Peruano Autoreferenciado 
-- Inicio: Agosto, 2022
-- Descripción: El Proyecto busca referenciar en el tiempo los Códigos Civiles del Perú abrogados y vigente. 
-- Enlace: Proyecto2 en desarrollo
+- **Publicación:** Agosto, 2022
+- **Descripción:** El Proyecto busca referenciar en el tiempo los Códigos Civiles del Perú abrogados y vigente. 
+- **Enlace:** Proyecto2 en desarrollo
 
 ### Normas Legislativas
-- Fecha: Diciembre, 2021
-- Descripción:
-- Enlace: [Proyecto1](https://github.com/actio1680/Normas-legislativas-Peru-1904-2021)
+- **Publicación:** Diciembre, 2021
+- **Descripción:** El listado de normas legislativas del Perú es una sistematización fuera de línea -offline- del Archivo Digital de la Legislación del Perú . El archivo principal está sistematizado en una base de datos de formato CSV.Las normas legislativas abordadas se encuentran referidas desde el número 1 al 31226, las cuales son del periodo de octubre de 1904 al 20 de junio de 2021. Esto, considerando la fecha de promulgación.
+- **Enlace:** [Proyecto1](https://github.com/actio1680/Normas-legislativas-Peru-1904-2021)
 
 
 
