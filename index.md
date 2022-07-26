@@ -27,7 +27,7 @@ layout: default
 
 ## DOCUMENTOS
 
-### [Código Civil 1984](/_paginas/cc1984.md)
+### [Código Civil 1984](cc1984.md)
 ### Código Civil 1936
 
 
