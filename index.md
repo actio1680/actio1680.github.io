@@ -4,7 +4,7 @@ layout: default
 
 ## INTRODUCCIÓN
 
-¡Hola! soy William ... y [Actio1680](https://github.com/) es un repositorio de proyectos en sociología y derecho. 
+¡Hola! soy William ... y [Actio1680](https://github.com/actio1680) es un repositorio de proyectos en sociología y derecho. 
 
 <!-- <img class="profile-picture" src="sherlock.jpg"> -->
 
@@ -13,9 +13,9 @@ layout: default
 ## PROYECTOS
 
 ### Código Civil Peruano Autoreferenciado 
-- **Publicación:** Agosto, 2022
+- **Publicación:** En desarrollo
 - **Descripción:** El Proyecto busca referenciar en el tiempo los Códigos Civiles del Perú abrogados y vigente. 
-- **Enlace:** Proyecto2 en desarrollo
+- **Enlace:** [Proyecto2](/proyecto2)
 
 ### Normas Legislativas
 - **Publicación:** Diciembre, 2021
