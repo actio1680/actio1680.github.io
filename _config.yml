@@ -3,7 +3,7 @@ url: "https://actio1680.github.io/"
 baseurl: "/"
 
 markdown: kramdown
-ins_logo: "bits-logo.png"
+ins_logo: "codefavicon.png"
 
 tracking_id: #
 
