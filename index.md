@@ -23,9 +23,9 @@ layout: default
 
 ## DOCUMENTOS
 
-### [Código Civil 1984](cc1984.md)
-### [Código Civil 1936](cc1936.md)
-### Código Civil 1852
+### [Código Civil del Perú 1984](cc1984.md)
+### [Código Civil del Perú 1936](cc1936.md)
+### Código Civil del Perú 1852
 
 
 
