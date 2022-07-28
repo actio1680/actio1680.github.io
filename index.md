@@ -6,9 +6,7 @@ layout: default
 
 ¡Hola! soy William ... y [Actio1680](https://github.com/actio1680) es un repositorio de proyectos en sociología y derecho. 
 
- <img class="profile-picture" src="codefavicon.png"> 
-
-
+<img class="profile-picture" src="codefavicon.png"> 
 
 ## PROYECTOS
 
@@ -29,6 +27,9 @@ layout: default
 
 ### [Código Civil 1984](cc1984.md)
 ### [Código Civil 1936](cc1936.md)
+### Código Civil 1852
+
+
 
 
 
