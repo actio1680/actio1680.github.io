@@ -6,7 +6,7 @@ layout: default
 
 ¡Hola! soy William ... y [Actio1680](https://github.com/actio1680) es un repositorio de proyectos en sociología y derecho. 
 
- <img class="profile-picture" src="codefavicon"> 
+ <img class="profile-picture" src="codefavicon.png"> 
 
 
 
