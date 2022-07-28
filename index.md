@@ -26,7 +26,9 @@ layout: default
 ### [Código Civil del Perú 1984](cc1984.md)
 ### [Código Civil del Perú 1936](cc1936.md)
 ### [Código Civil del Perú 1852](cc1852.md)
+### [Código Civil Santa-Cruz del Estado Nor-Peruano 1836](cc1836.md)
 
+[Subir](#top)
 
 
 
