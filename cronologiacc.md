@@ -1,6 +1,6 @@
 ### CRONOLOGÍA DE LOS CÓDIGOS CIVILES IBEROAMÉRICANOS
 
-La Cronología fue realizada por Gúzman Brito en su obra *La codificación civil en Iberoamérica. Siglos XIX-XXI*[^1]
+La Cronología fue realizada por Gúzman Brito en su obra *La codificación civil en Iberoamérica. Siglos XIX-XXI*[^1].
 
 #### Códigos civiles promulgados en Iberoamérica hasta 1916
 
@@ -26,24 +26,57 @@ La Cronología fue realizada por Gúzman Brito en su obra *La codificación civi
 | 1859 | Código Civil del Estado de Cauca (Colombia) |
 | 1859 | Código Civil del Estado de Cundinamarca (Colombia) |
 | 1860 | Código Civil del Estado de Panamá I (Colombia) |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-| 1904 |  |
-| 1904 |  |
+| 1861 | Código Civil del Estado de Tolima (Colombia) |
+| 1861 | Código Civil del Estado de Veracruz (México) |
+| 1862 | Código Civil de la República de Venezuela I |
+| 1862 | Código Civil del Estado de Bolivar I (Colombia) |
+| 1863 | Código Civil del Estado de Boyacá (Colombia) |
+| 1864 | Código Civil de Antioquía (Colombia) |
+| 1866 | Código Civil de Magdalena II (Colombia) |
+| 1866 | Código Civil del Imperio Mejícano |
+| 1867 | Código Civil de la República de Nicaragua I |
+| 1868 | Código Civil de la República de Venezuela II |
+| 1868 | Código Civil del Estado de Veracruz-Llave II (México) |
+| 1869 | Código Civil de la República Oriental del Uruguay |
+| 1870 | Código Civil de la República Argentina I|
+| 1870 | Código Civil del distrito de México y territorio de la Baja California II |
+| 1871 | Código Civil del Estado de México |
+| 1871 | Código Civil del Estado de Hidalgo (México) |
+| 1871 | Código Civil del Estado de Michoacán (México) |
+| 1871 | Código Civil del Estado de Morelos (México) |
+| 1871 | Código Civil del Estado de Tamaulipás (México)  |
+| 1871 | Código Civil del Estado de Sonora (México) |
+| 1871 | Código Civil del Estado de Puebla (México) |
+| 1871 | Código Civil del Estado de San Luis de Potosí (México) |
+| 1872 | Código Civil del Estado de Zacatecas (México) |
+| 1872 | Código Civil del Estado de Chiapas (México) |
+| 1872 | Código Civil del Estado de Querétaro (México) |
+| 1872 | Código Civil del Estado de Guerrero (México) |
+| 1873 | Código Civil del Estado de Durango (México) |
+| 1873 | Código Civil de la República de Venezuela III |
+| 1873 | Código Civil de los EE. UU. de Colombia |
+| 1874 | Código Civil del Estado de Sinaloa (México) |
+| 1876 | Código Civil de la República del Paraguay I |
+| 1876 | Código Civil de |
+| 1877 | Código Civil de |
+| 1880 | Código Civil de |
+| 1880 | Código Civil de |
+| 1883 | Código Civil de |
+| 1884 | Código Civil de |
+| 1884 | Código Civil de |
+| 1886 | Código Civil de |
+| 1887 | Código Civil de |
+| 1889 | Código Civil de |
+| 1889 | Código Civil de |
+| 1896 | Código Civil de |
+| 1898 | Código Civil de |
+| 1903 | Código Civil de |
+| 1904 | Código Civil de |
+| 1904 | Código Civil de |
 | 1906 | Código Civil de la República de Honduras III |
 | 1916 | Código Civil Brasileiro |
 | 1916 | Código Civil de la República de Panamá III |
 | 1916 | Código Civil de la República de Venezuela VII |
-
 
 #### Códigos civiles promulgados en Iberoamérica desde 1916
 
@@ -56,13 +89,12 @@ La Cronología fue realizada por Gúzman Brito en su obra *La codificación civi
 | 1942 | Código Civil de la República de Venezuela IX |
 | 1963 | Código Civil de la República de Guatemala III |
 | 1975 | Código Civil de la República de Bolivia III |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| 1982 | Código Civil de Venezuela X |
+| 1984 | Código Civil de la República del Perú IV |
+| 1985 | Código Civil de la República del Paraguay II |
+| 1987 | Código Civil de Cuba II |
+| 2002 | Código Civil Brasileiro II |
+| 2016 | Código Civil y Comercial de la Nación Argentina II |
 
 [Inicio](index.md) / [Subir](#top)
 
