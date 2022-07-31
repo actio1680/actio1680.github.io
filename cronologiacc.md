@@ -85,7 +85,7 @@ La Cronología fue realizada por Gúzman Brito en su obra *La codificación civi
 | 1922 | Código Civil de la República de Venezuela VIII |
 | 1928 | Código Civil para el distrito y territorios federales IV (México) |
 | 1933 | Código Civil de la República de Guatemala II |
-| 1936 | Código Civil de la República del Perú |
+| 1936 | Código Civil de la República del Perú III |
 | 1942 | Código Civil de la República de Venezuela IX |
 | 1963 | Código Civil de la República de Guatemala III |
 | 1975 | Código Civil de la República de Bolivia III |
