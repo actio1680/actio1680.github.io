@@ -57,22 +57,22 @@ La Cronología fue realizada por Gúzman Brito en su obra *La codificación civi
 | 1873 | Código Civil de los EE. UU. de Colombia |
 | 1874 | Código Civil del Estado de Sinaloa (México) |
 | 1876 | Código Civil de la República del Paraguay I |
-| 1876 | Código Civil de |
-| 1877 | Código Civil de |
-| 1880 | Código Civil de |
-| 1880 | Código Civil de |
-| 1883 | Código Civil de |
-| 1884 | Código Civil de |
-| 1884 | Código Civil de |
-| 1886 | Código Civil de |
-| 1887 | Código Civil de |
-| 1889 | Código Civil de |
-| 1889 | Código Civil de |
-| 1896 | Código Civil de |
-| 1898 | Código Civil de |
-| 1903 | Código Civil de |
-| 1904 | Código Civil de |
-| 1904 | Código Civil de |
+| 1876 | El Código Civil francés, con las modificaciones de la época de Luis Felipe I y Napoléon III, es adoptado por la República Dominicana |
+| 1877 | Código Civil de la República de Guatemala I |
+| 1880 | Código Civil de la República de Honduras I |
+| 1880 | Código Civil de la República de Venezuela IV |
+| 1883 | Código Civil del Estado de Bolivar II (Colombia) |
+| 1884 | Código Civil de la República Dominicana II |
+| 1884 | Código Civil del distrito de México y territorio de la Baja California III |
+| 1886 | Código Civil de la República de Costa Rica II |
+| 1887 | Código Civil de de la República de Colombia (con inclusión del Departamento de Panamá II |
+| 1889 | El Código Civil de España es extendido a Puerto Rico |
+| 1889 | El Código Civil de España es extendido a Cuba (I) |
+| 1896 | Código Civil de la República de Venezuela V |
+| 1898 | Código Civil de la República de Honduras II |
+| 1903 | El Código Civil de Colombia es ratificado como vigente en Panamá |
+| 1904 | Código Civil de la República de Nicaragua II |
+| 1904 | Código Civil de la República de Venezuela VI |
 | 1906 | Código Civil de la República de Honduras III |
 | 1916 | Código Civil Brasileiro |
 | 1916 | Código Civil de la República de Panamá III |
