@@ -96,7 +96,7 @@ La Cronología fue realizada por Gúzman Brito en su obra *La codificación civi
 | 2002 | Código Civil Brasileiro II |
 | 2016 | Código Civil y Comercial de la Nación Argentina II |
 
-[Inicio](index.md) / [Subir](#top)
+[Subir](#top)
 
 --- 
 
