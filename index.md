@@ -29,8 +29,3 @@ layout: default
 - [Código Civil Santa-Cruz del Estado Nor-Peruano/Sud-Peruano 1836](cc1836.md)
 - [Cronología de los Códigos Civiles Iberoaméricanos](cronologiacc.md)
 
-
-| Tables        | Are           |
-| ------------- |:-------------:| 
-| ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")       | right-aligned | 
-
