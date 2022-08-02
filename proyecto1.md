@@ -3,6 +3,7 @@ layout: default
 ---
 
 ## BASE DE DATOS DE LAS NORMAS LEGISLATIVAS DEL PERÚ 1904-2021
+PROYECTO 1 > [REPOSITORIO](https://github.com/actio1680/Normas-legislativas-Peru-1904-2021)
 
 ### 1. DESCRIPCIÓN DE LA BASE DE DATOS
 El listado de normas legislativas del Perú es una sistematización fuera de línea -offline- del [Archivo Digital de la Legislación del Perú](https://www.leyes.congreso.gob.pe/). El archivo principal está sistematizado en una base de datos de formato CSV.
@@ -26,11 +27,19 @@ La característica Enlace contiene en enlace que dirige al almacenamiento virtua
 
 ### 2. ARCHIVO CSV Y HTML
 
- - **Archivo CSV:** Es la base de datos principal, será actualizada periódicamente las fechas de promulgación.
+ - **ARCHIVO CSV:** Es la base de datos principal, será actualizada periódicamente las fechas de promulgación.
+
+
  ![CSV](https://user-images.githubusercontent.com/54146735/147511880-1feff51b-61b3-4601-b608-0f3b92fda8a3.PNG)
 
- - **Archivo HTML:** Está elaborado para tener una visualización directa y rápida del contenido. El cual no contiene las categorías de "promulgación" y "enlace", ni las actualizaciones de la base de datos CSV.
+[Descargar CSV](https://github.com/actio1680/Normas-legislativas-Peru-1904-2021/blob/main/Archivos/Normas_legislativas_27-12-21.csv)
+
+ - **ARCHIVO HTML:** Está elaborado para tener una visualización directa y rápida del contenido. El cual no contiene las categorías de "promulgación" y "enlace", ni las actualizaciones de la base de datos CSV.
+
+
  ![HTML](https://user-images.githubusercontent.com/54146735/147512017-4ed75eee-20dd-47a7-b78d-4c22db04963e.PNG)
+
+[Descargar HTML](https://github.com/actio1680/Normas-legislativas-Peru-1904-2021/blob/main/Archivos/Normas_legislativas_27-12-21.html)
 
 ### 3. DESCRIPCIÓN DE LAS NORMAS LEGISLATIVAS
 
