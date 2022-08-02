@@ -13,7 +13,7 @@ layout: default
 ### Código Civil Peruano Autorreferencial
 - **Publicación:** En desarrollo
 - **Descripción:** El Proyecto busca referenciar en el tiempo los Códigos Civiles del Perú abrogados y vigente. 
-- **Enlace:** [Proyecto2](proyecto2.md)
+- **Enlace:** En desarrollo
 
 ### Base de datos de las Normas Legislativas del Perú 1904-2021
 - **Publicación:** Diciembre, 2021
