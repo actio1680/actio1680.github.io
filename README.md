@@ -10,5 +10,4 @@ En [Actio](https://actio1680.github.io/) pueden ver todos los indices de los Có
 
 ---
 
-##### Tema *Researcher*
-##### [Demo Website](http://ankitsultana.com/researcher)
+##### Tema *Researcher* [Demo Website](http://ankitsultana.com/researcher)
