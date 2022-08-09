@@ -10,37 +10,37 @@ La Recopilación[^1]
 - TÍTULO CUARTO. De los Hospitales, y Cofradias
 - TÍTULO QUINTO. De la inmunidad de las Iglesias, y Monasterios, y que en esta razon se guarde el derecho de los Reynos de Castilla
 - TÍTULO SEXTO. Del Patronazgo Real de las Indias
-- TÍTULO SEPTIMO. De los Arzobispos, Obispos, y Visitadores Ecclesiasticos
-- De los Concilios Provinciales, y Synodales
-- De las Bulas, y Breves Apostolicos
-- De los Iuezes Eclesiasticos, y Conservadores
-- De los Dignidades, y Prebendados de las Iglesias Metropolitanas, y Catedrales de las Indias
-- De los Clerigos
-- De los Curas, y Doctrineros
-- De los Religiosos
-- De los Religiosos Doctrineros
-- De los Diezmos
-- De la Mesada Eclesiastica
-- De las sepulturas, y derechos Eclesiasticos
-- De los Tribunales de el Santo Oficio de la Inquisicion, y sus Ministros
-- De la Santa Cruzada
-- De los Questores, y limosnas
-- De las Vniversidades y Estudios generales, y particulares de las indias
-- De los Colegios, y Seminarios
-- De los Libros que se imprimen, y passan á las Indias
+- TÍTULO SIETE. De los Arzobispos, Obispos, y Visitadores Ecclesiasticos
+- TÍTULO OCHO. De los Concilios Provinciales, y Synodales
+- TÍTULO NUEVE. De las Bulas, y Breves Apostolicos
+- TÍTULO DIEZ. De los Iuezes Eclesiasticos, y Conservadores
+- TÍTULO ONCE. De los Dignidades, y Prebendados de las Iglesias Metropolitanas, y Catedrales de las Indias
+- TÍTULO DOCE. De los Clerigos
+- TÍTULO TRECE. De los Curas, y Doctrineros
+- TÍTULO CATORCE. De los Religiosos
+- TÍTULO QUINCE. De los Religiosos Doctrineros
+- TÍTULO DIEZ Y SEIS. De los Diezmos
+- TÍTULO DIEZ Y SIETE. De la Mesada Eclesiastica
+- TÍTULO DIEZ Y OCHO. De las sepulturas, y derechos Eclesiasticos
+- TÍTULO DIEZ Y NUEVE. De los Tribunales de el Santo Oficio de la Inquisicion, y sus Ministros
+- TÍTULO VEINTE. De la Santa Cruzada
+- TÍTULO VEINTE Y UNO. De los Questores, y limosnas
+- TÍTULO VEINTE Y DOS. De las Vniversidades y Estudios generales, y particulares de las indias
+- TÍTULO VEINTE Y TRES. De los Colegios, y Seminarios
+- TÍTULO VEINTE Y CUATRO. De los Libros que se imprimen, y passan á las Indias
 
 ### LIBRO SEGUNDO
-- De las leyes, provisiones, cedulas, y ordenanças Reales
-- Del Consejo Real, y Iunta de Guerra de Indias
-- Del Presidente, y los del Consejo Real de las Indias
-- De el Gran Chanciller, y Registrador de las Indias, y su Teniente en el Consejo
-- Del Fiscal de el Consejo Real de las Indias
-- De los Secretarios de el Consejo Real de las Indias
-- Del Tesorero general receptor de el Consejo Real de las Indias.
-- Del Alguazil mayor del Consejo Real de las Indias.
-- De los Relatores de el Consejo Real de las Indias.
-- Del Escrivano de Camara del Consejo Real de las Indias.
-- De los Contadores del Consejo Real de Indias.
+- TÍTULO PRIMERO. De las leyes, provisiones, cedulas, y ordenanças Reales
+- TÍTULO SEGUNDO. Del Consejo Real, y Iunta de Guerra de Indias
+- TÍTULO TERCERO. Del Presidente, y los del Consejo Real de las Indias
+- TÍTULO CUARTO. De el Gran Chanciller, y Registrador de las Indias, y su Teniente en el Consejo
+- TÍTULO QUINTO. Del Fiscal de el Consejo Real de las Indias
+- TÍTULO SEXTO. De los Secretarios de el Consejo Real de las Indias
+- TÍTULO SIETE. Del Tesorero general receptor de el Consejo Real de las Indias.
+- TÍTULO OCHO. Del Alguazil mayor del Consejo Real de las Indias.
+- TÍTULO NUEVE. De los Relatores de el Consejo Real de las Indias.
+- TÍTULO DIEZ. Del Escrivano de Camara del Consejo Real de las Indias.
+- TÍTULO ONCE. De los Contadores del Consejo Real de Indias.
 - De el Coronista mayor del Consejo Real de las Indias.
 - De el Cosmografo, y Catedratico de Matematicas de el Consejo Real de las Indias.
 - De los Alguaziles, Avogados, Procuradores, Porteros, Tassador, y los demás Oficiales del Consejo Real de las Indias.
@@ -66,7 +66,7 @@ La Recopilación[^1]
 - De los Visitadores generales, y particulares.
 
 ### LIBRO TERCERO
-- Del dominio, y jurisdicion Real de las Indias
+- TÍTULO PRIMERO. Del dominio, y jurisdicion Real de las Indias
 - De la provision de oficios, gratificaciones, y mercedes
 - De los Virreyes, y Presidentes Governadores
 - De la guerra
@@ -85,7 +85,7 @@ La Recopilación[^1]
 
 
 ### LIBRO CUARTO
-- De los descubrimientos
+- TÍTULO PRIMERO. De los descubrimientos
 - De los descubrimientos por Mar
 - De los descubrimientos por Tierra
 - De las pacificaciones
@@ -113,7 +113,7 @@ La Recopilación[^1]
 - De los obrajes
 
 ### LIBRO QUINTO
-- De los terminos, division, y agregacion de la Governaciones
+- TÍTULO PRIMERO. De los terminos, division, y agregacion de la Governaciones
 - De los Governadores, Corregidores, Alcaldes mayores, y sus Tenientes, y Alguaziles
 - De los Alcaldes ordinarios
 - De los Provinciales, y Alcaldes de la Hermandad
@@ -130,7 +130,7 @@ La Recopilación[^1]
 - De las residencias, y Iuezes, que las han de tomar
 
 ### LIBRO SEXTO
-- De los Indios
+- TÍTULO PRIMERO. De los Indios
 - De la libertad de los Indios
 - De las Reducciones, y Pueblos de Indios
 - De las caxas de censos, y bienes de Comunidad, y su administracion
@@ -151,7 +151,7 @@ La Recopilación[^1]
 - De las confirmaciones de encomiendas, pensiones, rentas, y situaciones
 
 ### LIBRO SEPTIMO
-- De los Pesquisidores, y Iuezes de comission
+- TÍTULO PRIMERO. De los Pesquisidores, y Iuezes de comission
 - De los juegos, y jugadores
 - De los casados, y desposados en España, que están ausentes de sus mugeres, y esposas
 - De los vagabundos, y Gitanos
@@ -162,7 +162,7 @@ La Recopilación[^1]
 
 
 ### LIBRO OCTAVO
-- De las Contadurias de Cuentas, y sus Ministros
+- TÍTULO PRIMERO. De las Contadurias de Cuentas, y sus Ministros
 - De los Contadores de Cuentas, Resultas, y Ordenadores
 - De los Tribunales de Hazienda Real
 - De los Oficiales Reales, y Contadores de tributos, sus Tenientes, y Guardas mayores
@@ -194,7 +194,7 @@ La Recopilación[^1]
 - Del envio de la Real hazienda
 
 ### LIBRO NONO
-- De la Real Audiencia, y Casa de Contratacion, que reside en Sevilla
+- TÍTULO PRIMERO. De la Real Audiencia, y Casa de Contratacion, que reside en Sevilla
 - Del Presidente, y Iuezes de la Casa de Contratacion
 - De los Iuezes Letrados, Fiscal, Solicitador, y Relator de la Casa
 - Del Iuez Oficial, que reside en la Ciudad de Cadiz
