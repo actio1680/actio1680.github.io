@@ -29,6 +29,6 @@ layout: default
 - [Código Civil Santa-Cruz del Estado Nor-Peruano/Sud-Peruano 1836](cc1836.md)
 - [Cronología de los Códigos Civiles Iberoaméricanos](cronologiacc.md)
 
-### Derecho de la Monarquia Hispanica
+### Derecho de la Monarquía Hispánica
 - [Recopilación de Leyes de los Reynos de las Indias 1680](recopilacion1680)
 
