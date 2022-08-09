@@ -4,13 +4,13 @@ La Recopilación[^1]
 
 
 ### LIBRO PRIMERO
-- De la Santa fé Catolica
-- De las Iglesias Catedrales, y Parroquiales y de sus erecciones y fundaciones
-- De los Monasterios de Religiosos y Religiosas, Hospicios, y Recogimientos de huerfanas
-- De los Hospitales, y Cofradias
-- De la inmunidad de las Iglesias, y Monasterios, y que en esta razon se guarde el derecho de los Reynos de Castilla
-- Del Patronazgo Real de las Indias
-- De los Arzobispos, Obispos, y Visitadores Ecclesiasticos
+- TÍTULO PRIMERO. De la Santa fé Catolica
+- TÍTULO SEGUNDO. De las Iglesias Catedrales, y Parroquiales y de sus erecciones y fundaciones
+- TÍTULO TERCERO. De los Monasterios de Religiosos y Religiosas, Hospicios, y Recogimientos de huerfanas
+- TÍTULO CUARTO. De los Hospitales, y Cofradias
+- TÍTULO QUINTO. De la inmunidad de las Iglesias, y Monasterios, y que en esta razon se guarde el derecho de los Reynos de Castilla
+- TÍTULO SEXTO. Del Patronazgo Real de las Indias
+- TÍTULO SEPTIMO. De los Arzobispos, Obispos, y Visitadores Ecclesiasticos
 - De los Concilios Provinciales, y Synodales
 - De las Bulas, y Breves Apostolicos
 - De los Iuezes Eclesiasticos, y Conservadores
