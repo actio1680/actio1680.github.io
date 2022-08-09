@@ -22,10 +22,13 @@ layout: default
 
 
 ## DOCUMENTOS
-### Código Civiles del Perú
+### Códigos Civiles del Perú
 - [Código Civil del Perú 1984](cc1984.md)
 - [Código Civil del Perú 1936](cc1936.md)
 - [Código Civil del Perú 1852](cc1852.md)
 - [Código Civil Santa-Cruz del Estado Nor-Peruano/Sud-Peruano 1836](cc1836.md)
 - [Cronología de los Códigos Civiles Iberoaméricanos](cronologiacc.md)
+
+### Derecho de la Monarquia Hispanica
+- [Recopilación de Leyes de los Reynos de las Indias 1680](recopilacion1680)
 
