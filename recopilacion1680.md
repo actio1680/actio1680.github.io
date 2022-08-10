@@ -41,39 +41,39 @@ La Recopilación[^1]
 - TÍTULO NUEVE. De los Relatores de el Consejo Real de las Indias.
 - TÍTULO DIEZ. Del Escrivano de Camara del Consejo Real de las Indias.
 - TÍTULO ONCE. De los Contadores del Consejo Real de Indias.
-- De el Coronista mayor del Consejo Real de las Indias.
-- De el Cosmografo, y Catedratico de Matematicas de el Consejo Real de las Indias.
-- De los Alguaziles, Avogados, Procuradores, Porteros, Tassador, y los demás Oficiales del Consejo Real de las Indias.
-- De las Audiencias, y Chancillerias Reales de las Indias.
-- De los Presidentes, y Oidores de las Audiencias, y Chancillerias Reales de las Indias.
-- De los Alcaldes del Crimen de las Audiencias de Lima y Mexico.
-- De los Fiscales de las Audiencias, y Chancillerias Reales de las Indias.
-- De los Iuzgados de Provincia de los Oidores, y Alcaldes de el Crimen de las Audiencias, y Chancillerias Reales de las Indias.
-- De los Alguaziles mayores de las Audiencias.
-- De los Tenientes de Gran Chanciller de las Audiencias, y Chancillerias Reales de las Indias.
-- De los Relatores de la Audiencias, y Chancillerias Reales de las Indias.
-- De los Escrivanos de Camara de las Audiencias Reales de la Indias.
-- De los Avogados de las Audiencias, y Chancillerias Reales de las Indias.
-- De los Receptores, y penas de Camara, gastos de Estrados, y Iusticia, y Obras pia de las Audiencias y chancillerias Reales de las Indias.
-- De los Tassadores, y Repartidores de las Audiencias, y Chancillerias Reales de las Indias.
-- De los Receptores ordinarios, y su Repartidor de las Audiencias, y Chancillerias Reales de las Indias.
-- De los Procuradores de las Audiencias, y Chancillerias Reales de las Indias.
-- De los Interpretes.
-- De los Porteros, y otros Oficiales de las Audiencias, y Chancillerias Reales de las Indias.
-- De los Oidores, Visitadores ordinarios de los distritos de Audiencias, y Chancillerias Reales de las Indias.
-- Del Iuzgado de bienes de difuntos, y su administracion, y cuenta en las Indias, Armadas, y Vageles.
-- De las informaciones, y pareceres de servicios.
-- De los Visitadores generales, y particulares.
+- TÍTULO DOCE. De el Coronista mayor del Consejo Real de las Indias.
+- TÍTULO TRECE. De el Cosmografo, y Catedratico de Matematicas de el Consejo Real de las Indias.
+- TÍTULO CATORCE. De los Alguaziles, Avogados, Procuradores, Porteros, Tassador, y los demás Oficiales del Consejo Real de las Indias.
+- TÍTULO QUINCE. De las Audiencias, y Chancillerias Reales de las Indias.
+- TÍTULO DIEZ Y SEIS. De los Presidentes, y Oidores de las Audiencias, y Chancillerias Reales de las Indias.
+- TÍTULO DIEZ Y SIETE. De los Alcaldes del Crimen de las Audiencias de Lima y Mexico.
+- TÍTULO DIEZ Y OCHO. De los Fiscales de las Audiencias, y Chancillerias Reales de las Indias.
+- TÍTULO DIEZ Y NUEVE. De los Iuzgados de Provincia de los Oidores, y Alcaldes de el Crimen de las Audiencias, y Chancillerias Reales de las Indias.
+- TÍTULO VEINTE. De los Alguaziles mayores de las Audiencias.
+- TÍTULO VEINTE Y UNO. De los Tenientes de Gran Chanciller de las Audiencias, y Chancillerias Reales de las Indias.
+- TÍTULO VEINTE Y DOS. De los Relatores de la Audiencias, y Chancillerias Reales de las Indias.
+- TÍTULO VEINTE Y TRES. De los Escrivanos de Camara de las Audiencias Reales de la Indias.
+- TÍTULO VEINTE Y CUATRO. De los Avogados de las Audiencias, y Chancillerias Reales de las Indias.
+- TÍTULO VEINTE Y CINCO. De los Receptores, y penas de Camara, gastos de Estrados, y Iusticia, y Obras pia de las Audiencias y chancillerias Reales de las Indias.
+- TÍTULO VEINTE Y SEIS. De los Tassadores, y Repartidores de las Audiencias, y Chancillerias Reales de las Indias.
+- TÍTULO VEINTE Y SIETE. De los Receptores ordinarios, y su Repartidor de las Audiencias, y Chancillerias Reales de las Indias.
+- TÍTULO VEINTE Y OCHO. De los Procuradores de las Audiencias, y Chancillerias Reales de las Indias.
+- TÍTULO VEINTE Y NUEVE. De los Interpretes.
+- TÍTULO TREINTA. De los Porteros, y otros Oficiales de las Audiencias, y Chancillerias Reales de las Indias.
+- TÍTULO TREINTA Y UNO. De los Oidores, Visitadores ordinarios de los distritos de Audiencias, y Chancillerias Reales de las Indias.
+- TÍTULO TREINTA Y DOS. Del Iuzgado de bienes de difuntos, y su administracion, y cuenta en las Indias, Armadas, y Vageles.
+- TÍTULO TREINTA Y TRES. De las informaciones, y pareceres de servicios.
+- TÍTULO TREINTA Y CUATRO. De los Visitadores generales, y particulares.
 
 ### LIBRO TERCERO
 - TÍTULO PRIMERO. Del dominio, y jurisdicion Real de las Indias
-- De la provision de oficios, gratificaciones, y mercedes
-- De los Virreyes, y Presidentes Governadores
-- De la guerra
-- De las armas, polvora, y municiones
-- De las fabricas, y fortificaciones
-- De los Castillos, y fortalezas
-- De los Castellanos, y Alcaides de los Castillos, y fortalezas
+- TÍTULO SEGUNDO. De la provision de oficios, gratificaciones, y mercedes
+- TÍTULO TERCERO. De los Virreyes, y Presidentes Governadores
+- TÍTULO CUARTO. De la guerra
+- TÍTULO QUINTO. De las armas, polvora, y municiones
+- TÍTULO SEXTO. De las fabricas, y fortificaciones
+- TÍTULO SIETE. De los Castillos, y fortalezas
+- TÍTULO OCHO. De los Castellanos, y Alcaides de los Castillos, y fortalezas
 - De la dotacion, y situacion de los Presidios, y fortalezas
 - De los Capitanes, Soldados, y Artilleros
 - De las causas de Soldados
