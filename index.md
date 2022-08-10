@@ -22,7 +22,7 @@ layout: default
 
 
 ## DOCUMENTOS
-### Códigos Civiles del Perú
+### Derecho Civil en el Perú
 - [Código Civil del Perú 1984](cc1984.md)
 - [Código Civil del Perú 1936](cc1936.md)
 - [Código Civil del Perú 1852](cc1852.md)
