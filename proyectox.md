@@ -35,9 +35,10 @@ La conjunción de lo antes reseñado dará paso a la sociedad computacional, de 
 
 ### 2. INSTITUCIONES DEL DERECHO COMPUTACIONAL
 Las instituciones de la Sociedad de la Computación se juridizan mediante normas de diferentes niveles de prelación. Entendiendo que una institución es un elemento estructural esencial del ordenamiento jurídico o de la ordenación política y social. (Diccionario panhispánico del español jurídico). Y que existen cuatro maneras en que todos los elementos interactúan; se clasificaran los cuerpos legales según su orden cronológico de promulgación. 
-(CUATRO TIPOS)
 
-De una división en normas públicas y privadas, se subdividirán en 
+(CUATRO TIPOS)...
+
+De una división en normas públicas y privadas, se subdividirán en...
 
 En el Perú y en todo el mundo, como se mencionó, lo primero que se regula es lo existente para luego pasar a lo emergente. 
 
