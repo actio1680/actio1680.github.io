@@ -49,7 +49,7 @@ Estos modos de relacionarse son cuatro: i) el Derecho regula los objetos de la r
 - iv) 
 
 
-### 3. INSTITUCIONES DEL DERECHO COMPUTACIONAL
+### 3. NORMAS DEL DERECHO COMPUTACIONAL
 
 De una división en normas públicas y privadas, se subdividirán según las temáticas. La organización será por la fecha de publicación. 
 
