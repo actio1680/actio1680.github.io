@@ -34,13 +34,26 @@ Lo **virtual** emerge como un espacio de interacciones sociales, ecosistema virt
 La conjunción de lo antes reseñado dará paso a la sociedad computacional, de donde devendrá en una complejidad cada vez mayor, esto implicará la regulación de las nuevas instituciones emergentes. Pasaran a un plano formal, lo que aquí se ha llamado instituciones del derecho computacional. 
 
 ### 2. INSTITUCIONES DEL DERECHO COMPUTACIONAL
-Las instituciones de la Sociedad de la Computación se juridizan mediante normas de diferentes niveles de prelación. Entendiendo que una institución es un elemento estructural esencial del ordenamiento jurídico o de la ordenación política y social. (Diccionario panhispánico del español jurídico). Y que existen cuatro maneras en que todos los elementos interactúan; se clasificaran los cuerpos legales según su orden cronológico de promulgación. 
+Las instituciones de la Sociedad de la Computación se juridizan mediante normas de diferentes niveles de prelación. Entendiendo que una institución es un elemento estructural esencial del ordenamiento jurídico o de la ordenación política y social. Por otro lado, las instituciones emergentes del derecho computacional se configurarán según las maneras en que el derecho se relaciona con la realidad de la computación. 
 
-(CUATRO TIPOS)...
+Estos modos de relacionarse son cuatro: i) el Derecho regula los objetos de la realidad computacional, ii) el Derecho usa productos y servicios computacionales, iii) el Derecho usa internamente técnicas computacionales y iv) el Derecho regula la dimensión virtual que emerge por la aplicación de la realidad computacional. 
+	
+- i) El Derecho regula los objetos de la realidad computacional, en ese sentido es una relación pasiva de sobre las creaciones
+	
+- ii)
+	
+	
+- iii)
+	
+	
+- iv) 
 
-De una división en normas públicas y privadas, se subdividirán en...según la fecha de publicación
 
-En el Perú y en todo el mundo, como se mencionó, lo primero que se regula es lo existente para luego pasar a lo emergente. 
+### 3. INSTITUCIONES DEL DERECHO COMPUTACIONAL
+
+De una división en normas públicas y privadas, se subdividirán según las temáticas. La organización será por la fecha de publicación. 
+
+En el Perú y en todo el mundo, como se mencionó, lo primero que se regula es lo existente para luego pasar a lo emergente digital.  
 
 #### A. PÚBLICO
 #### ADMINISTRATIVO GUBERNAMENTAL
@@ -71,7 +84,7 @@ En el Perú y en todo el mundo, como se mencionó, lo primero que se regula es l
   - ***Decreto x***
 
 
-### 3. REFERENCIAS
+### 4. REFERENCIAS
 - Archivo Digital de la Legislación del Perú. [Enlace](https://www.leyes.congreso.gob.pe/)
 - Diccionario de la lengua española. [Enlace](https://dle.rae.es/)
 - Diccionario panhispánico del español jurídico. [Enlace](https://dpej.rae.es/)
