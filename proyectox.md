@@ -8,7 +8,7 @@ El objeto clave es la **computadora**, pero no de cualquier tipo, sino una elect
 
 Maquina electrónica o hardware, **soporte físico**, es la base material de componentes que integran una computadora. Los programas o software, **soporte lógico**, son las instrucciones y reglas de informática para cumplir una tarea especifica. El soporte físico y, lógico funcionan de manera interrelacional, no es posible su aislamiento en tanto que se busca que cumpla los fines para lo cual fueron diseñados y construidos. 
 
-Por otro lado, el concepto de **información** tiene que entenderse desde la informática, esta ciencia lo limita la información a una dispuesta de manera adecuada para su tratamiento por una computadora, el nombre recibido es de **dato**. El dato, desde la informática, será uno de los elementos clave en la socialización, y con ello; la formación de las instituciones. 
+Por otro lado, el concepto de **información** tiene que entenderse desde la informática, esta ciencia limita el concepto de información por aquella que esta dispuesta de manera adecuada para su tratamiento por una computadora, el nombre que recibe es de **dato**. El dato, desde la informática, será uno de los elementos clave en la socialización, y con ello; la formación de las instituciones. 
 
 La complejización y transformación de la información empieza a ser llavada por instrucciones cada vez más efecientes, esto permite el desarrollo del **algoritmo**. 
 
