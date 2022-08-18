@@ -16,6 +16,8 @@ Así también, se tiene que tomar precauciones, pues, enfocarse solo en la infor
 
 El último elemento es la **resolución de un problema**, esto puede entenderse como el **fin**, es un fin último, en el caso de ser un programa simple; o complejo, en el caso de ser un conjunto de fines. El fin o problema resuelto puede tener la forma de un producto o resultado. 
 
+Todos los elementos anteriormente señalados permiten la existencia de la **realidad computacional**. 
+
 #### B. DIGITAL
 La conjunción de todos estos elementos en la computadora crea una nueva dimensión, lo **digital**. 
 
@@ -33,7 +35,7 @@ Lo **virtual** emerge como un espacio de interacciones sociales, ecosistema virt
 #### F. SOCIEDAD COMPUTACIONAL
 La conjunción de lo antes reseñado dará paso a la sociedad computacional, de donde devendrá en una complejidad cada vez mayor, esto implicará la regulación de las nuevas instituciones emergentes. Pasaran a un plano formal, lo que aquí se ha llamado instituciones del derecho computacional. 
 
-### 2. INSTITUCIONES DEL DERECHO COMPUTACIONAL
+### 2. MODOS DE RELACIONARSE DEL DERECHO Y LA REALIDAD COMPUTACIONAL
 Las instituciones de la Sociedad de la Computación se juridizan mediante normas de diferentes niveles de prelación. Así, una institución es un elemento estructural esencial del ordenamiento jurídico o de la ordenación política y social. Por otro lado, las instituciones emergentes del derecho computacional se configurarán según las maneras en que el derecho se relaciona con la realidad de la computación. 
 
 Sin importar la naturaleza de la materia (tributario, penal, civil, procesal, constitucional, aduanero, etc.), los modos de relacionarse son cuatro: **i)** el Derecho regula objetos desde la realidad computacional externa, **ii)** el Derecho regula objetos desde la realidad computacional interna, **iii)** el Derecho usa productos y servicios computacionales y **iv)** el Derecho usa internamente los metódos computacionales. 
