@@ -26,8 +26,8 @@ layout: default
 - [Código Civil del Perú 1984](paginas/cc1984.md)
 - [Código Civil del Perú 1936](paginas/cc1936.md)
 - [Código Civil del Perú 1852](paginas/cc1852.md)
-- [Código Civil Santa-Cruz del Estado Nor-Peruano/Sud-Peruano 1836](paginas/paginacc1836.md)
-- [Cronología de los Códigos Civiles Iberoaméricanos](pagina/cronologiacc.md)
+- [Código Civil Santa-Cruz del Estado Nor-Peruano/Sud-Peruano 1836](paginas/cc1836.md)
+- [Cronología de los Códigos Civiles Iberoaméricanos](paginas/cronologiacc.md)
 
 ### Derecho de la Monarquía Hispánica
 - [Recopilación de Leyes de los Reynos de las Indias 1680](paginas/recopilacion1680)
