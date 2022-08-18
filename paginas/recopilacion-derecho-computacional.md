@@ -1,6 +1,19 @@
 ## INTRODUCCIÓN A LAS INSTITUCIONES DEL DERECHO COMPUTACIONAL
 
-### 1. HACIA UNA SOCIEDAD COMPUTACIONAL
+#### CONTENIDO
+**[1. HACIA UNA SOCIEDAD COMPUTACIONAL](https://github.com/actio1680/actio1680.github.io/edit/main/paginas/recopilacion-derecho-computacional.md#1-hacia-una-sociedad-computacional)**
+
+**[2. MODOS DE RELACIONARSE DEL DERECHO Y LA REALIDAD COMPUTACIONAL](https://github.com/actio1680/actio1680.github.io/edit/main/paginas/recopilacion-derecho-computacional.md#2-modos-de-relacionarse-del-derecho-y-la-realidad-computacional)**
+
+**[3. NORMAS DEL DERECHO COMPUTACIONAL](https://github.com/actio1680/actio1680.github.io/edit/main/paginas/recopilacion-derecho-computacional.md#3-normas-del-derecho-computacional)**
+  - **[A. PÚBLICO](https://github.com/actio1680/actio1680.github.io/edit/main/paginas/recopilacion-derecho-computacional.md#a-p%C3%BAblico)**
+  - **[B. PRIVADO](https://github.com/actio1680/actio1680.github.io/edit/main/paginas/recopilacion-derecho-computacional.md#b-privado)**
+
+**[4. REFERENCIAS](https://github.com/actio1680/actio1680.github.io/edit/main/paginas/recopilacion-derecho-computacional.md#4-referencias-1)**
+
+---
+
+### 1. HACIA UNA SOCIEDAD COMPUTACIONAL [^](https://github.com/actio1680/actio1680.github.io/edit/main/paginas/recopilacion-derecho-computacional.md#introducci%C3%B3n-a-las-instituciones-del-derecho-computacional)
 Para buscar las instituciones de la Sociedad de la Computación, o sociedad computacional, primero hay que conocer cuales son los elementos y configuraciones de la computación como una herramienta lógica y física, en sus efectos más generales.
 
 #### A. COMPUTADORA
@@ -36,7 +49,7 @@ Lo **virtual** emerge como un espacio de interacciones sociales, ecosistema virt
 La conjunción de lo antes reseñado dará paso a la sociedad computacional, de donde devendrá en una complejidad cada vez mayor, esto implicará la regulación de las nuevas instituciones emergentes. Pasaran a un plano formal, lo que aquí se ha llamado instituciones del derecho computacional. 
 
 
-### 2. MODOS DE RELACIONARSE DEL DERECHO Y LA REALIDAD COMPUTACIONAL
+### 2. MODOS DE RELACIONARSE DEL DERECHO Y LA REALIDAD COMPUTACIONAL [^](https://github.com/actio1680/actio1680.github.io/edit/main/paginas/recopilacion-derecho-computacional.md#introducci%C3%B3n-a-las-instituciones-del-derecho-computacional)
 Las instituciones de la Sociedad de la Computación se juridizan mediante normas de diferentes niveles de prelación. Así, una institución es un elemento estructural esencial del ordenamiento jurídico o de la ordenación política y social. Por otro lado, las instituciones emergentes del derecho computacional se configurarán según las maneras en que el derecho se relaciona con la realidad de la computación. 
 
 Sin importar la naturaleza de la materia (tributario, penal, civil, procesal, constitucional, aduanero, etc.), los modos de relacionarse son cuatro: **i)** el Derecho regula objetos desde la realidad computacional externa, **ii)** el Derecho regula objetos desde la realidad computacional interna, **iii)** el Derecho usa productos y servicios computacionales y **iv)** el Derecho usa internamente los metódos computacionales. 
@@ -53,18 +66,16 @@ Sin importar la naturaleza de la materia (tributario, penal, civil, procesal, co
 - **iv) El Derecho usa internamente los metódos computacionales**, este modo de interactuar extiende en alcance al anterior; es decir, usa métodos que no son propios de la ciencia del Derecho, y utiliza métodos y lógicas de la realidad computacional. Es aplicado principalmente en la investigación jurídica. Denominaciones *Derecho analítico*, *legal analytics*, etc. 
 	- Por ejemplo: Raspado web para la obtención de normas sistematizadas, inteligencia artificial en la resolución de casos jurídicos, etc. 
 
-
-
 Los anteriores modos de interactuar del Derecho y la realidad computacional se presentan de manera conjunta, lo mismo ocurre con la legislación. Así por ejemplo, la computación en la nube requiere de soporte físico y lógico, esto sumado a la realidad virtual que emerge, lo cual requerirán sus propias normas internas. Esto muestra que, los cuatro modos de interactuar reseñados pueden aparacer en un mismo objeto de la realidad computacional. La separación cumple una función pedagógica.
 
 
-### 3. NORMAS DEL DERECHO COMPUTACIONAL
+### 3. NORMAS DEL DERECHO COMPUTACIONAL [^](https://github.com/actio1680/actio1680.github.io/edit/main/paginas/recopilacion-derecho-computacional.md#introducci%C3%B3n-a-las-instituciones-del-derecho-computacional)
 
 De una división en normas públicas y privadas, se subdividirán según las temáticas jurídicas. La organización será por la fecha de publicación. 
 
 En el Perú y en todo el mundo, como se mencionó, lo primero que se regula es lo existente para luego pasar a lo emergente digital.  
 
-#### A. PÚBLICO
+#### A. PÚBLICO [^](https://github.com/actio1680/actio1680.github.io/edit/main/paginas/recopilacion-derecho-computacional.md#introducci%C3%B3n-a-las-instituciones-del-derecho-computacional) 
 #### ADMINISTRATIVO GUBERNAMENTAL
 - **Organizaciones estatales**. En un nivel interno se implementa y gestiona los procesos internos de la administración pública. 
   
@@ -83,7 +94,7 @@ En el Perú y en todo el mundo, como se mencionó, lo primero que se regula es l
   - ***Ley 30096***, 22 de octubre de 2013, Ley de delitos informático. [Enlace](https://www2.congreso.gob.pe/Sicr/TraDocEstProc/Expvirt_2011.nsf/Repexpvirt?OpenForm&Db=201100034&View)
 
 
-#### B. PRIVADO
+#### B. PRIVADO [^](https://github.com/actio1680/actio1680.github.io/edit/main/paginas/recopilacion-derecho-computacional.md#introducci%C3%B3n-a-las-instituciones-del-derecho-computacional)
 
 #### CIVIL 
 - Obligaciones.
@@ -93,7 +104,7 @@ En el Perú y en todo el mundo, como se mencionó, lo primero que se regula es l
   - ***Decreto x***
 
 
-### 4. REFERENCIAS
+### 4. REFERENCIAS [^](https://github.com/actio1680/actio1680.github.io/edit/main/paginas/recopilacion-derecho-computacional.md#introducci%C3%B3n-a-las-instituciones-del-derecho-computacional)
 - Archivo Digital de la Legislación del Perú. [Enlace](https://www.leyes.congreso.gob.pe/)
 - Diccionario de la lengua española. [Enlace](https://dle.rae.es/)
 - Diccionario panhispánico del español jurídico. [Enlace](https://dpej.rae.es/)
