@@ -66,7 +66,7 @@ Los anteriores modos de interactuar del Derecho y la realidad computacional se p
 
 ### 3. ANEXO 
 
-Ver el compilado de [NORMAS DEL DERECHO COMPUTACIONAL](normas-derecho-computacional.md)
+Ver la [COMPILACIÓN DE NORMAS DEL DERECHO COMPUTACIONAL](compilacion-derecho-computacional.md)
 
 Wikipedia. [Enlace](https://es.wikipedia.org/wiki/Wikipedia:Portada) 
 
