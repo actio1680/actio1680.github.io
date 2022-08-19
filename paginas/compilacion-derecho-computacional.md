@@ -1,4 +1,4 @@
-### NORMAS DEL DERECHO COMPUTACIONAL 
+### COMPILACIÓN DE NORMAS DEL DERECHO COMPUTACIONAL 
 De una división en normas públicas y privadas, se subdividirán según las temáticas jurídicas. La organización será por la fecha de publicación. 
 En el Perú y en todo el mundo, como se mencionó, lo primero que se regula es lo existente para luego pasar a lo emergente digital.  
 
