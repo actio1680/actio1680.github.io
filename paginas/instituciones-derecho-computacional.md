@@ -2,14 +2,8 @@
 
 #### CONTENIDO
 **1. HACIA UNA SOCIEDAD COMPUTACIONAL**
-
 **2. MODOS DE RELACIONARSE DEL DERECHO Y LA REALIDAD COMPUTACIONAL**
-
-**3. NORMAS DEL DERECHO COMPUTACIONAL**
-  - **A. PÚBLICO**
-  - **B. PRIVADO**
-
-**4. REFERENCIAS**
+**3. REFERENCIAS**
 
 ---
 
@@ -68,43 +62,7 @@ Sin importar la naturaleza de la materia (tributario, penal, civil, procesal, co
 
 Los anteriores modos de interactuar del Derecho y la realidad computacional se presentan de manera conjunta, lo mismo ocurre con la legislación. Así por ejemplo, la computación en la nube requiere de soporte físico y lógico, esto sumado a la realidad virtual que emerge, lo cual requerirán sus propias normas internas. Esto muestra que, los cuatro modos de interactuar reseñados pueden aparacer en un mismo objeto de la realidad computacional. La separación cumple una función pedagógica.
 
-
-### 3. NORMAS DEL DERECHO COMPUTACIONAL 
-De una división en normas públicas y privadas, se subdividirán según las temáticas jurídicas. La organización será por la fecha de publicación. 
-
-En el Perú y en todo el mundo, como se mencionó, lo primero que se regula es lo existente para luego pasar a lo emergente digital.  
-
-#### A. PÚBLICO
-
-#### ADMINISTRATIVO GUBERNAMENTAL
-- **Organizaciones estatales**. En un nivel interno se implementa y gestiona los procesos internos de la administración pública. 
-  
-  - ***Decreto Supremo 157-2021-PCM***, 25 de setiembre de 2021, el presente Reglamento tiene por objeto regular el Sistema Nacional de Transformación Digital estableciendo los procesos, mecanismos, procedimientos, normas, medidas e instrumentos para su organización y funcionamiento, de conformidad con el Decreto de Urgencia Nº 006-2020, *Decreto de Urgencia que crea el Sistema Nacional de Transformación Digital*. [Enlace]( https://cdn.www.gob.pe/uploads/document/file/2209135/1995486-1.pdf.pdf). 
-
-- **Servicios por internet**. De manera externa, se expande la comunicación de los servicios estatales virtuales y presenciales a la ciudadanía.  
-  
-  - ***Decreto Supremo 025-2010-PCM***, 13 de febrero de 2010, Decreto Supremo que modifica el numeral 10 del artículo 2° del Decreto Supremo N° 027-2007-PCM que define y establece las Políticas Nacionales de obligatorio cumplimiento para las entidades del Gobierno Nacional. *Universalizar progresivamente el uso intensivo de las TIC´s en las distintas entidades públicas y promover la demanda de servicios en línea por la ciudadanía*. [Enlace](https://cdn.www.gob.pe/uploads/document/file/357113/DS_N%C2%BA_025-2010-PCM_.pdf)
-
-#### ADMINISTRATIVO TRIBUTARIO
-
-#### PENAL
-- **Delitos informáticos**. Tipificación en los cuerpos legislativos las inconductas sociales.   
-	
-  - ***Ley 30171***, 9 de marzo de 2014, 
-  - ***Ley 30096***, 22 de octubre de 2013, Ley de delitos informático. [Enlace](https://www2.congreso.gob.pe/Sicr/TraDocEstProc/Expvirt_2011.nsf/Repexpvirt?OpenForm&Db=201100034&View)
-
-
-#### B. PRIVADO 
-
-#### CIVIL 
-- Obligaciones.
-
-#### PROPIEDAD INTELECTUAL 
-- **Propiedad intelectual**. Protección de la creación de los elementos de soporte físico, soporte lógico, soporte virtual y datos. 
-  - ***Decreto x***
-
-
-### 4. REFERENCIAS 
+### 3. REFERENCIAS 
 - Archivo Digital de la Legislación del Perú. [Enlace](https://www.leyes.congreso.gob.pe/)
 - Diccionario de la lengua española. [Enlace](https://dle.rae.es/)
 - Diccionario panhispánico del español jurídico. [Enlace](https://dpej.rae.es/)
