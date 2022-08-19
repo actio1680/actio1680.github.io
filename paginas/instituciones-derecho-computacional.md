@@ -17,7 +17,7 @@ El objeto clave es la **computadora**, pero no de cualquier tipo, sino una elect
 
 Maquina electrónica o hardware, **soporte físico**, es la base material de componentes que integran una computadora. Los programas o software, **soporte lógico**, son las instrucciones y reglas de informática para cumplir una tarea especifica. El soporte físico y, lógico funcionan de manera interrelacional, no es posible su aislamiento en tanto que se busca que cumpla los fines para lo cual fueron diseñados y construidos. 
 
-Por otro lado, el concepto de **información** tiene que entenderse desde la informática, esta ciencia limita el concepto de información por aquella que esta dispuesta de manera adecuada para su tratamiento por una computadora, el nombre que recibe es de **dato**. El dato, desde la informática, será uno de los elementos clave en la socialización, y con ello; la formación de las instituciones. 
+Por otro lado, el concepto de **información** tiene que entenderse desde la informática, esta ciencia limita el concepto de información por aquella que esta dispuesta de manera adecuada para su tratamiento por una computadora[^1], el nombre que recibe es de **dato**. El dato, desde la informática, será uno de los elementos clave en la socialización, y con ello; la formación de las instituciones. 
 
 La complejización y transformación de la información empieza a ser llavada por instrucciones cada vez más efecientes, esto permite el desarrollo del **algoritmo**. 
 
@@ -46,7 +46,7 @@ La conjunción de lo antes reseñado dará paso a la sociedad computacional, de 
 
 
 ### 2. MODOS DE RELACIONARSE DEL DERECHO Y LA REALIDAD COMPUTACIONAL
-Las instituciones de la Sociedad de la Computación se juridizan mediante normas de diferentes niveles de prelación. Así, una institución es un elemento estructural esencial del ordenamiento jurídico o de la ordenación política y social. Por otro lado, las instituciones emergentes del derecho computacional se configurarán según las maneras en que el derecho se relaciona con la realidad de la computación. 
+Las instituciones de la Sociedad de la Computación se juridizan mediante normas de diferentes niveles de prelación. Así, una institución es un elemento estructural esencial del ordenamiento jurídico o de la ordenación política y social[^2]. Por otro lado, las instituciones emergentes del derecho computacional se configurarán según las maneras en que el derecho se relaciona con la realidad de la computación. 
 
 Sin importar la naturaleza de la materia (tributario, penal, civil, procesal, constitucional, aduanero, etc.), los modos de relacionarse son cuatro: **i)** el Derecho regula objetos desde la realidad computacional externa, **ii)** el Derecho regula objetos desde la realidad computacional interna, **iii)** el Derecho usa productos y servicios computacionales y **iv)** el Derecho usa internamente los metódos computacionales. 
 		
@@ -64,15 +64,15 @@ Sin importar la naturaleza de la materia (tributario, penal, civil, procesal, co
 
 Los anteriores modos de interactuar del Derecho y la realidad computacional se presentan de manera conjunta, lo mismo ocurre con la legislación. Así por ejemplo, la computación en la nube requiere de soporte físico y lógico, esto sumado a la realidad virtual que emerge, lo cual requerirán sus propias normas internas. Esto muestra que, los cuatro modos de interactuar reseñados pueden aparacer en un mismo objeto de la realidad computacional. La separación cumple una función pedagógica.
 
-### 3. REFERENCIAS 
-- Archivo Digital de la Legislación del Perú. [Enlace](https://www.leyes.congreso.gob.pe/)
-- Diccionario panhispánico del español jurídico. [Enlace](https://dpej.rae.es/)
-- El Peruano. Diario oficial. [Enlace](https://elperuano.pe/)
-- Gobierno del Perú. [Enlace](https://www.gob.pe/)
-- Wikipedia. [Enlace](https://es.wikipedia.org/wiki/Wikipedia:Portada) 
+- Ver el compilado de [NORMAS DEL DERECHO COMPUTACIONAL](normas-derecho-computacional.md)
+
+Wikipedia. [Enlace](https://es.wikipedia.org/wiki/Wikipedia:Portada) 
 
 [Subir](#top)
 
 ---
 
 [^1]: Diccionario de la lengua española. [Enlace](https://dle.rae.es/)
+[^2]: Diccionario panhispánico del español jurídico. [Enlace](https://dpej.rae.es/)
+
+
