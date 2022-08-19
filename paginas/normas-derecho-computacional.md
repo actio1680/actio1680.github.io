@@ -31,3 +31,4 @@ En el Perú y en todo el mundo, como se mencionó, lo primero que se regula es l
 - **Propiedad intelectual**. Protección de la creación de los elementos de soporte físico, soporte lógico, soporte virtual y datos. 
   - ***Decreto x***
 
+[Subir](#top)
