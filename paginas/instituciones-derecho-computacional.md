@@ -64,7 +64,9 @@ Sin importar la naturaleza de la materia (tributario, penal, civil, procesal, co
 
 Los anteriores modos de interactuar del Derecho y la realidad computacional se presentan de manera conjunta, lo mismo ocurre con la legislación. Así por ejemplo, la computación en la nube requiere de soporte físico y lógico, esto sumado a la realidad virtual que emerge, lo cual requerirán sus propias normas internas. Esto muestra que, los cuatro modos de interactuar reseñados pueden aparacer en un mismo objeto de la realidad computacional. La separación cumple una función pedagógica.
 
-- Ver el compilado de [NORMAS DEL DERECHO COMPUTACIONAL](normas-derecho-computacional.md)
+### 3. ANEXO 
+
+Ver el compilado de [NORMAS DEL DERECHO COMPUTACIONAL](normas-derecho-computacional.md)
 
 Wikipedia. [Enlace](https://es.wikipedia.org/wiki/Wikipedia:Portada) 
 
