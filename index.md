@@ -31,7 +31,7 @@ layout: default
 
 ### Derecho Computacional en el Perú
 - [Introducción a las instituciones del Derecho Computacional](paginas/instituciones-derecho-computacional.md)
-- [Normas del Derecho Computacional](paginas/normas-derecho-computacional.md)
+- [Compilación de Normas del Derecho Computacional](paginas/normas-derecho-computacional.md)
 
 ### Derecho de la Monarquía Hispánica
 - [Recopilación de Leyes de los Reynos de las Indias 1680](paginas/recopilacion1680)
