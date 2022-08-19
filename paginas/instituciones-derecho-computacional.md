@@ -13,7 +13,7 @@
 Para buscar las instituciones de la Sociedad de la Computación, o sociedad computacional, primero hay que conocer cuales son los elementos y configuraciones de la computación como una herramienta lógica y física, en sus efectos más generales.
 
 #### A. COMPUTADORA
-El objeto clave es la **computadora**, pero no de cualquier tipo, sino una electrónica. Una **computadora electrónica** se define como una máquina electrónica que, mediante determinados programas, permite almacenar y tratar información, y resolver problemas de diversa índole. Los elementos de esta son ser una maquina electrónica, que mediante el uso programas gestiona información para lograr un fin. 
+El objeto clave es la **computadora**, pero no de cualquier tipo, sino una electrónica. Una **computadora electrónica** se define como una máquina electrónica que, mediante determinados programas, permite almacenar y tratar información, y resolver problemas de diversa índole[^1]. Los elementos de esta son ser una maquina electrónica, que mediante el uso programas gestiona información para lograr un fin. 
 
 Maquina electrónica o hardware, **soporte físico**, es la base material de componentes que integran una computadora. Los programas o software, **soporte lógico**, son las instrucciones y reglas de informática para cumplir una tarea especifica. El soporte físico y, lógico funcionan de manera interrelacional, no es posible su aislamiento en tanto que se busca que cumpla los fines para lo cual fueron diseñados y construidos. 
 
@@ -66,10 +66,13 @@ Los anteriores modos de interactuar del Derecho y la realidad computacional se p
 
 ### 3. REFERENCIAS 
 - Archivo Digital de la Legislación del Perú. [Enlace](https://www.leyes.congreso.gob.pe/)
-- Diccionario de la lengua española. [Enlace](https://dle.rae.es/)
 - Diccionario panhispánico del español jurídico. [Enlace](https://dpej.rae.es/)
 - El Peruano. Diario oficial. [Enlace](https://elperuano.pe/)
 - Gobierno del Perú. [Enlace](https://www.gob.pe/)
 - Wikipedia. [Enlace](https://es.wikipedia.org/wiki/Wikipedia:Portada) 
 
 [Subir](#top)
+
+---
+
+[^1]: Diccionario de la lengua española. [Enlace](https://dle.rae.es/)
