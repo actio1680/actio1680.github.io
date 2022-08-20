@@ -12,7 +12,7 @@
 ### 1. HACIA UNA SOCIEDAD COMPUTACIONAL  
 Para buscar las instituciones de la Sociedad de la Computación, o sociedad computacional, primero hay que conocer cuales son los elementos y configuraciones de la computación como una herramienta lógica y física, en sus efectos más generales.
 
-#### A. COMPUTADORA
+#### A. Computadora
 El objeto clave es la **computadora**, pero no de cualquier tipo, sino una electrónica. Una **computadora electrónica** se define como una máquina electrónica que, mediante determinados programas, permite almacenar y tratar información, y resolver problemas de diversa índole[^1]. Los elementos de esta son ser una maquina electrónica, que mediante el uso programas gestiona información para lograr un fin. 
 
 Maquina electrónica o hardware, **soporte físico**, es la base material de componentes que integran una computadora. Los programas o software, **soporte lógico**, son las instrucciones y reglas de informática para cumplir una tarea especifica. El soporte físico y, lógico funcionan de manera interrelacional, no es posible su aislamiento en tanto que se busca que cumpla los fines para lo cual fueron diseñados y construidos. 
@@ -27,10 +27,10 @@ El último elemento es la **resolución de un problema**, esto puede entenderse 
 
 Todos los elementos anteriormente señalados permiten la existencia de la **realidad computacional**. 
 
-#### B. DIGITAL
+#### B. Digital
 La conjunción de todos estos elementos en la computadora crea una nueva dimensión, lo **digital**. 
 
-#### C. INTERNET
+#### C. Internet
 La computadora como objeto individual con todos sus elementos, permitirá su conexión con otras computadoras, será la base de lo que se conocerá como **internet**. Es definida como una red informática mundial, descentralizada, formada por la conexión directa entre computadoras mediante un protocolo especial de comunicación. Serán los sistemas de telecomunicaciones computacionales uno de sus objetos base. 
 
 #### D. SOCIEDAD Y COMPUTADORA
