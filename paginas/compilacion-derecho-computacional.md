@@ -15,7 +15,7 @@ En el Perú y en todo el mundo, como se mencionó, lo primero que se regula es l
 
 #### B. ADMINISTRATIVO TRIBUTARIO
 
-#### PENAL
+#### C. PENAL
 - **Delitos informáticos**. Tipificación en los cuerpos legislativos las inconductas sociales.   
 	
   - ***Ley 30171***, 9 de marzo de 2014, 
