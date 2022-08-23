@@ -46,6 +46,8 @@ La conjunción de lo antes reseñado dará paso a la sociedad computacional, de 
 
 Todo esto pasara a un plano formal, lo que aquí se ha llamado ***instituciones del derecho computacional***. 
 
+
+
 ### 2. MODOS DE RELACIONARSE DEL DERECHO Y LA REALIDAD COMPUTACIONAL
 Las instituciones de la Sociedad de la Computación se juridizan mediante normas de diferentes niveles de prelación. Así, una institución es un elemento estructural esencial del ordenamiento jurídico o de la ordenación política y social[^2]. Por otro lado, las instituciones emergentes del derecho computacional se configurarán según las maneras en que el derecho se relaciona con la realidad de la computación. 
 
@@ -53,25 +55,36 @@ Sin importar la naturaleza de la materia (tributario, penal, civil, procesal, co
 		
 - ***i) El Derecho regula objetos desde la realidad computacional externa***, en ese sentido, El Estado delimita los usos que puede darle la comunidad y él mismo de los soportes (físicos y lógicos) de la realidad computacional. Es una relación pasiva de sobre las creaciones y usos computacionales, se busca formalizar las normas que permiten y prohiben los efectos y  las realidades emergentes. Denominaciones *Derecho computacional*, *Derecho informático*, *Computer Law*, *Legal Informatics*. 
 		
-	- Por ejemplo: Proteger los datos personales y base de datos, sancionar actos ilícitos (estafa, destrucción de los medios computacionales, etc.), otorgar licencias de microprocesadores, licencias de software, sitios web, impuesto por ingresos de influenciables (influencers), etc.
+	- *Por ejemplo:* Proteger los datos personales y base de datos, sancionar actos ilícitos (estafa, destrucción de los medios computacionales, etc.), otorgar licencias de microprocesadores, licencias de software, sitios web, impuesto por ingresos de influenciables (influencers), etc.
+
+
 
 - ***ii) El Derecho regula objetos desde la realidad computacional interna***, la dimensión virtual emerge por la aplicación y desarrollo de esta dimensión. Por este motivo, es una extensión del tipo anterior, el espacio virtual (ciberespacio) genera sus propias entidades para regularse. Los efectos pueden verse, aunque no exclusivamente, fuera del ciberespacio. Denominaciones Protech 
 		
-	- Por ejemplo: Bloque de datos (externa e interna), computación en la nube (externa e interna), sancionar actos ilícitos (suplantación de identidad, etc.), responsabilidad civil de los robots, ¿impuesto por propiedades virtuales?, etc. 
+	- *Por ejemplo:* Bloque de datos (externa e interna), computación en la nube (externa e interna), sancionar actos ilícitos (suplantación de identidad, etc.), responsabilidad civil de los robots, ¿impuesto por propiedades virtuales?, etc. 
 
-- **iii) El Derecho usa productos y servicios computacionales**, a diferencia de los modos de interactuar anteriores, el Derecho  no regula, sino usa los productos y servicios de la realidad computacional para cumplir sus fines en sus diferentes niveles de existencia. Estos usos acrecentan exponencialmente lo que ya se hacia. Denominaciones *Tecnología jurídica*, *Tecnología al servicio del derecho*, *Legal tech*, etc.  
 
-	- Por ejemplo: contratos electrónicos, gobernanza de datos, transformación digital, etc. 
-	
-- **iv) El Derecho usa internamente los metódos computacionales**, este modo de interactuar extiende en alcance al anterior; es decir, usa métodos que no son propios de la ciencia del Derecho, y utiliza métodos y lógicas de la realidad computacional. Es aplicado principalmente en la investigación jurídica. Denominaciones *Derecho analítico*, *legal analytics*, etc. 
 
-	- Por ejemplo: Raspado web para la obtención de normas sistematizadas, inteligencia artificial en la resolución de casos jurídicos, etc. 
+- ***iii) El Derecho usa productos y servicios computacionales***, a diferencia de los modos de interactuar anteriores, el Derecho  no regula, sino usa los productos y servicios de la realidad computacional para cumplir sus fines en sus diferentes niveles de existencia. Estos usos acrecentan exponencialmente lo que ya se hacia. Denominaciones *Tecnología jurídica*, *Tecnología al servicio del derecho*, *Legal tech*, etc.  
+
+	- *Por ejemplo:* contratos electrónicos, gobernanza de datos, transformación digital, etc. 
+
+
+
+- ***iv) El Derecho usa internamente los metódos computacionales***, este modo de interactuar extiende en alcance al anterior; es decir, usa métodos que no son propios de la ciencia del Derecho, y utiliza métodos y lógicas de la realidad computacional. Es aplicado principalmente en la investigación jurídica. Denominaciones *Derecho analítico*, *legal analytics*, etc. 
+
+	- *Por ejemplo:* Raspado web para la obtención de normas sistematizadas, inteligencia artificial en la resolución de casos jurídicos, etc. 
+
+
 
 Los anteriores modos de interactuar del Derecho y la realidad computacional se presentan de manera conjunta, lo mismo ocurre con la legislación. Así por ejemplo, la computación en la nube requiere de soporte físico y lógico, esto sumado a la realidad virtual que emerge, lo cual requerirán sus propias normas internas. Esto muestra que, los cuatro modos de interactuar reseñados pueden aparacer en un mismo objeto de la realidad computacional. La separación cumple una función pedagógica.
 
 ### 3. ANEXO 
 
+
 Ver la [COMPILACIÓN DE NORMAS DEL DERECHO COMPUTACIONAL](compilacion-derecho-computacional.md)
+
+
 
 [Subir](#top)
 
