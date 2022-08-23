@@ -12,26 +12,26 @@
 ### 1. HACIA UNA SOCIEDAD COMPUTACIONAL  
 Para buscar las instituciones de la Sociedad de la Computación, o sociedad computacional, primero hay que conocer cuales son los elementos y configuraciones de la computación como una herramienta lógica y física, en sus efectos más generales.
 
-#### A. Computadora
-- El objeto clave es la **computadora**, pero no de cualquier tipo, sino una electrónica. Una **computadora electrónica** se define como una máquina electrónica que, mediante determinados programas, permite almacenar y tratar información, y resolver problemas de diversa índole[^1]. Los elementos de esta son ser una maquina electrónica, que mediante el uso programas gestiona información para lograr un fin. 
+#### A. COMPUTADORA
+El objeto clave es la **computadora**, pero no de cualquier tipo, sino una electrónica. Una **computadora electrónica** se define como una máquina electrónica que, mediante determinados programas, permite almacenar y tratar información, y resolver problemas de diversa índole[^1]. Los elementos de esta son ser una maquina electrónica, que mediante el uso programas gestiona información para lograr un fin. 
 
-- Maquina electrónica o hardware, **soporte físico**, es la base material de componentes que integran una computadora. Los programas o software, **soporte lógico**, son las instrucciones y reglas de informática para cumplir una tarea especifica. El soporte físico y, lógico funcionan de manera interrelacional, no es posible su aislamiento en tanto que se busca que cumpla los fines para lo cual fueron diseñados y construidos. 
+Maquina electrónica o hardware, **soporte físico**, es la base material de componentes que integran una computadora. Los programas o software, **soporte lógico**, son las instrucciones y reglas de informática para cumplir una tarea especifica. El soporte físico y, lógico funcionan de manera interrelacional, no es posible su aislamiento en tanto que se busca que cumpla los fines para lo cual fueron diseñados y construidos. 
 
-- Por otro lado, el concepto de **información** tiene que entenderse desde la informática, esta ciencia limita el concepto de información por aquella que esta dispuesta de manera adecuada para su tratamiento por una computadora[^1], el nombre que recibe es de **dato**. El dato, desde la informática, será uno de los elementos clave en la socialización, y con ello; la formación de las instituciones. 
+Por otro lado, el concepto de **información** tiene que entenderse desde la informática, esta ciencia limita el concepto de información por aquella que esta dispuesta de manera adecuada para su tratamiento por una computadora[^1], el nombre que recibe es de **dato**. El dato, desde la informática, será uno de los elementos clave en la socialización, y con ello; la formación de las instituciones. 
 
-- La complejización y transformación de la información empieza a ser llavada por instrucciones cada vez más efecientes, esto permite el desarrollo del **algoritmo**. 
+La complejización y transformación de la información empieza a ser llavada por instrucciones cada vez más efecientes, esto permite el desarrollo del **algoritmo**. 
 
-- Así también, se tiene que tomar precauciones, pues, enfocarse solo en la información como lo han hecho otros autores, llamando a la interacción entre sociedad e información Sociedad de la Información, no permitiría aprehender los elementos del soporte físico al momento de referirnos a esta. Debido a que, se lo relega en favor de una visión *datocentrista*, que solo ve la dimensión virtual. 
+Así también, se tiene que tomar precauciones, pues, enfocarse solo en la información como lo han hecho otros autores, llamando a la interacción entre sociedad e información Sociedad de la Información, no permitiría aprehender los elementos del soporte físico al momento de referirnos a esta. Debido a que, se lo relega en favor de una visión *datocentrista*, que solo ve la dimensión virtual. 
 
-- El último elemento es la **resolución de un problema**, esto puede entenderse como el **fin**, es un fin último, en el caso de ser un programa simple; o complejo, en el caso de ser un conjunto de fines. El fin o problema resuelto puede tener la forma de un producto o resultado. 
+El último elemento es la **resolución de un problema**, esto puede entenderse como el **fin**, es un fin último, en el caso de ser un programa simple; o complejo, en el caso de ser un conjunto de fines. El fin o problema resuelto puede tener la forma de un producto o resultado. 
 
-- Todos los elementos anteriormente señalados permiten la existencia de la **realidad computacional**. 
+Todos los elementos anteriormente señalados permiten la existencia de la **realidad computacional**. 
 
-#### B. Digital
-- La conjunción de todos estos elementos en la computadora crea una nueva dimensión, lo **digital**. 
+#### B. DIGITAL
+La conjunción de todos estos elementos en la computadora crea una nueva dimensión, lo **digital**. 
 
-#### C. Internet
-- La computadora como objeto individual con todos sus elementos, permitirá su conexión con otras computadoras, será la base de lo que se conocerá como **internet**. Es definida como una red informática mundial, descentralizada, formada por la conexión directa entre computadoras mediante un protocolo especial de comunicación. Serán los sistemas de telecomunicaciones computacionales uno de sus objetos base. 
+#### C. INTERNET
+La computadora como objeto individual con todos sus elementos, permitirá su conexión con otras computadoras, será la base de lo que se conocerá como **internet**. Es definida como una red informática mundial, descentralizada, formada por la conexión directa entre computadoras mediante un protocolo especial de comunicación. Serán los sistemas de telecomunicaciones computacionales uno de sus objetos base. 
 
 #### D. SOCIEDAD Y COMPUTADORA
 La sociedad adopta la computadora en el seno de su vida, asimilándose de esta manera en los diferentes niveles de su socialización; y con esto, la creación de instituciones nunca vistas ni teorizadas. Por otro lado, no todo es nuevo, sino hay una extensión de lo ya existente que pasa ahora a la dimensión digital.
