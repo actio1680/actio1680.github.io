@@ -5,7 +5,7 @@
 
 **2. MODOS DE RELACIONARSE DEL DERECHO Y LA REALIDAD COMPUTACIONAL**
 
-**3. REFERENCIAS**
+**3. ANEXOS**
 
 ---
 
@@ -13,36 +13,38 @@
 Para buscar las instituciones de la Sociedad de la Computación, o sociedad computacional, primero hay que conocer cuales son los elementos y configuraciones de la computación como una herramienta lógica y física, en sus efectos más generales.
 
 #### A. COMPUTADORA
-El objeto clave es la **computadora**, pero no de cualquier tipo, sino una electrónica. Una **computadora electrónica** se define como una máquina electrónica que, mediante determinados programas, permite almacenar y tratar información, y resolver problemas de diversa índole[^1]. Los elementos de esta son ser una maquina electrónica, que mediante el uso programas gestiona información para lograr un fin. 
+El objeto clave es la ***computadora***, pero no de cualquier tipo, sino una electrónica. Una ***computadora electrónica*** se define como una máquina electrónica que, mediante determinados programas, permite almacenar y tratar información, y resolver problemas de diversa índole[^1]. Los elementos de esta son ser una maquina electrónica, que mediante el uso programas gestiona información para lograr un fin. 
 
-Maquina electrónica o hardware, **soporte físico**, es la base material de componentes que integran una computadora. Los programas o software, **soporte lógico**, son las instrucciones y reglas de informática para cumplir una tarea especifica. El soporte físico y, lógico funcionan de manera interrelacional, no es posible su aislamiento en tanto que se busca que cumpla los fines para lo cual fueron diseñados y construidos. 
+La maquina electrónica engloba dos componentes; por un lado, el hardware, ***soporte físico***, es la base material de componentes que integran una computadora. Por otro lado, los programas o software, ***soporte lógico***, son las instrucciones y reglas de informática para cumplir una tarea especifica[^2]. El soporte físico y, lógico funcionan de manera interrelacional, no es posible su aislamiento en tanto que se busca que cumpla los fines para lo cual fueron diseñados y construidos. 
 
-Por otro lado, el concepto de **información** tiene que entenderse desde la informática, esta ciencia limita el concepto de información por aquella que esta dispuesta de manera adecuada para su tratamiento por una computadora[^1], el nombre que recibe es de **dato**. El dato, desde la informática, será uno de los elementos clave en la socialización, y con ello; la formación de las instituciones. 
+Por otro lado, el concepto de ***información*** tiene que entenderse desde la informática, esta ciencia limita el concepto de información por aquella que esta dispuesta de manera adecuada para su tratamiento por una computadora[^1], el nombre que recibe es de ***dato***. El dato, desde la informática, será uno de los elementos clave en la socialización, y con ello; la formación de las instituciones. 
 
-La complejización y transformación de la información empieza a ser llavada por instrucciones cada vez más efecientes, esto permite el desarrollo del **algoritmo**. 
+La complejización y transformación de la información empieza a ser llevada por instrucciones cada vez más eficientes, permitiendo el desarrollo del ***algoritmo***. 
 
 Así también, se tiene que tomar precauciones, pues, enfocarse solo en la información como lo han hecho otros autores, llamando a la interacción entre sociedad e información Sociedad de la Información, no permitiría aprehender los elementos del soporte físico al momento de referirnos a esta. Debido a que, se lo relega en favor de una visión *datocentrista*, que solo ve la dimensión virtual. 
 
-El último elemento es la **resolución de un problema**, esto puede entenderse como el **fin**, es un fin último, en el caso de ser un programa simple; o complejo, en el caso de ser un conjunto de fines. El fin o problema resuelto puede tener la forma de un producto o resultado. 
+El último elemento es la ***resolución de un problema***, esto puede entenderse como el ***fin***, es un fin último, en el caso de ser un programa simple; o complejo, en el caso de ser un conjunto de fines. El fin o problema resuelto puede tener la forma de un producto o resultado. 
 
-Todos los elementos anteriormente señalados permiten la existencia de la **realidad computacional**. 
+Todos los elementos anteriormente señalados permiten la existencia de la ***realidad computacional***. 
 
 #### B. DIGITAL
-La conjunción de todos estos elementos en la computadora crea una nueva dimensión, lo **digital**. 
+La conjunción de todos estos elementos en la computadora crea una nueva dimensión, lo ***digital***. 
 
 #### C. INTERNET
-La computadora como objeto individual con todos sus elementos, permitirá su conexión con otras computadoras, será la base de lo que se conocerá como **internet**. Es definida como una red informática mundial, descentralizada, formada por la conexión directa entre computadoras mediante un protocolo especial de comunicación. Serán los sistemas de telecomunicaciones computacionales uno de sus objetos base. 
+La computadora como objeto individual con todos sus elementos, permitirá su conexión con otras computadoras, será la base de lo que se conocerá como ***internet***. Es definida como una red informática mundial, descentralizada, formada por la conexión directa entre computadoras mediante un protocolo especial de comunicación. Serán los sistemas de telecomunicaciones computacionales uno de sus objetos base. 
 
 #### D. SOCIEDAD Y COMPUTADORA
 La sociedad adopta la computadora en el seno de su vida, asimilándose de esta manera en los diferentes niveles de su socialización; y con esto, la creación de instituciones nunca vistas ni teorizadas. Por otro lado, no todo es nuevo, sino hay una extensión de lo ya existente que pasa ahora a la dimensión digital.
 
-La comunicación entre computadoras lleva implícito la “comunicación” entre computadora y persona, aunque en un primer instante de manera pasiva, pues, es la persona dando las instrucciones a la computadora. Con el tiempo, el soporte físico del internet permite la comunicación entre personas mediante una computadora. Elevándose cada vez más la complejidad entre su interacción. Llegando a una inteligencia artificial. 
+La conexión entre computadoras lleva implícito la “comunicación” entre computadora y persona, aunque en un primer instante de manera pasiva, pues, es la persona dando las instrucciones a la computadora. Con el tiempo, el soporte físico del internet permite la comunicación entre personas mediante una computadora. Elevándose cada vez más la complejidad entre su interacción. Llegando a una inteligencia artificial. 
 
 #### E. VIRTUALIDAD
-Lo **virtual** emerge como un espacio de interacciones sociales, ecosistema virtual, donde los datos es la sangre de todo el sistema. La computación en la nube es el último nivel alcanzado en este espacio.
+Lo ***virtual*** emerge como un espacio de interacciones sociales, ecosistema virtual, donde los datos es la sangre de todo el sistema. La computación en la nube es el último nivel alcanzado en este espacio.
 
 #### F. SOCIEDAD COMPUTACIONAL
-La conjunción de lo antes reseñado dará paso a la sociedad computacional, de donde devendrá en una complejidad cada vez mayor, esto implicará la regulación de las nuevas instituciones emergentes. Pasaran a un plano formal, lo que aquí se ha llamado instituciones del derecho computacional. 
+La conjunción de lo antes reseñado dará paso a la sociedad computacional, de donde devendrá en una complejidad cada vez mayor, esto implicará la regulación de las nuevas instituciones emergentes. 
+
+Todo esto pasara a un plano formal, lo que aquí se ha llamado ***instituciones del derecho computacional***. 
 
 
 ### 2. MODOS DE RELACIONARSE DEL DERECHO Y LA REALIDAD COMPUTACIONAL
@@ -68,13 +70,12 @@ Los anteriores modos de interactuar del Derecho y la realidad computacional se p
 
 Ver la [COMPILACIÓN DE NORMAS DEL DERECHO COMPUTACIONAL](compilacion-derecho-computacional.md)
 
-Wikipedia. [Enlace](https://es.wikipedia.org/wiki/Wikipedia:Portada) 
-
 [Subir](#top)
 
 ---
 
 [^1]: Diccionario de la lengua española. [Enlace](https://dle.rae.es/)
 [^2]: Diccionario panhispánico del español jurídico. [Enlace](https://dpej.rae.es/)
+[^3]: Wikipedia. [Enlace](https://es.wikipedia.org/wiki/Wikipedia:Portada) 
 
 
