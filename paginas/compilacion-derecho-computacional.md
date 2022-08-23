@@ -4,10 +4,10 @@ En el Perú y en todo el mundo, como se mencionó, lo primero que se regula es l
 
 #### 1. PÚBLICO
 
-#### ADMINISTRATIVO GUBERNAMENTAL
-- **Organizaciones estatales**. En un nivel interno se implementa y gestiona los procesos internos de la administración pública. 
+- #### ADMINISTRATIVO GUBERNAMENTAL
+	- **Organizaciones estatales**. En un nivel interno se implementa y gestiona los procesos internos de la administración pública. 
   
-  - ***Decreto Supremo 157-2021-PCM***, 25 de setiembre de 2021, el presente Reglamento tiene por objeto regular el Sistema Nacional de Transformación Digital estableciendo los procesos, mecanismos, procedimientos, normas, medidas e instrumentos para su organización y funcionamiento, de conformidad con el Decreto de Urgencia Nº 006-2020, *Decreto de Urgencia que crea el Sistema Nacional de Transformación Digital*. [Enlace]( https://cdn.www.gob.pe/uploads/document/file/2209135/1995486-1.pdf.pdf). 
+  		- ***Decreto Supremo 157-2021-PCM***, 25 de setiembre de 2021, el presente Reglamento tiene por objeto regular el Sistema Nacional de Transformación Digital estableciendo los procesos, mecanismos, procedimientos, normas, medidas e instrumentos para su organización y funcionamiento, de conformidad con el Decreto de Urgencia Nº 006-2020, *Decreto de Urgencia que crea el Sistema Nacional de Transformación Digital*. [Enlace]( https://cdn.www.gob.pe/uploads/document/file/2209135/1995486-1.pdf.pdf). 
 
 - **Servicios por internet**. De manera externa, se expande la comunicación de los servicios estatales virtuales y presenciales a la ciudadanía.  
   
