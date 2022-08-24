@@ -29,9 +29,10 @@ layout: default
 - [Código Civil Santa-Cruz del Estado Nor-Peruano/Sud-Peruano 1836](paginas/cc1836.md)
 - [Cronología de los Códigos Civiles Iberoaméricanos](paginas/cronologiacc.md)
 
+
 ### Derecho Computacional en el Perú
 - [Introducción a las instituciones del Derecho Computacional](paginas/instituciones-derecho-computacional.md)
-- [Compilación de Normas del Derecho Computacional](paginas/compilacion-derecho-computacional.md)
+
 
 ### Derecho de la Monarquía Hispánica
 - [Recopilación de Leyes de los Reynos de las Indias 1680](paginas/recopilacion1680)
