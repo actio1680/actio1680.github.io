@@ -53,13 +53,17 @@ Las instituciones de la Sociedad de la Computación se juridizan mediante normas
 
 Sin importar la naturaleza de la materia (tributario, penal, civil, procesal, constitucional, aduanero, etc.), los modos de relacionarse son cuatro: **i)** el Derecho regula objetos desde la realidad computacional externa, **ii)** el Derecho regula objetos desde la realidad computacional interna, **iii)** el Derecho usa productos y servicios computacionales y **iv)** el Derecho usa internamente los metódos computacionales. 
 		
-- ***i) El Derecho regula objetos desde la realidad computacional externa***, en ese sentido, El Estado delimita los usos que puede darle la comunidad y él mismo de los soportes (físicos y lógicos) de la realidad computacional. Es una relación pasiva de sobre las creaciones y usos computacionales, se busca formalizar las normas que permiten y prohiben los efectos y  las realidades emergentes. Denominaciones *Derecho computacional*, *Derecho informático*, *Computer Law*, *Legal Informatics*. 
+- ***i) El Derecho regula objetos desde la realidad computacional externa***, en ese sentido, El Estado delimita los usos que puede darle la comunidad y él mismo de los soportes (físicos y lógicos) de la realidad computacional. Es una relación pasiva de sobre las creaciones y usos computacionales, se busca formalizar las normas que permiten y prohiben los efectos y  las realidades emergentes. 
+
+	- *Denominaciones:* Derecho computacional, *Derecho informático*, *Computer Law*, *Legal Informatics*. 
 		
 	- *Por ejemplo:* Proteger los datos personales y base de datos, sancionar actos ilícitos (estafa, destrucción de los medios computacionales, etc.), otorgar licencias de microprocesadores, licencias de software, sitios web, impuesto por ingresos de influenciables (influencers), etc.
 
 
 
-- ***ii) El Derecho regula objetos desde la realidad computacional interna***, la dimensión virtual emerge por la aplicación y desarrollo de esta dimensión. Por este motivo, es una extensión del tipo anterior, el espacio virtual (ciberespacio) genera sus propias entidades para regularse. Los efectos pueden verse, aunque no exclusivamente, fuera del ciberespacio. Denominaciones Protech 
+- ***ii) El Derecho regula objetos desde la realidad computacional interna***, la dimensión virtual emerge por la aplicación y desarrollo de esta dimensión. Por este motivo, es una extensión del tipo anterior, el espacio virtual (ciberespacio) genera sus propias entidades para regularse. Los efectos pueden verse, aunque no exclusivamente, fuera del ciberespacio. 
+	
+	- *Denominaciones:* Protech 
 		
 	- *Por ejemplo:* Bloque de datos (externa e interna), computación en la nube (externa e interna), sancionar actos ilícitos (suplantación de identidad, etc.), responsabilidad civil de los robots, ¿impuesto por propiedades virtuales?, etc. 
 
