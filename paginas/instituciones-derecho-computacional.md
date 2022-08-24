@@ -82,9 +82,7 @@ Los anteriores modos de interactuar del Derecho y la realidad computacional se p
 ### 3. ANEXO 
 
 
-Ver la [COMPILACIÓN DE NORMAS DEL DERECHO COMPUTACIONAL](compilacion-derecho-computacional.md)
-
-
+Ver la [Legislación de la República del Perú por descriptores](https://www.informatica-juridica.com/legislacion/legislacion-republica-del-peru-por-descriptores/)
 
 [Subir](#top)
 
