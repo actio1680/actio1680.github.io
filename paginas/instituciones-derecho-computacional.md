@@ -55,9 +55,9 @@ Sin importar la naturaleza de la materia (tributario, penal, civil, procesal, co
 		
 - ***i) El Derecho regula objetos desde la realidad computacional externa***, en ese sentido, El Estado delimita los usos que puede darle la comunidad y él mismo de los soportes (físicos y lógicos) de la realidad computacional. Es una relación pasiva de sobre las creaciones y usos computacionales, se busca formalizar las normas que permiten y prohiben los efectos y  las realidades emergentes. 
 
-	- *Denominaciones:* Derecho computacional, *Derecho informático*, *Computer Law*, *Legal Informatics*. 
+	- *Denominaciones:* Derecho computacional, Derecho informático, Computer Law, Legal Informatics. 
 		
-	- *Por ejemplo:* Proteger los datos personales y base de datos, sancionar actos ilícitos (estafa, destrucción de los medios computacionales, etc.), otorgar licencias de microprocesadores, licencias de software, sitios web, impuesto por ingresos de influenciables (influencers), etc.
+	- *Ejemplos:* Proteger los datos personales y base de datos, sancionar actos ilícitos (estafa, destrucción de los medios computacionales, etc.), otorgar licencias de microprocesadores, licencias de software, sitios web, impuesto por ingresos de influenciables (influencers), etc.
 
 
 
@@ -65,19 +65,23 @@ Sin importar la naturaleza de la materia (tributario, penal, civil, procesal, co
 	
 	- *Denominaciones:* Protech 
 		
-	- *Por ejemplo:* Bloque de datos (externa e interna), computación en la nube (externa e interna), sancionar actos ilícitos (suplantación de identidad, etc.), responsabilidad civil de los robots, ¿impuesto por propiedades virtuales?, etc. 
+	- *Ejemplos:* Bloque de datos (externa e interna), computación en la nube (externa e interna), sancionar actos ilícitos (suplantación de identidad, etc.), responsabilidad civil de los robots, ¿impuesto por propiedades virtuales?, etc. 
 
 
 
-- ***iii) El Derecho usa productos y servicios computacionales***, a diferencia de los modos de interactuar anteriores, el Derecho  no regula, sino usa los productos y servicios de la realidad computacional para cumplir sus fines en sus diferentes niveles de existencia. Estos usos acrecentan exponencialmente lo que ya se hacia. Denominaciones *Tecnología jurídica*, *Tecnología al servicio del derecho*, *Legal tech*, etc.  
+- ***iii) El Derecho usa productos y servicios computacionales***, a diferencia de los modos de interactuar anteriores, el Derecho  no regula, sino usa los productos y servicios de la realidad computacional para cumplir sus fines en sus diferentes niveles de existencia. Estos usos acrecentan exponencialmente lo que ya se hacia. 
 
-	- *Por ejemplo:* contratos electrónicos, gobernanza de datos, transformación digital, etc. 
+	- *Denominaciones:* Tecnología jurídica, Tecnología al servicio del derecho, Legaltech, etc.  
+
+	- *Ejemplos:* contratos electrónicos, gobernanza de datos, transformación digital, etc. 
 
 
 
-- ***iv) El Derecho usa internamente los metódos computacionales***, este modo de interactuar extiende en alcance al anterior; es decir, usa métodos que no son propios de la ciencia del Derecho, y utiliza métodos y lógicas de la realidad computacional. Es aplicado principalmente en la investigación jurídica. Denominaciones *Derecho analítico*, *legal analytics*, etc. 
+- ***iv) El Derecho usa internamente los metódos computacionales***, este modo de interactuar extiende en alcance al anterior; es decir, usa métodos que no son propios de la ciencia del Derecho, y utiliza métodos y lógicas de la realidad computacional. Es aplicado principalmente en la investigación jurídica. 
+	
+	- *Denominaciones:* Derecho analítico, legal analytics, etc. 
 
-	- *Por ejemplo:* Raspado web para la obtención de normas sistematizadas, inteligencia artificial en la resolución de casos jurídicos, etc. 
+	- *Ejemplos:* Raspado web para la obtención de normas sistematizadas, inteligencia artificial en la resolución de casos jurídicos, etc. 
 
 
 
