@@ -4,7 +4,7 @@ layout: default
 ### LAS SIETE PARTIDAS DEL REY DON ALFONSO EL SABIO
 Las siete partidas[^1]
 
-#### Primera Partida
+#### PRIMERA PARTIDA
 
 - Titulo I. Que fabla de las leyes, e por quantas razones es este libro partido por titulos, e en que manera  
 - Titulo II. Del Vso, e de la costumbre, e del fuero
@@ -31,7 +31,7 @@ Las siete partidas[^1]
 - Titulo XXIII. De la guarda de las fiestas, e de los ayunos, e de como se deuen fazer las limosnas 
 - Titulo XXIIII. De los Romeros, e de los pelegrinos 
 
-#### Segunda Partida
+#### SEGUNDA PARTIDA 
 
 - Titulo I. Que fabla de los Emperadores, e de los Reyes: e de los otros grandes señores 
 - Titulo II. Qual deue el Rey ser, en conocer e amar, e temer a Dios 
@@ -66,7 +66,7 @@ Las siete partidas[^1]
 - Titulo XXXI. De los estudios, en que se aprenden los saberes, e de los maestros: e de los escolares 
 
 
-#### Tercera Partida
+#### TERCERA PARTIDA
 
 - Título I. De la justicia 
 - Título II. Del demandador, e de las cosas que ha de catar ante que ponga la demanda
@@ -102,22 +102,22 @@ Las siete partidas[^1]
 - Título XXXII. De las lauores nueuas como se puede embargar que se non fagan, e de las viejas que se quieren caer como se han de fazer, e de todas otras lauores 
 
 
-#### Cuarta Partida
+#### CUARTA PARTIDA
 
 -
 -
 
-#### Quinta Partida
+#### QUINTA PARTIDA
 
 -
 -
 
-#### Sexta Partida
+#### SEXTA PARTIDA
 
 -
 -
 
-#### Septima Partida
+#### SEPTIMA PARTIDA
 
 -
 -
