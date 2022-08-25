@@ -74,172 +74,172 @@ La Recopilación[^1]
 - TÍTULO SEXTO. De las fabricas, y fortificaciones
 - TÍTULO SIETE. De los Castillos, y fortalezas
 - TÍTULO OCHO. De los Castellanos, y Alcaides de los Castillos, y fortalezas
-- De la dotacion, y situacion de los Presidios, y fortalezas
-- De los Capitanes, Soldados, y Artilleros
-- De las causas de Soldados
-- De los pagamentos, sueldos, ventajas, y ayudas de costa
-- De los Cosarios, y Pyratas, y aplicación de las presas, y trato con estrangeros
-- De los informes, y relaciones de servicios, partes, y calidades de que se deve dar cuénta al Rey
-- De las precedencias, ceremonias, y cortesias
-- De las cartas, Correos, é Indios Chasquis
+- TÍTULO NUEVE. De la dotacion, y situacion de los Presidios, y fortalezas
+- TÍTULO DIEZ. De los Capitanes, Soldados, y Artilleros
+- TÍTULO ONCE. De las causas de Soldados
+- TÍTULO DOCE. De los pagamentos, sueldos, ventajas, y ayudas de costa
+- TÍTULO TRECE. De los Cosarios, y Pyratas, y aplicación de las presas, y trato con estrangeros
+- TÍTULO CATORCE. De los informes, y relaciones de servicios, partes, y calidades de que se deve dar cuénta al Rey
+- TÍTULO QUINCE. De las precedencias, ceremonias, y cortesias
+- TÍTULO DIEZ Y SEIS. De las cartas, Correos, é Indios Chasquis
 
 
 ### LIBRO CUARTO
 - TÍTULO PRIMERO. De los descubrimientos
-- De los descubrimientos por Mar
-- De los descubrimientos por Tierra
-- De las pacificaciones
-- De las Poblaciones
-- De los Descubridores, Pacificadores, y Pobladores
-- De la poblacion de las Ciudades, Villas, y Pueblos
-- De las Ciudades, y Villas, y sus preeminencias
-- De los Cabildos, y Concejos
-- De los oficios Concegiles
-- De los Procuradores generales, y particulares de las Ciudades, y Poblaciones
-- De la venta, composicion, y repartimiento de tierras, solares, y aguas
-- De los Propios, y Positos
-- De las Alhondigas
-- De las sisas, derramas, y contribuciones
-- De las obras publicas
-- De los caminos publicos, posadas, ventas, mesones, terminos, pastos, montes, aguas, arboledas, y plantio de viñas
-- Del comercio, mantenimientos, y frutos de las Indias
-- De el descubrimiento, y labor de las minas
-- De los Mineros, y Azogueros, y sus privilegios
-- De los Alcades mayores, y Escrivanos de minas
-- Del ensaye, fundicion, y marca del oro, y plata
-- De las Casas de moneda, y sus Oficiales
-- Del valor del oro, plata, y moneda, y su comercio
-- De la pesqueria, y envio de perlas, y piedras de estimacion
-- De los obrajes
+- TÍTULO SEGUNDO. De los descubrimientos por Mar
+- TÍTULO TERCERO. De los descubrimientos por Tierra
+- TÍTULO CUARTO. De las pacificaciones
+- TÍTULO QUINTO. De las Poblaciones
+- TÍTULO SEXTO. De los Descubridores, Pacificadores, y Pobladores
+- TÍTULO SIETE. De la poblacion de las Ciudades, Villas, y Pueblos
+- TÍTULO OCHO. De las Ciudades, y Villas, y sus preeminencias
+- TÍTULO NUEVE. De los Cabildos, y Concejos
+- TÍTULO DIEZ. De los oficios Concegiles
+- TÍTULO ONCE. De los Procuradores generales, y particulares de las Ciudades, y Poblaciones
+- TÍTULO DOCE. De la venta, composicion, y repartimiento de tierras, solares, y aguas
+- TÍTULO TRECE. De los Propios, y Positos
+- TÍTULO CATORCE. De las Alhondigas
+- TÍTULO QUINCE. De las sisas, derramas, y contribuciones
+- TÍTULO DIEZ Y SEIS. De las obras publicas
+- TÍTULO DIEZ Y SIETE. De los caminos publicos, posadas, ventas, mesones, terminos, pastos, montes, aguas, arboledas, y plantio de viñas
+- TÍTULO DIEZ Y OCHO. Del comercio, mantenimientos, y frutos de las Indias
+- TÍTULO DIEZ Y NUEVE. De el descubrimiento, y labor de las minas
+- TÍTULO VEINTE. De los Mineros, y Azogueros, y sus privilegios
+- TÍTULO VEINTE Y UNO. De los Alcades mayores, y Escrivanos de minas
+- TÍTULO VEINTE Y DOS. Del ensaye, fundicion, y marca del oro, y plata
+- TÍTULO VEINTE Y TRES. De las Casas de moneda, y sus Oficiales
+- TÍTULO VEINTE Y CUATRO. Del valor del oro, plata, y moneda, y su comercio
+- TÍTULO VEINTE Y CINCO. De la pesqueria, y envio de perlas, y piedras de estimacion
+- TÍTULO VEINTE Y SEIS. De los obrajes
 
 ### LIBRO QUINTO
 - TÍTULO PRIMERO. De los terminos, division, y agregacion de la Governaciones
-- De los Governadores, Corregidores, Alcaldes mayores, y sus Tenientes, y Alguaziles
-- De los Alcaldes ordinarios
-- De los Provinciales, y Alcaldes de la Hermandad
-- De los Alcaldes, y Hermanos de la Mesta
-- De los Protomedicos, Medicos, Cirujanos, y Boticarios
-- De los Alguaziles mayores, y otros de las Ciudades
-- De los Escrivanos de Governacion, Cabildo, y Numero, Publicos, y Reales, y Notarios Eclesiasticos
-- De las competencias
-- De los pleytos, y sentencias
-- De las recusaciones
-- De las apelaciones, y suplicaciones
-- De la segunda suplicacion
-- De las entregas, y execuciones
-- De las residencias, y Iuezes, que las han de tomar
+- TÍTULO SEGUNDO. De los Governadores, Corregidores, Alcaldes mayores, y sus Tenientes, y Alguaziles
+- TÍTULO TERCERO. De los Alcaldes ordinarios
+- TÍTULO CUARTO. De los Provinciales, y Alcaldes de la Hermandad
+- TÍTULO QUINTO. De los Alcaldes, y Hermanos de la Mesta
+- TÍTULO SEXTO. De los Protomedicos, Medicos, Cirujanos, y Boticarios
+- TÍTULO SIETE. De los Alguaziles mayores, y otros de las Ciudades
+- TÍTULO OCHO. De los Escrivanos de Governacion, Cabildo, y Numero, Publicos, y Reales, y Notarios Eclesiasticos
+- TÍTULO NUEVE. De las competencias
+- TÍTULO DIEZ. De los pleytos, y sentencias
+- TÍTULO ONCE. De las recusaciones
+- TÍTULO DOCE. De las apelaciones, y suplicaciones
+- TÍTULO TRECE. De la segunda suplicacion
+- TÍTULO CATORCE. De las entregas, y execuciones
+- TÍTULO QUINCE. De las residencias, y Iuezes, que las han de tomar
 
 ### LIBRO SEXTO
 - TÍTULO PRIMERO. De los Indios
-- De la libertad de los Indios
-- De las Reducciones, y Pueblos de Indios
-- De las caxas de censos, y bienes de Comunidad, y su administracion
-- De los tributos, y tassas de los Indios
-- De los Protectores de Indios
-- De los Caciques
-- De los repartimientos, encomiendas, y pensiones de Indios, y calidades de los titulos
-- De los Encomenderos de Indios
-- De el buen tratamiento de los Indios
-- De la sucession de encomiendas, entretenimientos, y ayudas de costa
-- Del servicio personal
-- Del servicio en chacras, viñas, olivares, obrajes, ingenios, perlas, tambos, requas, carreterias, casas, ganados, y bogas
-- Del servicio en coca, y añir
-- Del servicio en minas
-- De los Indios de Chile
-- De los Indios de Tucuman, Paraguay, y Rio de la Plata
-- De los Sángleyes
-- De las confirmaciones de encomiendas, pensiones, rentas, y situaciones
+- TÍTULO SEGUNDO. De la libertad de los Indios
+- TÍTULO TERCERO. De las Reducciones, y Pueblos de Indios
+- TÍTULO CUARTO. De las caxas de censos, y bienes de Comunidad, y su administracion
+- TÍTULO QUINTO. De los tributos, y tassas de los Indios
+- TÍTULO SEXTO. De los Protectores de Indios
+- TÍTULO SIETE. De los Caciques
+- TÍTULO OCHO. De los repartimientos, encomiendas, y pensiones de Indios, y calidades de los titulos
+- TÍTULO NUEVE. De los Encomenderos de Indios
+- TÍTULO DIEZ. De el buen tratamiento de los Indios
+- TÍTULO ONCE. De la sucession de encomiendas, entretenimientos, y ayudas de costa
+- TÍTULO DOCE. Del servicio personal
+- TÍTULO TRECE. Del servicio en chacras, viñas, olivares, obrajes, ingenios, perlas, tambos, requas, carreterias, casas, ganados, y bogas
+- TÍTULO CATORCE. Del servicio en coca, y añir
+- TÍTULO QUINCE. Del servicio en minas
+- TÍTULO DIEZ Y SEIS. De los Indios de Chile
+- TÍTULO DIEZ Y SIETE. De los Indios de Tucuman, Paraguay, y Rio de la Plata
+- TÍTULO DIEZ Y OCHO. De los Sángleyes
+- TÍTULO DIEZ Y NUEVE. De las confirmaciones de encomiendas, pensiones, rentas, y situaciones
 
 ### LIBRO SEPTIMO
 - TÍTULO PRIMERO. De los Pesquisidores, y Iuezes de comission
-- De los juegos, y jugadores
-- De los casados, y desposados en España, que están ausentes de sus mugeres, y esposas
-- De los vagabundos, y Gitanos
-- De los Mulatos, Negros, Berberiscos, é hijos de Indios
-- De las Carceles, y Carceleros
-- De las visitas de Carcel
-- De los delitos, y penas, y su aplicacion
+- TÍTULO SEGUNDO. De los juegos, y jugadores
+- TÍTULO TERCERO. De los casados, y desposados en España, que están ausentes de sus mugeres, y esposas
+- TÍTULO CUARTO. De los vagabundos, y Gitanos
+- TÍTULO QUINTO. De los Mulatos, Negros, Berberiscos, é hijos de Indios
+- TÍTULO SEXTO. De las Carceles, y Carceleros
+- TÍTULO SIETE. De las visitas de Carcel
+- TÍTULO OCHO. De los delitos, y penas, y su aplicacion
 
 
 ### LIBRO OCTAVO
 - TÍTULO PRIMERO. De las Contadurias de Cuentas, y sus Ministros
-- De los Contadores de Cuentas, Resultas, y Ordenadores
-- De los Tribunales de Hazienda Real
-- De los Oficiales Reales, y Contadores de tributos, sus Tenientes, y Guardas mayores
-- De los Escrivanos de Minas, y Registros
-- De las Caxas Reales
-- De los Libros Reales
-- De la administracion de la Real hazienda
-- De los tributos de Indios, puestos en la Corona Real, y otros procedidos de vacantes de encomiendas
-- De los quintos Reales
-- De la administracion de minas, y remission del cobre á estos Reynos, y de las de alcrevite
-- De los tesoros, depositos, y rescates
-- De las alcavalas
-- De las Aduanas
-- De los almojarifazgos, y derechos Reales
-- De las avaluaciones, y afueros generales, y particulares
-- De los descaminos, extravios, y commissos
-- De los derechos de esclavos
-- De la media annata
-- De la venta de oficios
-- De la renunciacion de oficios
-- De las confirmaciones de oficios
-- De los estancos
-- De los novenos, y vacantes de Obispados
-- De las almonedas
-- De los salarios, ayudas de costa, entretenimientos, y quitaciones
-- De las situaciones
-- De las libranças
-- De las cuentas
-- Del envio de la Real hazienda
+- TÍTULO SEGUNDO. De los Contadores de Cuentas, Resultas, y Ordenadores
+- TÍTULO TERCERO. De los Tribunales de Hazienda Real
+- TÍTULO CUATRO. De los Oficiales Reales, y Contadores de tributos, sus Tenientes, y Guardas mayores
+- TÍTULO CINCO. De los Escrivanos de Minas, y Registros
+- TÍTULO SEIS. De las Caxas Reales
+- TÍTULO SIETE. De los Libros Reales
+- TÍTULO OCHO. De la administracion de la Real hazienda
+- TÍTULO NUEVE. De los tributos de Indios, puestos en la Corona Real, y otros procedidos de vacantes de encomiendas
+- TÍTULO DIEZ. De los quintos Reales
+- TÍTULO ONCE. De la administracion de minas, y remission del cobre á estos Reynos, y de las de alcrevite
+- TÍTULO DOCE. De los tesoros, depositos, y rescates
+- TÍTULO TRECE. De las alcavalas
+- TÍTULO CATORCE. De las Aduanas
+- TÍTULO QUINCE. De los almojarifazgos, y derechos Reales
+- TÍTULO DIEZ Y SEIS. De las avaluaciones, y afueros generales, y particulares
+- TÍTULO DIEZ Y SIETE. De los descaminos, extravios, y commissos
+- TÍTULO DIEZ Y OCHO. De los derechos de esclavos
+- TÍTULO DIEZ Y NUEVE. De la media annata
+- TÍTULO VEINTE. De la venta de oficios
+- TÍTULO VEINTE Y UNO. De la renunciacion de oficios
+- TÍTULO VEINTE Y DOS. De las confirmaciones de oficios
+- TÍTULO VEINTE Y TRES. De los estancos
+- TÍTULO VEINTE Y CUATRO. De los novenos, y vacantes de Obispados
+- TÍTULO VEINTE Y CINCO. De las almonedas
+- TÍTULO VEINTE Y SEIS. De los salarios, ayudas de costa, entretenimientos, y quitaciones
+- TÍTULO VEINTE Y SIETE. De las situaciones
+- TÍTULO VEINTE Y OCHO. De las libranças
+- TÍTULO VEINTE Y NUEVE. De las cuentas
+- TÍTULO TREINTA. Del envio de la Real hazienda
 
 ### LIBRO NONO
 - TÍTULO PRIMERO. De la Real Audiencia, y Casa de Contratacion, que reside en Sevilla
-- Del Presidente, y Iuezes de la Casa de Contratacion
-- De los Iuezes Letrados, Fiscal, Solicitador, y Relator de la Casa
-- Del Iuez Oficial, que reside en la Ciudad de Cadiz
-- Del Iuez Oficial, y Consul, que ván á los Puertos al despacho de flotas, y Armadas
-- Del Prior, y Consules, y Vniversidad de Cargadores á las Indias, de la Ciudad de Sevilla
-- Del Correo mayor de la Casa de Contratacion
-- De la Contaduria de Averias, y Contadores Diputados
-- De la contribucion, administracion, y cobrança de el derecho de Averia
-- De los Escrivanos de Camara, y otros Escrivanos, y Repartidor de la Casa de Contratacion de Sevilla
-- De los Alguaziles, Porteros, y otros Oficiales de la Casa
-- De la Carcel, Alcaide, y Carcelero de la Casa de Contratacion
-- De los Compradores de plata
-- De los bienes de difuntos en las Indias, y su administracion, y cuenta en la Casa de Contratacion de Sevilla
-- De los Generales, Almirantes, y Governadores de las flotas, y Armadas de la Carrera de Indias
-- De el Veedor, y Contador de la Armada, y flotas, y Oficial de el Veedor
-- Del Proveedor, y provision de las Armadas, y Flotas
-- De el Pagador de las Armadas, y Flotas
-- Del Tenedor de bastimentos de las Armadas, y Flotas
-- De el Escrivano mayor de Armadas, y Escrivanos de Naos, y de Raciones
-- De los Capitanes, Alferezes, Sargentos, y Soldados, y de las conductas, y aloxamientos
-- Del Capitan general de la Artilleria, Artilleros mayor, y otros de las Armadas, y Flotas, artilleria, armas, y municiones
-- De el Piloto mayor, y Cosmografos, y de los demás Pilotos de la Carrera de Indias, y Arraezes de Barcos de carga y su examen
-- De los Maestres de Plata, y Navios, y de Raciones, y Xarcia
-- De la Vniversidad de Mareante, y de los Marineros, y Pages de Navio
-- De los passageros, y licencias para ir á las Indias, y bolver á estos Reynos
-- De los estrangeros que passan á las Indias, y su composicion, y naturaleza, que en ellas pueden adquirir para tratar, y contratar
-- De los fabricadores, y Calafates, fabricas, y aderezo de los Navios, y su arqueamiento
-- De la xarcia
-- De las Armadas, y Flotas
-- Del aforamiento, y fletes
-- Del apresto de las Armadas, y Flotas
-- De los registros
-- De la carga, y descarga de los Navios
-- De la visita de Navios en estos Reynos, y en las Indias, y de los Guardas mayores, y otros
-- De la navegacion, y viage de las Armadas, y Flotas
-- De los Navios de aviso que se despachan á las Indias, y dellas á España
-- De los Navios arribados, derrotados, y perdidos
-- De los Asseguradores, riesgos, y seguros de la Carrera de Indias
-- De los Iuezes Oficiales de Registros de las Indias de Canaria
-- Del Comercio, y navegacion de las Islas de Canaria
-- De la navegacion, y comercio de las Islas de Barlovento, y Provincias adjacentes, y de las permissiones
-- De los Puertos
-- De las Armadas de el Mar del Sur
-- De la navegacion, y comercio de las Islas Filipinas, China, Nueva España, y Perú
-- De los Consulados de Lima y Mexico
+- TÍTULO SEGUNDO. Del Presidente, y Iuezes de la Casa de Contratacion
+- TÍTULO TERCERO. De los Iuezes Letrados, Fiscal, Solicitador, y Relator de la Casa
+- TÍTULO CUARTO. Del Iuez Oficial, que reside en la Ciudad de Cadiz
+- TÍTULO QUINTO. Del Iuez Oficial, y Consul, que ván á los Puertos al despacho de flotas, y Armadas
+- TÍTULO SEXTO. Del Prior, y Consules, y Vniversidad de Cargadores á las Indias, de la Ciudad de Sevilla
+- TÍTULO SIETE. Del Correo mayor de la Casa de Contratacion
+- TÍTULO OCHO. De la Contaduria de Averias, y Contadores Diputados
+- TÍTULO NUEVE. De la contribucion, administracion, y cobrança de el derecho de Averia
+- TÍTULO DIEZ. De los Escrivanos de Camara, y otros Escrivanos, y Repartidor de la Casa de Contratacion de Sevilla
+- TÍTULO ONCE. De los Alguaziles, Porteros, y otros Oficiales de la Casa
+- TÍTULO DOCE. De la Carcel, Alcaide, y Carcelero de la Casa de Contratacion
+- TÍTULO TRECE. De los Compradores de plata
+- TÍTULO CATORCE. De los bienes de difuntos en las Indias, y su administracion, y cuenta en la Casa de Contratacion de Sevilla
+- TÍTULO QUINCE. De los Generales, Almirantes, y Governadores de las flotas, y Armadas de la Carrera de Indias
+- TÍTULO DIEZ Y SEIS. De el Veedor, y Contador de la Armada, y flotas, y Oficial de el Veedor
+- TÍTULO DIEZ Y SIETE. Del Proveedor, y provision de las Armadas, y Flotas
+- TÍTULO DIEZ Y OCHO. De el Pagador de las Armadas, y Flotas
+- TÍTULO DIEZ Y NUEVE. Del Tenedor de bastimentos de las Armadas, y Flotas
+- TÍTULO VEINTE. De el Escrivano mayor de Armadas, y Escrivanos de Naos, y de Raciones
+- TÍTULO VEINTE Y UNO. De los Capitanes, Alferezes, Sargentos, y Soldados, y de las conductas, y aloxamientos
+- TÍTULO VEINTE Y DOS. Del Capitan general de la Artilleria, Artilleros mayor, y otros de las Armadas, y Flotas, artilleria, armas, y municiones
+- TÍTULO VEINTE Y TRES. De el Piloto mayor, y Cosmografos, y de los demás Pilotos de la Carrera de Indias, y Arraezes de Barcos de carga y su examen
+- TÍTULO VEINTE Y CUATRO. De los Maestres de Plata, y Navios, y de Raciones, y Xarcia
+- TÍTULO VEINTE Y CINCO. De la Vniversidad de Mareante, y de los Marineros, y Pages de Navio
+- TÍTULO VEINTE Y SEIS. De los passageros, y licencias para ir á las Indias, y bolver á estos Reynos
+- TÍTULO VEINTE Y SIETE. De los estrangeros que passan á las Indias, y su composicion, y naturaleza, que en ellas pueden adquirir para tratar, y contratar
+- TÍTULO VEINTE Y OCHO. De los fabricadores, y Calafates, fabricas, y aderezo de los Navios, y su arqueamiento
+- TÍTULO VEINTE Y NUEVE. De la xarcia
+- TÍTULO TREINTA. De las Armadas, y Flotas
+- TÍTULO TREINTA Y UNO. Del aforamiento, y fletes
+- TÍTULO TREINTA Y DOS. Del apresto de las Armadas, y Flotas
+- TÍTULO TREINTA Y TRES. De los registros
+- TÍTULO TREINTA Y CUATRO. De la carga, y descarga de los Navios
+- TÍTULO TREINTA Y CINCO. De la visita de Navios en estos Reynos, y en las Indias, y de los Guardas mayores, y otros
+- TÍTULO TREINTA Y SEIS. De la navegacion, y viage de las Armadas, y Flotas
+- TÍTULO TREINTA Y SIETE. De los Navios de aviso que se despachan á las Indias, y dellas á España
+- TÍTULO TREINTA Y OCHO. De los Navios arribados, derrotados, y perdidos
+- TÍTULO TREINTA Y NUEVE. De los Asseguradores, riesgos, y seguros de la Carrera de Indias
+- TÍTULO CUARENTA. De los Iuezes Oficiales de Registros de las Indias de Canaria
+- TÍTULO CUARENTA Y UNO. Del Comercio, y navegacion de las Islas de Canaria
+- TÍTULO CUARENTA Y DOS. De la navegacion, y comercio de las Islas de Barlovento, y Provincias adjacentes, y de las permissiones
+- TÍTULO CUARENTA Y TRES. De los Puertos
+- TÍTULO CUARENTA Y CUATRO. De las Armadas de el Mar del Sur
+- TÍTULO CUARENTA Y CINCO. De la navegacion, y comercio de las Islas Filipinas, China, Nueva España, y Perú
+- TÍTULO CUARENTA Y SEIS. De los Consulados de Lima y Mexico
 
 [Subir](#top)
 
