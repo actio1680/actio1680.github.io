@@ -48,7 +48,7 @@ Las siete partidas[^1]
 - Titulo XIII. Qual deue el pueblo ser en conoscer e en honrrar, e en guardar al Rey 
 - Titulo XIIII. Qual deue ser el pueblo en guardar el Rey, e su muger, e sus fijos, e los otros sus parientes, e en las dueñas, e en las doncellas, e en las otras mugeres que andan con ella 
 - Titulo XV. Qual deue ser el pueblo en guardar al rey en sus fijos 
-- Titulo XVI. Como el pueblo deue guardar al Rey en sus oficiales e en su corte, e a los que biuen en ella 
+- Titulo XVI. Como el pueblo deue guardar al Rey en sus officiales e en su corte, e a los que biuen en ella 
 - Titulo XVII. Qual deue el pueblo ser en guarda del rey en sus cosas muebles, e rayzes que pertenescen a el, para su mantenimiento
 - Titulo XVIII. Qual deue el pueblo ser, en guardar, e en bastecer, e en defender los castillos, e las fortalezas del Rey, e del Reyno 
 - Titulo XIX. Qual deue ser el pueblo, en guardar el Rey de sus enemigos 
@@ -74,7 +74,32 @@ Las siete partidas[^1]
 - Título IIII. De los juezes, e de las cosas que deuen fazer guardar 
 - Título V. De los personeros  
 - Título VI. De los abogados
-
+- Título VII. De los emplazamientos
+- Título VIII. De los assentamientos
+- Título IX. Quando deuen meter la cosa sobre que cotienden en mano del fiel.
+- Título X. Como se deuen començar los pleytos por demanda, e por respuesta
+- Título XI. De las juras que las partes fazen en los pletos, despues que son començados por demanda, e por respuesta
+- Título XII. De las preguntas que los juezes pueden fazer a las partes en juyzio, despues que el pleyto es començado por demanda, e por respuesta, a que llaman en latin, positiones
+- Título XIII. De las conoscencias, e de las respuestas que fazen las partes en juyzio a las demandas, e a las preguntas que son fechas en razon dellas
+- Título XIIII. De las prueuas, e de las sispechas que los omes aduzen en juyzio sobre las cosa negadas, e dubdosas
+- Título XV. De los plazos que deuen dar los judgadores a las partes en juyzio, para prouar sus intenciones
+- Título XVI. De los testigos
+- Título XVII. De los pesqueridores que han poderio de recebir prueuas por si de su officio, maguer las partes no se las aduxessen delante
+- Título XVIII. De las escrituras porque se prueuan los pleytos
+- Título XIX. De los escriuanos, e quatas maneras son dellos, e que pro nasce de su officio quando lo fazen lealmente
+- Título XX. De los sellos, de los selladores de la cancelleria
+- Título XXI. De los consejeros
+- Título XXII. De los juyzios que dan fin, e acabamiento a los pleytos
+- Título XXIII. De las alçadas que fazen las partes quando se tienen por agrauiadas de los juyzios que dan contra ellos 
+- Título XXIIII. Como los juyzios se pueden reuocar, e oyr de cabo, quando el Rey quisiere fazer merced a alguna de las partes, maguer non se auiesse alçado dellos
+- Título XXV. De como se pueden quebrantar los juyzios que fuessen dados contra los menores de veynte, e cinco años, o sus guardadores contra los menores de veynte, e cinco años, o sus guardadores, maguer non fuesse tomada alçada
+- Título XXVI. Como se puede desatar el juyzio que es dado por falsas cartas, o por falsas prueuas o contra ley
+- Título XXVII. Como los juyzios que son valederos deuen ser cumplidos, e quien los puede cumplir
+- Título XVIII. De las cosas en que ome puede auer señorio, e como lo puede ganar
+- Título XXIX. De los tiempos porque ome pierte las sus cosas, tambien muebles como rayzes
+- Título XXX. En quatas manera puede ome ganar possession e tenencia delas cosas
+- Título XXXI. De las seruidumbres que han vnas cosas en otras, e como se pueden poner
+- Título XXXII. De las lauores nueuas como se puede embargar que se non fagan, e de las viejas que se quieren caer como se han de fazer, e de todas otras lauores 
 
 
 #### Cuarta Partida
