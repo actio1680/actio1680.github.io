@@ -84,7 +84,7 @@ Tercera partida que fabla de la Iusticia, e como se ha de fazer ordenadamente en
 - Titulo XI. De las juras que las partes fazen en los pletos, despues que son començados por demanda, e por respuesta
 - Titulo XII. De las preguntas que los juezes pueden fazer a las partes en juyzio, despues que el pleyto es començado por demanda, e por respuesta, a que llaman en latin, positiones
 - Titulo XIII. De las conoscencias, e de las respuestas que fazen las partes en juyzio a las demandas, e a las preguntas que son fechas en razon dellas
-- Titulo XIIII. De las prueuas, e de las sispechas que los omes aduzen en juyzio sobre las cosa negadas, e dubdosas
+- Titulo XIIII. De las prueuas, e de las sospechas que los omes aduzen en juyzio sobre las cosa negadas, e dubdosas
 - Titulo XV. De los plazos que deuen dar los judgadores a las partes en juyzio, para prouar sus intenciones
 - Titulo XVI. De los testigos
 - Titulo XVII. De los pesqueridores que han poderio de recebir prueuas por si de su officio, maguer las partes no se las aduxessen delante
