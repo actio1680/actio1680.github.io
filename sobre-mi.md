@@ -18,5 +18,5 @@ Fue miembro del *[Centro de Estudios Urbano Sociales – CEURS UNMSM](https://ww
 - **2020***. Autor del Reporte. Cronología de un centro de abasto: La Cooperativa de Servicios Especiales “Mercado Ciudad de Dios” durante la Pandemia COVID-19 – San Juan de Miraflores, 2020.
 - ***2019***. Colaborador del Libro. El fenómeno del sicariato en el Perú. Estado situacional y experiencias del adolescente en conflicto con la Ley Penal sacionado por sicariato. Para INDAGA – Observatorio Nacional de Política Criminal del Ministerio de Justicia y Derechos Humanos.
 - ***2019***. Autor del Reporte. Una lectura sociológica de urbanismo táctico: El caso de “Redescubre Habich” en San Martín de Porres – 2017.
-
+ 
 
