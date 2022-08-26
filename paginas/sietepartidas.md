@@ -164,12 +164,61 @@ Aqui comiença la Sexta partida desde libro: que fabla de los testamentos, e de 
 - Titulo II. De como deuen ser abiertos los testamentos que son fechos en escrito en poridad
 - Titulo III. De como deuen ser establescidos los herederos en los testamentos
 - Titulo IIII. De las condiciones que pueden ser puestas quando establescen los herederos en los testamentos
-- Titulo V. 
+- Titulo V. De como pueden ser establecidos otros herederos en los testamentos, en logar de los que y fueren puestos primeramente, a que dizen en latin substitutos
+- Titulo VI. De como los herederos pueden auer plazo, para consejarse, si tomaran aquel heredamiento, en que fueron establescidos herederos o non: e como se deue fazer el inuentario. Otrosi como deue la muger guardada, despues de muerte de su marido, quando dizen quo finco preñada del
+- Titulo VII. De como e por que razones puede ome desheredar en su testamento a aquel que deue heredar sus bienes. E otrosi por que razones puede perder aquel que fuesse establescido por heredero en el maguer non lo desheredasse
+- Titulo VIII. De como puede quebrantar el testamento aquel que es deseredado en el a tuerto, a que dizen en latin querela in officiosi testamenti
+- Titulo IX. De las mandas que los omes fazen en sus testamentos
+- Titulo X. De los testamentarios que han de cumplir las mandas
+- Titulo XI. Como se puede menguar la manda, e fasta que quantia, a que dizen en latin falcidia, o debitum bonorum subsidium, o trebellianica
+- Titulo XII. De los escritos que fazen los omes a sus finamientos, a que llaman en latin codicillos
+- Titulo XIII. De las herencias que ome puede ganar razon de parentesco, quando el Señor della muere sin testamento
+- Titulo XIIII. De como deue ser entregada la tenencia o el Señorio de la heredad del finado al heredero, quier la demande por razon de testamento, o de parentesco
+- Titulo XV. De como deue ser partida la herencia entre los herederos, del pues que fueren entrega dos della. E otrosi de como se deuen amojonar las heredades, quando contienda aca esciesse sobre ellas en esta razon
+- Titulo XVI. De como deuen ser guardados los huerafanos, e los bienes que heredan despues de muerte de sus padres
+- Titulo XVII. De como deuen ser guardados los huerfanos, e los bienes que heredan despues de muerte de sus padres
+- Titulo XVIII. De las razones porque deuen ser sacados los huerfanos e sus bienes de mano de sus guardadores por razon de sospecha que que ayan contra ellos
+- Titulo XIX. Como deuen ser entregados los menores, si algun daño o menoscabo recibieron e sus bienes, por culpa de si mismo, o de aquellos que los tuuieren guarda
+
 
 #### SEPTIMA PARTIDA
+Aqui Comiença la setena partida deste nuestro libro, que fabla de todas las acusaciones, e maleficios que los omes fazen, e que pena merescen auer por ende. 
 
--
--
+- Titulo I. De las acusaciones que se fazen contra los malos fechos, e de los denunciamientos, e del oficio del judgador que ha a pesquerir los malos fechos
+- Titulo II. De las trayciones
+- Titulo III. De los rieptos
+- Titulo IIII. De las lides
+- Titulo V. De las cosas que fazen los omes, porque valen menos
+- Titulo VI. De los enfamados
+- Titulo VII. De las falsedades
+- Titulo VIII. De los omezillos
+- Titulo IX. De las deshonrras quier sean fechas, o dichas a los biuos, o contra los muertos, e de los famosos libellos
+- Titulo X. De las fuerças
+- Titulo XI. De los desafiamientos, e de tomar amistad
+- Titulo XII. De las Treguas, e de las seguranças, e de las pazes
+- Titulo XIII. De los robos
+- Titulo XIIII. De los furtos, e de los fieruos que los consejan, o los esfuerçan que fagan mal, e de los guardadores que fazen furto a los menores
+- Titulo XV. De los daños quelos omes, o las bestias fazen en las cosas de otro de qual natura quier que sean
+- Titulo XVI. De los engaños malos, e bueno, e de los baratadores
+- Titulo XVII. De los adulterios
+- Titulo XVIII. De los queyazen con sus parientas, o con sus cuñadas
+- Titullo XIX. De los que yazen con mugeres de orden , o con biude que biua hostamente en su casa, o con virgenes por falago, o por engaño non les faziendo fuerça
+- Titulo XX. De los fuerçan, o lleuan robadas las virgines, o las mugeres de orden, o las biudas que biuen honestamente 
+- Titulo XXI. De los que fazen pecado de luxuria contra natura
+- Titulo XXII. De los alcahuetes
+- Titulo XXIII. De los agoreros, e de los sorteros, e de los otros adeuinos, e de los fechizeros, e de los truhanes
+- Titulo XXIIII. De los judios
+- Titulo XXV. De los moros
+- Titulo XXVI. De los hereges
+- Titulo XXVII. De los desesperados que matan assi mismos, o a otros por algo que les dan, e de los bienes dellos
+- Titulo XXVIII. De los que denuestan a Dios, e a santa Maria, e a los otros santos
+- Titulo XXIX. De como deuen ser recabdados los presos 
+- Titulo XXX. De los tormentos
+- Titulo XXXI. De las penas
+- Titulo XXXII. De los perdones
+- Titulo XXXIII. Del significamiento de las palabras, e de las cosas dubdosas
+- Titulo XXXIIII. De las reglas del derecho
+
 
 
 [Subir](#Top)
