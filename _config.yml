@@ -18,7 +18,5 @@ sass:
 nav:
  - name: "Inicio"
    link: "/"
- - name: "Sobre Mí"
-   link: "/"
  - name: "Linkedin"
    link: "https://bit.ly/Linkedin-wab"
