@@ -3,23 +3,23 @@
 La Recopilación[^1]
 
 #### CONTENIDO
-**LIBRO PRIMERO**. De la Santa Fe Católica.
+- **LIBRO PRIMERO**. De la Santa Fe Católica.
 
-**LIBRO SEGUNDO**. De las Leyes, Provisiones, Cédulas, y Ordenanzas Reales.
+- **LIBRO SEGUNDO**. De las Leyes, Provisiones, Cédulas, y Ordenanzas Reales.
 
-**LIBRO TERCERO**. Del dominio, y jurisdiccion Real de las Indias.
+- **LIBRO TERCERO**. Del dominio, y jurisdiccion Real de las Indias.
 
-**LIBRO CUARTO**. De los descubrimientos.
+- **LIBRO CUARTO**. De los descubrimientos.
 
-**LIBRO QUINTO**. De los términos, division, y agregacion de la Gobernaciones.
+- **LIBRO QUINTO**. De los términos, division, y agregacion de la Gobernaciones.
 
-**LIBRO SEXTO**. De los Indios
+- **LIBRO SEXTO**. De los Indios
 
-**LIBRO SÉPTIMO**. De los Pesquisidores, y Jueces de comision.
+- **LIBRO SÉPTIMO**. De los Pesquisidores, y Jueces de comision.
 
-**LIBRO OCTAVO**. De las Contadurías de Cuentas, y sus Ministros.
+- **LIBRO OCTAVO**. De las Contadurías de Cuentas, y sus Ministros.
 
-**LIBRO NONO**. De la Real Audiencia, y Casa de Contratacion, que reside en Sevilla.
+- **LIBRO NONO**. De la Real Audiencia, y Casa de Contratacion, que reside en Sevilla.
 
 ---
 
