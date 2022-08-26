@@ -9,22 +9,21 @@ Las siete partidas[^1]
 
 **SEGUNDA PARTIDA**. Siguese la Segunda partida deste libro, que fabla de los Emperadores, e de los Reyes, e de los otros grandes Señores de la tierra, que la han de mantener en justicia, e verdad. 
 
-**TERCERA PARTIDA**
+**TERCERA PARTIDA**. Tercera partida que fabla de la Iusticia, e como se ha de fazer ordenadamente en cada logar, por palabra de Iuyzio, e por obra de fecho para desembargar los pleytos.
 
-**CUARTA PARTIDA**
+**CUARTA PARTIDA**. Aqvi comiença la qvarta partida qve fabla de los desposorios, e de los casamientos.
 
-**QUINTA PARTIDA**
+**QUINTA PARTIDA**. Aqui comiença la quinta Partida deste libro: que fabla de los emprestidos, e de las vendidas, e de las compras, de los cambios, e de todos los otros pleytos, e posturas que fazen los omes entre si, de qual natura quier que sean.
 
-**SEXTA PARTIDA**
+**SEXTA PARTIDA**. Aqui comiença la Sexta partida desde libro: que fabla de los testamentos, e de las herencias. 
 
-**SEPTIMA PARTIDA**
+**SEPTIMA PARTIDA**. Aqui Comiença la setena partida deste nuestro libro, que fabla de todas las acusaciones, e maleficios que los omes fazen, e que pena merescen auer por ende. 
 
 ---
 
 
 
 #### PRIMERA PARTIDA
-Aqui comiença la primera partida, que fabla de todas las cosas que pertenescen a la fe catholica, que faze al ome conoscer a Dios por creencia.
 
 - Titulo I. Que fabla de las leyes, e por quantas razones es este libro partido por titulos, e en que manera  
 - Titulo II. Del vso, e de la costumbre, e del fuero
@@ -52,7 +51,6 @@ Aqui comiença la primera partida, que fabla de todas las cosas que pertenescen 
 - Titulo XXIIII. De los Romeros, e de los pelegrinos 
 
 #### SEGUNDA PARTIDA 
-Siguese la Segunda partida deste libro, que fabla de los Emperadores, e de los Reyes, e de los otros grandes Señores de la tierra, que la han de mantener en justicia, e verdad. 
 
 - Titulo I. Que fabla de los Emperadores, e de los Reyes: e de los otros grandes señores 
 - Titulo II. Qual deue el Rey ser, en conocer e amar, e temer a Dios 
@@ -88,7 +86,6 @@ Siguese la Segunda partida deste libro, que fabla de los Emperadores, e de los R
 
 
 #### TERCERA PARTIDA
-Tercera partida que fabla de la Iusticia, e como se ha de fazer ordenadamente en cada logar, por palabra de Iuyzio, e por obra de fecho para desembargar los pleytos.
 
 - Titulo I. De la justicia 
 - Titulo II. Del demandador, e de las cosas que ha de catar ante que ponga la demanda
@@ -125,7 +122,6 @@ Tercera partida que fabla de la Iusticia, e como se ha de fazer ordenadamente en
 
 
 #### CUARTA PARTIDA
-Aqvi comiença la qvarta partida qve fabla de los desposorios, e de los casamientos.
 
 - Titulo I. De los desposorios
 - Titulo II. El qual fabla de los casamientos
@@ -157,7 +153,6 @@ Aqvi comiença la qvarta partida qve fabla de los desposorios, e de los casamien
 
 
 #### QUINTA PARTIDA
-Aqui comiença la quinta Partida deste libro: que fabla de los emprestidos, e de las vendidas, e de las compras, de los cambios, e de todos los otros pleytos, e posturas que fazen los omes entre si, de qual natura quier que sean.
 
 - Titulo I. Que fabla de los emprestidos
 - Titulo II. Del prestamo que dizen en latin Commodatum
@@ -177,7 +172,6 @@ Aqui comiença la quinta Partida deste libro: que fabla de los emprestidos, e de
 
 
 #### SEXTA PARTIDA
-Aqui comiença la Sexta partida desde libro: que fabla de los testamentos, e de las herencias. 
 
 - Titulo I. Que cosa es testamento
 - Titulo II. De como deuen ser abiertos los testamentos que son fechos en escrito en poridad
@@ -201,7 +195,6 @@ Aqui comiença la Sexta partida desde libro: que fabla de los testamentos, e de 
 
 
 #### SEPTIMA PARTIDA
-Aqui Comiença la setena partida deste nuestro libro, que fabla de todas las acusaciones, e maleficios que los omes fazen, e que pena merescen auer por ende. 
 
 - Titulo I. De las acusaciones que se fazen contra los malos fechos, e de los denunciamientos, e del oficio del judgador que ha a pesquerir los malos fechos
 - Titulo II. De las trayciones
