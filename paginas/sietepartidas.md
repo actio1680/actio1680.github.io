@@ -5,19 +5,19 @@ layout: default
 Las siete partidas[^1]
 
 #### CONTENIDO
-**PRIMERA PARTIDA**. Aqui comiença la primera partida, que fabla de todas las cosas que pertenescen a la fe catholica, que faze al ome conoscer a Dios por creencia.
+- **PRIMERA PARTIDA**. Aqui comiença la primera partida, que fabla de todas las cosas que pertenescen a la fe catholica, que faze al ome conoscer a Dios por creencia.
 
-**SEGUNDA PARTIDA**. Siguese la Segunda partida deste libro, que fabla de los Emperadores, e de los Reyes, e de los otros grandes Señores de la tierra, que la han de mantener en justicia, e verdad. 
+- **SEGUNDA PARTIDA**. Siguese la Segunda partida deste libro, que fabla de los Emperadores, e de los Reyes, e de los otros grandes Señores de la tierra, que la han de mantener en justicia, e verdad. 
 
-**TERCERA PARTIDA**. Tercera partida que fabla de la Iusticia, e como se ha de fazer ordenadamente en cada logar, por palabra de Iuyzio, e por obra de fecho para desembargar los pleytos.
+- **TERCERA PARTIDA**. Tercera partida que fabla de la Iusticia, e como se ha de fazer ordenadamente en cada logar, por palabra de Iuyzio, e por obra de fecho para desembargar los pleytos.
 
-**CUARTA PARTIDA**. Aqvi comiença la qvarta partida qve fabla de los desposorios, e de los casamientos.
+- **CUARTA PARTIDA**. Aqvi comiença la qvarta partida qve fabla de los desposorios, e de los casamientos.
 
-**QUINTA PARTIDA**. Aqui comiença la quinta Partida deste libro: que fabla de los emprestidos, e de las vendidas, e de las compras, de los cambios, e de todos los otros pleytos, e posturas que fazen los omes entre si, de qual natura quier que sean.
+- **QUINTA PARTIDA**. Aqui comiença la quinta Partida deste libro: que fabla de los emprestidos, e de las vendidas, e de las compras, de los cambios, e de todos los otros pleytos, e posturas que fazen los omes entre si, de qual natura quier que sean.
 
-**SEXTA PARTIDA**. Aqui comiença la Sexta partida desde libro: que fabla de los testamentos, e de las herencias. 
+- **SEXTA PARTIDA**. Aqui comiença la Sexta partida desde libro: que fabla de los testamentos, e de las herencias. 
 
-**SEPTIMA PARTIDA**. Aqui Comiença la setena partida deste nuestro libro, que fabla de todas las acusaciones, e maleficios que los omes fazen, e que pena merescen auer por ende. 
+- **SEPTIMA PARTIDA**. Aqui Comiença la setena partida deste nuestro libro, que fabla de todas las acusaciones, e maleficios que los omes fazen, e que pena merescen auer por ende. 
 
 ---
 
