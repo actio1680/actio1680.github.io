@@ -23,7 +23,8 @@ La Recopilación[^1]
 
 ---
 
-### LIBRO PRIMERO [^](#top)
+### LIBRO PRIMERO 
+[^](#top)
 - TÍTULO PRIMERO. De la Santa Fe Católica
 - TÍTULO SEGUNDO. De las Iglesias Catedrales, y Parroquiales y de sus erecciones y fundaciones
 - TÍTULO TERCERO. De los Monasterios de Religiosos y Religiosas, Hospicios, y Recogimientos de huérfanas
