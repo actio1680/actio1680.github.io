@@ -3,29 +3,27 @@
 La Recopilación[^1]
 
 #### CONTENIDO
-**LIBRO PRIMERO**
+**LIBRO PRIMERO**. De la Santa Fe Católica.
 
-**LIBRO SEGUNDO**
+**LIBRO SEGUNDO**. De las Leyes, Provisiones, Cédulas, y Ordenanzas Reales.
 
-**LIBRO TERCERO**
+**LIBRO TERCERO**. Del dominio, y jurisdiccion Real de las Indias.
 
-**LIBRO CUARTO**
+**LIBRO CUARTO**. De los descubrimientos.
 
-**LIBRO QUINTO**
+**LIBRO QUINTO**. De los términos, division, y agregacion de la Gobernaciones.
 
-**LIBRO SEXTO**
+**LIBRO SEXTO**. De los Indios
 
-**LIBRO SEPTIMO**
+**LIBRO SÉPTIMO**. De los Pesquisidores, y Jueces de comision.
 
-**LIBRO OCTAVO**
+**LIBRO OCTAVO**. De las Contadurías de Cuentas, y sus Ministros.
 
-**LIBRO NONO**
+**LIBRO NONO**. De la Real Audiencia, y Casa de Contratacion, que reside en Sevilla.
 
 ---
 
 ### LIBRO PRIMERO 
-
-[^](#top)
 
 - TÍTULO PRIMERO. De la Santa Fe Católica
 - TÍTULO SEGUNDO. De las Iglesias Catedrales, y Parroquiales y de sus erecciones y fundaciones
@@ -52,8 +50,8 @@ La Recopilación[^1]
 - TÍTULO VEINTE Y TRES. De los Colegios, y Seminarios
 - TÍTULO VEINTE Y CUATRO. De los Libros que se imprimen, y passan á las Indias
 
-### LIBRO SEGUNDO [^](#top)
-- TÍTULO PRIMERO. De las leyes, provisiones, cedulas, y ordenanças Reales
+### LIBRO SEGUNDO  
+- TÍTULO PRIMERO. De las Leyes, Provisiones, Cédulas, y Ordenanzas Reales
 - TÍTULO SEGUNDO. Del Consejo Real, y Iunta de Guerra de Indias
 - TÍTULO TERCERO. Del Presidente, y los del Consejo Real de las Indias
 - TÍTULO CUARTO. De el Gran Chanciller, y Registrador de las Indias, y su Teniente en el Consejo
@@ -88,8 +86,8 @@ La Recopilación[^1]
 - TÍTULO TREINTA Y TRES. De las informaciones, y pareceres de servicios.
 - TÍTULO TREINTA Y CUATRO. De los Visitadores generales, y particulares.
 
-### LIBRO TERCERO [^](#top)
-- TÍTULO PRIMERO. Del dominio, y jurisdicion Real de las Indias
+### LIBRO TERCERO  
+- TÍTULO PRIMERO. Del dominio, y jurisdiccion Real de las Indias
 - TÍTULO SEGUNDO. De la provision de oficios, gratificaciones, y mercedes
 - TÍTULO TERCERO. De los Virreyes, y Presidentes Governadores
 - TÍTULO CUARTO. De la guerra
@@ -107,7 +105,7 @@ La Recopilación[^1]
 - TÍTULO DIEZ Y SEIS. De las cartas, Correos, é Indios Chasquis
 
 
-### LIBRO CUARTO [^](#top)
+### LIBRO CUARTO  
 - TÍTULO PRIMERO. De los descubrimientos
 - TÍTULO SEGUNDO. De los descubrimientos por Mar
 - TÍTULO TERCERO. De los descubrimientos por Tierra
@@ -135,8 +133,8 @@ La Recopilación[^1]
 - TÍTULO VEINTE Y CINCO. De la pesqueria, y envio de perlas, y piedras de estimacion
 - TÍTULO VEINTE Y SEIS. De los obrajes
 
-### LIBRO QUINTO [^](#top)
-- TÍTULO PRIMERO. De los terminos, division, y agregacion de la Governaciones
+### LIBRO QUINTO  
+- TÍTULO PRIMERO. De los términos, division, y agregacion de la Gobernaciones
 - TÍTULO SEGUNDO. De los Governadores, Corregidores, Alcaldes mayores, y sus Tenientes, y Alguaziles
 - TÍTULO TERCERO. De los Alcaldes ordinarios
 - TÍTULO CUARTO. De los Provinciales, y Alcaldes de la Hermandad
@@ -152,7 +150,7 @@ La Recopilación[^1]
 - TÍTULO CATORCE. De las entregas, y execuciones
 - TÍTULO QUINCE. De las residencias, y Iuezes, que las han de tomar
 
-### LIBRO SEXTO [^](#top)
+### LIBRO SEXTO  
 - TÍTULO PRIMERO. De los Indios
 - TÍTULO SEGUNDO. De la libertad de los Indios
 - TÍTULO TERCERO. De las Reducciones, y Pueblos de Indios
@@ -173,8 +171,8 @@ La Recopilación[^1]
 - TÍTULO DIEZ Y OCHO. De los Sángleyes
 - TÍTULO DIEZ Y NUEVE. De las confirmaciones de encomiendas, pensiones, rentas, y situaciones
 
-### LIBRO SEPTIMO [^](#top)
-- TÍTULO PRIMERO. De los Pesquisidores, y Iuezes de comission
+### LIBRO SÉPTIMO  
+- TÍTULO PRIMERO. De los Pesquisidores, y Jueces de comision
 - TÍTULO SEGUNDO. De los juegos, y jugadores
 - TÍTULO TERCERO. De los casados, y desposados en España, que están ausentes de sus mugeres, y esposas
 - TÍTULO CUARTO. De los vagabundos, y Gitanos
@@ -184,8 +182,8 @@ La Recopilación[^1]
 - TÍTULO OCHO. De los delitos, y penas, y su aplicacion
 
 
-### LIBRO OCTAVO [^](#top)
-- TÍTULO PRIMERO. De las Contadurias de Cuentas, y sus Ministros
+### LIBRO OCTAVO  
+- TÍTULO PRIMERO. De las Contadurías de Cuentas, y sus Ministros
 - TÍTULO SEGUNDO. De los Contadores de Cuentas, Resultas, y Ordenadores
 - TÍTULO TERCERO. De los Tribunales de Hazienda Real
 - TÍTULO CUATRO. De los Oficiales Reales, y Contadores de tributos, sus Tenientes, y Guardas mayores
@@ -216,7 +214,7 @@ La Recopilación[^1]
 - TÍTULO VEINTE Y NUEVE. De las cuentas
 - TÍTULO TREINTA. Del envio de la Real hazienda
 
-### LIBRO NONO [^](#top)
+### LIBRO NONO  
 - TÍTULO PRIMERO. De la Real Audiencia, y Casa de Contratacion, que reside en Sevilla
 - TÍTULO SEGUNDO. Del Presidente, y Iuezes de la Casa de Contratacion
 - TÍTULO TERCERO. De los Iuezes Letrados, Fiscal, Solicitador, y Relator de la Casa
