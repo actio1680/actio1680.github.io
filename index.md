@@ -30,6 +30,10 @@ layout: default
 - [Cronología de los Códigos Civiles Iberoaméricanos](paginas/cronologiacc.md)
 
 
+### Derecho Procesal Civil en el Perú
+- [Código de Enjuiciamientos en Materia Civil del Perú 1852](paginas/cpcivil1852.md)
+
+
 ### Derecho Computacional en el Perú
 - [Introducción a las instituciones del Derecho Computacional](paginas/instituciones-derecho-computacional.md)
 
