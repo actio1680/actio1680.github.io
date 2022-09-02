@@ -5,6 +5,8 @@ layout: default
 
 Promulgado el 7 de marzo de 1505[^1]
 
+Ingresar al documento > [Repositorio](https://github.com/actio1680/Cuerpos-legales-Monarquia-Hispanica/tree/main/Leyes-de-Toro) 
+
 #### CONTENIDO[^2]
 
 **Ley 1**. Se designan los cuerpos legales que han de servir para la decisión de las causas, y el orden con que se ha de usar y recurrir á ellos, y la graduación que guardan entre sí.
@@ -94,6 +96,6 @@ Lo cual quiere la Ley se guarde y ejecute en todos los delitos de cualquiera cal
 --- 
 
 [^1]: A
-[^2]: Para la descripción del contenido se utilizó el libro *AAA* de Sancho de Llamas y Molina [Enlace](https://archive.org/details/BRes0021181/page/n19/mode/2up)
+[^2]: Para la descripción del contenido se utilizó el libro *Comentario crítico, jurídico, literal, a las ochenta y tres Leyes de Toro - Tomo 1* de Sancho de Llamas y Molina [Enlace](https://books.google.com.pe/books?id=In9jAAAAIAAJ)
 [^3]: Sancho de Llamas y Molina no realizó descripción de las Leyes 40 a la 46
 
