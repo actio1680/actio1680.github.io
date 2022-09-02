@@ -96,6 +96,6 @@ Lo cual quiere la Ley se guarde y ejecute en todos los delitos de cualquiera cal
 --- 
 
 [^1]: A
-[^2]: Para la descripción del contenido se utilizó el libro *Comentario crítico, jurídico, literal, a las ochenta y tres Leyes de Toro - Tomo 1* de Sancho de Llamas y Molina [Enlace](https://books.google.com.pe/books?id=In9jAAAAIAAJ)
+[^2]: Para la descripción del contenido se transcribió literalmente la *Descripción Breve* de Sancho de Llamas y Molina, incluido en su libro *Comentario crítico, jurídico, literal, a las ochenta y tres Leyes de Toro - Tomo 1* [Enlace](https://books.google.com.pe/books?id=In9jAAAAIAAJ)
 [^3]: Sancho de Llamas y Molina no realizó descripción de las Leyes 40 a la 46
 
