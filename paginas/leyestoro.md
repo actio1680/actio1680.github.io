@@ -3,7 +3,11 @@ layout: default
 ---
 ## LEYES DE TORO
 
-Promulgado el 7 de marzo de 1505[^1]
+Las Leyes de Toro se promulgaro el 7 de marzo de 1505, en las Cortes de Toro. Conformado por 83 leyes a pedido de los Reyes  Reyes Católicos, cuyo objetivo era establecer un orden de prelación entre los cuerpos legislativos de los Fueros, Las Siete Partidas y
+los vigentes Ordenamientos. Las Leyes tiene como base el Ordenamiento de Alcalá 1348[^1].
+
+La temática a regular para el **(1)Derecho Privado**: Nacimiento, forma vida y extinción de las relaciones de Derecho
+privado, Propiedad y Posesión *mayorazgos*, Derechos reales, derecho de familia y Derecho de sucesiones; **(2)Derecho penal**: Sujeto penal y delitos en particular y; **(3)Derecho procesal**: Inicio, fases del proceso y pruebas[^1].
 
 Ingresar al documento > [Repositorio](https://github.com/actio1680/Cuerpos-legales-Monarquia-Hispanica/tree/main/Leyes-de-Toro) 
 
@@ -95,7 +99,9 @@ Lo cual quiere la Ley se guarde y ejecute en todos los delitos de cualquiera cal
 
 --- 
 
-[^1]: A
-[^2]: Para la descripción del contenido se transcribió literalmente la *Descripción Breve* de Sancho de Llamas y Molina, incluido en su libro *Comentario crítico, jurídico, literal, a las ochenta y tres Leyes de Toro - Tomo 1* [Enlace](https://books.google.com.pe/books?id=In9jAAAAIAAJ)
+[^1]: Martínez, M (s/f). Historia del Derecho. Leyes de Toro. [Enlace](http://www.artic.ua.es/biblioteca/u85/documentos/1840.pdf)
+[^2]: Para la descripción del contenido se transcribió literalmente la *Descripción Breve* de Sancho de Llamas y Molina, incluido en su libro *Comentario crítico, jurídico, literal, a las ochenta y tres Leyes de Toro - Tomo 1*. [Enlace](https://books.google.com.pe/books?id=In9jAAAAIAAJ)
 [^3]: Sancho de Llamas y Molina no realizó descripción de las Leyes 40 a la 46
+[^4]: Pacheco, J. (1862). *Comentario histórico, crítico y jurídico á las leyes de Toro*. Tomo I. Imprenta y Fundición de Manuel Tello. [Enlace](https://archive.org/details/BRes0029541)
+[^5]: Pacheco, J. F. (1876). *Comentario histórico, crítico y jurídico á las leyes de Toro*. Tomo II. Imprenta y Fundición de Manuel Tello. [Enlace](https://archive.org/details/BRes0029542)
 
