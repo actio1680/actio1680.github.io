@@ -6,6 +6,8 @@ layout: default
 
 28 de julio 1852[^1]
 
+> Ver repositorio 
+
 ### DESCRIPCIÓN
 
 - **LIBRO PRIMERO**. De la jursdiccion: De las personas que la ejercen; y de las que intervienen en su ejercicio. 
