@@ -4,7 +4,7 @@ layout: default
 ## LAS SIETE PARTIDAS DEL REY DON ALFONSO EL SABIO
 Las siete partidas[^1]
 
-[> Ver repositorio](https://github.com/actio1680/Cuerpos-legales-Monarquia-Hispanica/tree/main/Recopilacion-leyes-indias-1680) (En Construcción)
+[> Ver repositorio](https://github.com/actio1680/Cuerpos-legales-Monarquia-Hispanica/tree/main/Recopilacion-leyes-indias-1680)
 
 #### DESCRIPCIÓN
 - **PRIMERA PARTIDA**. Aqui comiença la primera partida, que fabla de todas las cosas que pertenescen a la fe catholica, que faze al ome conoscer a Dios por creencia.
