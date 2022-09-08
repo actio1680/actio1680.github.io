@@ -6,10 +6,10 @@ layout: default
 Las Leyes de Toro se promulgaro el 7 de marzo de 1505, en las Cortes de Toro. Conformado por 83 leyes a pedido de los Reyes  Reyes Católicos, cuyo objetivo era establecer un orden de prelación entre los cuerpos legislativos de los Fueros, Las Siete Partidas y
 los vigentes Ordenamientos. Las Leyes tiene como base el Ordenamiento de Alcalá 1348[^1].
 
-La temática a regular para el **(1)Derecho privado**: Nacimiento, forma vida y extinción de las relaciones de Derecho
-privado, Propiedad y Posesión *mayorazgos*, Derechos reales, derecho de familia y Derecho de sucesiones; **(2)Derecho penal**: Sujeto penal y delitos en particular y; **(3)Derecho procesal**: Inicio, fases del proceso y pruebas[^1].
+La temática a regular para el **(1) Derecho privado**: Nacimiento, forma vida y extinción de las relaciones de Derecho
+privado, Propiedad y Posesión *mayorazgos*, Derechos reales, derecho de familia y Derecho de sucesiones; **(2) Derecho penal**: Sujeto penal y delitos en particular y; **(3) Derecho procesal**: Inicio, fases del proceso y pruebas[^1].
 
-Documento digital > [Repositorio](https://github.com/actio1680/Cuerpos-legales-Monarquia-Hispanica/tree/main/Leyes-de-Toro) 
+[> Ver repositorio](https://github.com/actio1680/Cuerpos-legales-Monarquia-Hispanica/tree/main/Leyes-de-Toro) 
 
 ### DESCRIPCIÓN[^2]
 
