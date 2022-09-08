@@ -6,7 +6,7 @@ layout: default
 
 28 de julio 1852[^1]
 
-#### CONTENIDO
+### DESCRIPCIÓN
 
 - **LIBRO PRIMERO**. De la jursdiccion: De las personas que la ejercen; y de las que intervienen en su ejercicio. 
 
@@ -15,9 +15,9 @@ layout: default
 - **LIBRO TERCERO**. De las ultimas instancias y de los recursos extraordinarios
 
 ---
+### ÍNDICE
 
-
-### LIBRO PRIMERO. De la jursdiccion: De las personas que la ejercen; y de las que intervienen en su ejercicio. 
+#### LIBRO PRIMERO. De la jursdiccion: De las personas que la ejercen; y de las que intervienen en su ejercicio. 
 #### SECCION PRIMERA. De la Jurisdiccion
 - Título 1. De la jurisdiccion y sus especies
 - Título 2. Del modo como se adquiere, se suspende, ó se pierde la jurisdiccion
@@ -42,7 +42,7 @@ layout: default
 - Título 7. De los peritos é intérpretes
 
 
-### LIBRO SEGUNDO. De las primeras instancias de los juicios civiles
+#### LIBRO SEGUNDO. De las primeras instancias de los juicios civiles
 #### SECCION PRIMERA. De las diligencias que se practican antes de los juicios o independientemente de ellos
 - Título 1. Nociones preliminares
 - Título 2. De la conciliacion
@@ -113,7 +113,7 @@ layout: default
 - Título 2. De la injusticia y nulidad de las sentencias
 - Título 3. De la restitucion por entero
 
-### LIBRO TERCERO. De las ultimas instancias y de los recursos extraordinarios
+#### LIBRO TERCERO. De las ultimas instancias y de los recursos extraordinarios
 #### SECCION PRIMERA. De las ultimas instancias
 - Título 1. De la apelacion ó segunda instancia
 - Título 2. De las súplicas ó terceras instancias
