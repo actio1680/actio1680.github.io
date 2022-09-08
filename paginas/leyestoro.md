@@ -9,7 +9,7 @@ los vigentes Ordenamientos. Las Leyes tiene como base el Ordenamiento de Alcalá
 La temática a regular para el **(1) Derecho privado**: Nacimiento, forma vida y extinción de las relaciones de Derecho
 privado, Propiedad y Posesión *mayorazgos*, Derechos reales, derecho de familia y Derecho de sucesiones; **(2) Derecho penal**: Sujeto penal y delitos en particular y; **(3) Derecho procesal**: Inicio, fases del proceso y pruebas[^1].
 
-[> Ver repositorio](https://github.com/actio1680/Cuerpos-legales-Monarquia-Hispanica/tree/main/Leyes-de-Toro) 
+[> Ver repositorio](https://github.com/actio1680/Cuerpos-legales-Monarquia-Hispanica/tree/main/Leyes-de-Toro-1505) 
 
 ### DESCRIPCIÓN[^2]
 
