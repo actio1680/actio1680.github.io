@@ -6,7 +6,7 @@ layout: default
 
 28 de julio 1852[^1]
 
-> Ver repositorio 
+[> Ver repositorio]
 
 ### DESCRIPCIÓN
 
