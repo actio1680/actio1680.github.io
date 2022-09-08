@@ -23,7 +23,7 @@ Las siete partidas[^1]
 
 
 
-#### PRIMERA PARTIDA
+### PRIMERA PARTIDA
 
 - Titulo I. Que fabla de las leyes, e por quantas razones es este libro partido por titulos, e en que manera  
 - Titulo II. Del vso, e de la costumbre, e del fuero
