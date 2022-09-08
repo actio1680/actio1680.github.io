@@ -1,10 +1,10 @@
 ---
 layout: default
 ---
-### LAS SIETE PARTIDAS DEL REY DON ALFONSO EL SABIO
+## LAS SIETE PARTIDAS DEL REY DON ALFONSO EL SABIO
 Las siete partidas[^1]
 
-### CONTENIDO
+#### DESCRIPCIÓN
 - **PRIMERA PARTIDA**. Aqui comiença la primera partida, que fabla de todas las cosas que pertenescen a la fe catholica, que faze al ome conoscer a Dios por creencia.
 
 - **SEGUNDA PARTIDA**. Siguese la Segunda partida deste libro, que fabla de los Emperadores, e de los Reyes, e de los otros grandes Señores de la tierra, que la han de mantener en justicia, e verdad. 
@@ -20,10 +20,8 @@ Las siete partidas[^1]
 - **SEPTIMA PARTIDA**. Aqui Comiença la setena partida deste nuestro libro, que fabla de todas las acusaciones, e maleficios que los omes fazen, e que pena merescen auer por ende. 
 
 ---
-
-
-
-### PRIMERA PARTIDA
+### ÍNDICE
+#### PRIMERA PARTIDA
 
 - Titulo I. Que fabla de las leyes, e por quantas razones es este libro partido por titulos, e en que manera  
 - Titulo II. Del vso, e de la costumbre, e del fuero
