@@ -33,6 +33,8 @@ layout: default
 ### Derecho Procesal Civil en el Perú
 - [Código de Enjuiciamientos en Materia Civil del Perú 1852](paginas/cpcivil1852.md)
 
+### Derecho Administrativo en el Perú
+- Recopilación de Normas que Administran los Bienes Inmuebles Estatales (Pronto)
 
 ### Derecho Computacional en el Perú
 - [Introducción a las instituciones del Derecho Computacional](paginas/instituciones-derecho-computacional.md)
