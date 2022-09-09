@@ -114,7 +114,7 @@ Las siete partidas[^1]
 - Titulo XXV. De como se pueden quebrantar los juyzios que fuessen dados contra los menores de veynte, e cinco años, o sus guardadores contra los menores de veynte, e cinco años, o sus guardadores, maguer non fuesse tomada alçada
 - Titulo XXVI. Como se puede desatar el juyzio que es dado por falsas cartas, o por falsas prueuas o contra ley
 - Titulo XXVII. Como los juyzios que son valederos deuen ser cumplidos, e quien los puede cumplir
-- Titulo XVIII. De las cosas en que ome puede auer señorio, e como lo puede ganar
+- Titulo XXVIII. De las cosas en que ome puede auer señorio, e como lo puede ganar
 - Titulo XXIX. De los tiempos porque ome pierte las sus cosas, tambien muebles como rayzes
 - Titulo XXX. En quatas manera puede ome ganar possession e tenencia delas cosas
 - Titulo XXXI. De las seruidumbres que han vnas cosas en otras, e como se pueden poner
