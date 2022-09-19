@@ -23,7 +23,7 @@ layout: default
 
 ## DOCUMENTOS
 ### Derecho Civil en el Perú
-- [Cronología de los Códigos Civiles Iberoaméricanos](paginas/cronologiacc.md)
+- [Cronología de los Códigos Civiles Iberoaméricanos](paginas/escritos/cronologiacc.md)
 - [Código Civil del Perú 1984](paginas/cc1984.md)
 - [Código Civil del Perú 1936](paginas/cc1936.md)
 - [Código Civil del Perú 1852](paginas/cc1852.md)
@@ -37,7 +37,7 @@ layout: default
 - Recopilación de Normas que Administran los Bienes Inmuebles Estatales (Pronto)
 
 ### Derecho Computacional en el Perú
-- [Introducción a las instituciones del Derecho Computacional](paginas/instituciones-derecho-computacional.md)
+- [Introducción a las instituciones del Derecho Computacional](paginas/escritos/instituciones-derecho-computacional.md)
 
 
 ### Derecho de la Monarquía Hispánica
