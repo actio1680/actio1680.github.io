@@ -23,11 +23,11 @@ layout: default
 
 ## DOCUMENTOS
 ### Derecho Civil en el Perú
+- [Cronología de los Códigos Civiles Iberoaméricanos](paginas/cronologiacc.md)
 - [Código Civil del Perú 1984](paginas/cc1984.md)
 - [Código Civil del Perú 1936](paginas/cc1936.md)
 - [Código Civil del Perú 1852](paginas/cc1852.md)
 - [Código Civil Santa-Cruz del Estado Nor-Peruano/Sud-Peruano 1836](paginas/cc1836.md)
-- [Cronología de los Códigos Civiles Iberoaméricanos](paginas/cronologiacc.md)
 
 
 ### Derecho Procesal Civil en el Perú
