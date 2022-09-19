@@ -41,9 +41,10 @@ layout: default
 
 
 ### Derecho de la Monarquía Hispánica
-- [Recopilación de Leyes de los Reynos de las Indias 1680](paginas/recopilacion1680)
-- [Siete Partidas del Rey Don Alfonso el Sabio [Versión 1555] ](paginas/sietepartidas)
-- [Leyes de Toro 1505](paginas/leyestoro)
+- [Apuntes para estudiar los cuerpos jurídicos hispánicos](paginas/escritos/manual-derecho-monarquia-hispanica.md)
+- [Recopilación de Leyes de los Reynos de las Indias 1680](paginas/recopilacion1680.md)
+- [Siete Partidas del Rey Don Alfonso el Sabio [Versión 1555] ](paginas/sietepartidas.md)
+- [Leyes de Toro 1505](paginas/leyestoro.md)
 
 
 
