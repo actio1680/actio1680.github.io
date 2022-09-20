@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## APUNTES PARA ESTUDIAR LOS CUERPOS JURÍDICOS HISPÁNICOS
+## APUNTES PARA ESTUDIAR LOS CUERPOS JURÍDICOS DE LA MONARQUÍA HISPÁNICA 
 En este breve escrito se mencionaran e indexarán los difirentes documentos (con acceso) que servirán para el estudios de los cuerpos jurídicos hispánicos. 
 
 ### Compendio del Derecho Público y Comun de España, ó de las Leyes de las Siete Partidas colocado en orden natural (1784)
