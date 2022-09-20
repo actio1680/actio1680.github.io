@@ -25,5 +25,5 @@ layout: default
 
 - [Introducción a las instituciones del Derecho Computacional](paginas/escritos/instituciones-derecho-computacional.md)
 - [Cronología de los Códigos Civiles Iberoaméricanos](paginas/escritos/cronologiacc.md)
-- [Apuntes para estudiar los cuerpos jurídicos de la Monarquía Hispánica](paginas/escritos/manual-derecho-monarquia-hispanica.md)
+- [Apuntes para estudiar los cuerpos jurídicos de la Monarquía Hispánica](paginas/escritos/apuntes-derecho-monarquia-hispanica.md)
 
