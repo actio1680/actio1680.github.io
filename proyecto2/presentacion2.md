@@ -55,7 +55,9 @@ El Proyecto busca referenciar los cuerpos legales principales, abrogados y vigen
 - [Siete Partidas del Rey Don Alfonso el Sabio [Versión 1555] ](/sietepartidas.md)
 - [Leyes de Toro 1505](/leyestoro.md)
 
-<div align="right">*San Juan de Miraflores, 1 de agosto de 2022*</div>
+<div align="right">
+<i>San Juan de Miraflores, 1 de agosto de 2022</i> (Última actualización)
+</div>
 
 [Subir](#top)
 
