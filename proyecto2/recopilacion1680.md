@@ -4,6 +4,8 @@ La Recopilación[^1]
 
 [> Ver repositorio](https://github.com/actio1680/Cuerpos-legales-Monarquia-Hispanica/tree/main/Recopilacion-leyes-indias-1680)
 
+[> Regresar al proyecto2](https://actio1680.github.io/proyecto2/presentacion2)
+
 ### DESCRIPCIÓN
 - **LIBRO PRIMERO**. De la Santa Fe Católica.
 
