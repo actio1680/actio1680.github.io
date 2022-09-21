@@ -81,6 +81,10 @@ Siguen la numeración de su propio Sector y se les identifica por la mención a 
  - **Decretos de Urgencia:** Son normas dictadas por el Poder Ejecutivo al amparo del inciso 19 del artículo 118 de la Constitución de 1993 que establece, el presidente de la República puede “Dictar medidas extraordinarias, mediante decretos de urgencia con fuerza de ley, en materia económica y financiera, cuando así lo requiere el interés nacional y con cargo de dar cuenta al Congreso. El Congreso puede modificar o derogar los referidos decretos de urgencia.”
 Tienen numeración propia consistente en un número cardinal y el año de expedición separados por un guion.
 
+<div align="right">
+<i>San Juan de Miraflores, 1 de agosto de 2022</i><br>
+(Última actualización)
+</div>
 
 [Subir](#top)
 
