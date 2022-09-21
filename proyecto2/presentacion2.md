@@ -53,6 +53,9 @@ Cada enlace direcciona a una página que describe el cuerpo legal específico; y
 - [Leyes de Toro 1505](paginas/leyestoro)
 
 
+[Subir](#top)
+
+
 [^1]: Revoredo de DeBakey, D. (1985). *Código civil. Antecedentes legislativos, comparación con el Código de 1936*. T.1, parte I. Artes Gráficas de la Industria Avanzada.
 [^2]: Revoredo de DeBakey, D. (1985). *Código civil. Antecedentes legislativos, comparación con el Código de 1936*. T.2, parte I. Artes Gráficas de la Industria Avanzada.
 [^3]: Revoredo de DeBakey, D. (1985). *Código civil. Concordancias, indices comparativos*. T.3, parte II. Artes Gráficas de la Industria Avanzada.
