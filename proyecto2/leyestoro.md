@@ -11,6 +11,8 @@ privado, Propiedad y Posesión *mayorazgos*, Derechos reales, derecho de familia
 
 [> Ver repositorio](https://github.com/actio1680/Cuerpos-legales-Monarquia-Hispanica/tree/main/Leyes-de-Toro-1505) 
 
+[> Regresar al proyecto2](https://actio1680.github.io/proyecto2/presentacion2)
+
 ### DESCRIPCIÓN[^2]
 
 **LEY 1**. Se designan los cuerpos legales que han de servir para la decisión de las causas, y el orden con que se ha de usar y recurrir á ellos, y la graduación que guardan entre sí.
