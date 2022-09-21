@@ -5,6 +5,15 @@ layout: default
 ## BASE DE DATOS DE LAS NORMAS LEGISLATIVAS DEL PERÚ 1904-2021
 PROYECTO 1 > [REPOSITORIO](https://github.com/actio1680/Normas-legislativas-Peru-1904-2021)
 
+#### CONTENIDO
+**1. DESCRIPCIÓN DE LA BASE DE DATOS**
+
+**2. ARCHIVO CSV Y HTML**
+
+**3. DESCRIPCIÓN DE LAS NORMAS LEGISLATIVAS**
+
+---
+
 ### 1. DESCRIPCIÓN DE LA BASE DE DATOS
 El listado de normas legislativas del Perú es una sistematización fuera de línea -offline- del [Archivo Digital de la Legislación del Perú](https://www.leyes.congreso.gob.pe/). El archivo principal está sistematizado en una base de datos de formato CSV.
 
@@ -32,20 +41,20 @@ La característica Enlace contiene en enlace que dirige al almacenamiento virtua
 
  ![CSV](https://user-images.githubusercontent.com/54146735/147511880-1feff51b-61b3-4601-b608-0f3b92fda8a3.PNG)
 
-[Descargar CSV](https://github.com/actio1680/Normas-legislativas-Peru-1904-2021/blob/main/Archivos/Normas_legislativas_27-12-21.csv)
+[> Descargar CSV](https://github.com/actio1680/Normas-legislativas-Peru-1904-2021/blob/main/Archivos/Normas_legislativas_27-12-21.csv)
 
  - **ARCHIVO HTML:** Está elaborado para tener una visualización directa y rápida del contenido. El cual no contiene las categorías de "promulgación" y "enlace", ni las actualizaciones de la base de datos CSV.
 
 
  ![HTML](https://user-images.githubusercontent.com/54146735/147512017-4ed75eee-20dd-47a7-b78d-4c22db04963e.PNG)
 
-[Descargar HTML](https://github.com/actio1680/Normas-legislativas-Peru-1904-2021/blob/main/Archivos/Normas_legislativas_27-12-21.html)
+[> Descargar HTML](https://github.com/actio1680/Normas-legislativas-Peru-1904-2021/blob/main/Archivos/Normas_legislativas_27-12-21.html)
 
 ### 3. DESCRIPCIÓN DE LAS NORMAS LEGISLATIVAS
 
 El proceso de independencia de 1821 transformo la Monarquía Hispánica a una República Democrática, la República del Perú. La legislación desde el inicio de la república hasta octubre de 1904 se identifica por la fecha de promulgación. Y desde octubre de 1904 hasta la actualidad las normas se numeran.
 
-En la *Guía de Usuario del Archivo Digital de la Legislación del Perú* se encuentra la descripción editada y literal sobre las diferentes normas, entre las seleccionadas para este apartado tenemos: Ley, Resoluciones Legislativas, Leyes Regionales, Decretos Leyes, Decretos Supremos, Decretos Supremos Extraordinarios, Decretos Legislativos y Decretos de Urgencia.
+En la *Guía de Usuario del Archivo Digital de la Legislación del Perú*[^1] se encuentra la descripción editada y literal sobre las diferentes normas, entre las seleccionadas para este apartado tenemos: Ley, Resoluciones Legislativas, Leyes Regionales, Decretos Leyes, Decretos Supremos, Decretos Supremos Extraordinarios, Decretos Legislativos y Decretos de Urgencia.
 
 Los tipos de normas han cambiado según la autoridad que las emite, el tipo de gobierno y la situación política. Por otro lado, al abordar un periodo de más de 100 años, es inevitable que la descripción sea fiel a la regulación vigente de cada época, por tal motivo estas descripciones tienen que tomarse con carácter aproximativo e histórico.
 
@@ -70,10 +79,12 @@ Siguen la numeración de su propio Sector y se les identifica por la mención a 
  - **Decretos Legislativos:** Son normas de carácter general dictadas por el Poder Ejecutivo en el ejercicio de facultades delegadas por el Poder Legislativo en amparo del artículo 104 de la Constitución de 1993. Cuentan con numeración propia.
 
  - **Decretos de Urgencia:** Son normas dictadas por el Poder Ejecutivo al amparo del inciso 19 del artículo 118 de la Constitución de 1993 que establece, el presidente de la República puede “Dictar medidas extraordinarias, mediante decretos de urgencia con fuerza de ley, en materia económica y financiera, cuando así lo requiere el interés nacional y con cargo de dar cuenta al Congreso. El Congreso puede modificar o derogar los referidos decretos de urgencia.”
- Tienen numeración propia consistente en un número cardinal y el año de expedición separados por un guion.
+Tienen numeración propia consistente en un número cardinal y el año de expedición separados por un guion.
 
-### 4. REFERENCIA
-
- - Congreso del Perú. (s.f.). *Archivo Digital de la Legislación del Perú. Guía de Usuario*. [Enlace](https://www.leyes.congreso.gob.pe/documentos/Guia-Usuario.pdf)
 
 [Subir](#top)
+
+---
+
+[^1]: Congreso del Perú. (s.f.). *Archivo Digital de la Legislación del Perú. Guía de Usuario*. [Enlace](https://www.leyes.congreso.gob.pe/documentos/Guia-Usuario.pdf)
+
