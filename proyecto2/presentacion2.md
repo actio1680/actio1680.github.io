@@ -33,7 +33,7 @@ Se utilizó el formato **Markdown**.
 Cada enlace direcciona a una página que describe el cuerpo legal específico; y como los repositorios respectivos en donde se encuentra el material digitalizado.
 
 
-### 3. DOCUMENTOS
+### 4. DOCUMENTOS
 
 #### Derecho Civil en el Perú
 - [Código Civil del Perú 1984](/cc1984.md)
