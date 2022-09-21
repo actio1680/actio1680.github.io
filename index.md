@@ -2,18 +2,18 @@
 layout: default
 ---
 
-## INTRODUCCIÓN
+### INTRODUCCIÓN
 
 ¡Hola! soy William ... y [Actio1680](https://github.com/actio1680) es un repositorio de proyectos en sociología y derecho. 
 
 <!-- <img class="profile-picture" src="codefavicon.png"> -->
 
-## PROYECTOS
+### PROYECTOS
 
-### Digitalización de los cuerpos legales del Perú: Virreinato y República
+#### Digitalización de los cuerpos legales del Perú: Virreinato y República
 - **Publicación:** Agosto, 2022
 - **Descripción:** El Proyecto busca referenciar los cuerpos legales principales, abrogados y vigentes, que fueron parte de la historia jurídica del Perú. El Perú durante el virrenaito tuvo vigente los cuerpos legales dispuestos por la Monarquía Hispánica, asi como, los promulgados por la autoridad américana. Mientras que, en la república...
-- **Enlace:** [Proyecto2](+proyecto2/presentacion2.md)
+- **Enlace:** [Proyecto2](proyecto2/presentacion2.md)
 
 ### Base de datos de las Normas Legislativas del Perú 1904-2021
 - **Publicación:** Diciembre, 2021
@@ -21,7 +21,7 @@ layout: default
 - **Enlace:** [Proyecto1](proyecto1/presentacion1.md)
 
 
-## ESCRITOS
+### ESCRITOS
 
 - [Introducción a las instituciones del Derecho Computacional](escritos/instituciones-derecho-computacional.md)
 - [Cronología de los Códigos Civiles Iberoaméricanos](escritos/cronologiacc.md)
