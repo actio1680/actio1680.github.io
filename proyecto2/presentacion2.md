@@ -48,9 +48,9 @@ Cada enlace direcciona a una página que describe el cuerpo legal específico; y
 - Recopilación de Normas que Administran los Bienes Inmuebles Estatales (Pronto)
 
 #### Derecho de la Monarquía Hispánica
-- [Recopilación de Leyes de los Reynos de las Indias 1680](/recopilacion1680)
-- [Siete Partidas del Rey Don Alfonso el Sabio [Versión 1555] ](/sietepartidas)
-- [Leyes de Toro 1505](/leyestoro)
+- [Recopilación de Leyes de los Reynos de las Indias 1680](/recopilacion1680.md)
+- [Siete Partidas del Rey Don Alfonso el Sabio [Versión 1555] ](/sietepartidas.md)
+- [Leyes de Toro 1505](/leyestoro.md)
 
 
 [Subir](#top)
