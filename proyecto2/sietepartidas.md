@@ -6,6 +6,8 @@ Las siete partidas[^1]
 
 [> Ver repositorio](https://github.com/actio1680/Cuerpos-legales-Monarquia-Hispanica/tree/main/Siete-partidas-1555)
 
+[> Regresar al proyecto2](https://actio1680.github.io/proyecto2/presentacion2)
+
 #### DESCRIPCIÓN
 - **PRIMERA PARTIDA**. Aqui comiença la primera partida, que fabla de todas las cosas que pertenescen a la fe catholica, que faze al ome conoscer a Dios por creencia.
 
