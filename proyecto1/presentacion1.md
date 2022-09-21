@@ -82,7 +82,7 @@ Siguen la numeración de su propio Sector y se les identifica por la mención a 
 Tienen numeración propia consistente en un número cardinal y el año de expedición separados por un guion.
 
 <div align="right">
-<i>San Juan de Miraflores, 1 de agosto de 2022</i><br>
+<i>San Juan de Miraflores, 1 de diciembre de 2021</i><br>
 (Última actualización)
 </div>
 
