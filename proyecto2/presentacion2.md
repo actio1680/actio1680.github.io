@@ -36,25 +36,24 @@ Cada enlace direcciona a una página que describe el cuerpo legal específico; y
 ### 3. DOCUMENTOS
 
 #### Derecho Civil en el Perú
-- [Código Civil del Perú 1984](proyecto2/cc1984.md)
-- [Código Civil del Perú 1936](proyecto2/cc1936.md)
-- [Código Civil del Perú 1852](proyecto2/cc1852.md)
-- [Código Civil Santa-Cruz del Estado Nor-Peruano/Sud-Peruano 1836](proyecto/cc1836.md)
+- [Código Civil del Perú 1984](/cc1984.md)
+- [Código Civil del Perú 1936](/cc1936.md)
+- [Código Civil del Perú 1852](/cc1852.md)
+- [Código Civil Santa-Cruz del Estado Nor-Peruano/Sud-Peruano 1836](/cc1836.md)
 
 #### Derecho Procesal Civil en el Perú
-- [Código de Enjuiciamientos en Materia Civil del Perú 1852](proyecto2/cpcivil1852.md)
+- [Código de Enjuiciamientos en Materia Civil del Perú 1852](/cpcivil1852.md)
 
 #### Derecho Administrativo en el Perú
 - Recopilación de Normas que Administran los Bienes Inmuebles Estatales (Pronto)
 
 #### Derecho de la Monarquía Hispánica
-- [Recopilación de Leyes de los Reynos de las Indias 1680](proyecto2/recopilacion1680)
-- [Siete Partidas del Rey Don Alfonso el Sabio [Versión 1555] ](proyecto2/sietepartidas)
-- [Leyes de Toro 1505](proyecto2/leyestoro)
+- [Recopilación de Leyes de los Reynos de las Indias 1680](/recopilacion1680)
+- [Siete Partidas del Rey Don Alfonso el Sabio [Versión 1555] ](/sietepartidas)
+- [Leyes de Toro 1505](/leyestoro)
 
 
 [Subir](#top)
-
 
 
 [^1]: Revoredo de DeBakey, D. (1985). *Código civil. Antecedentes legislativos, comparación con el Código de 1936*. T.1, parte I. Artes Gráficas de la Industria Avanzada.
