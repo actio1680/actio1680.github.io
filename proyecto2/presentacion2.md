@@ -36,21 +36,21 @@ Cada enlace direcciona a una página que describe el cuerpo legal específico; y
 ### 3. DOCUMENTOS
 
 #### Derecho Civil en el Perú
-- [Código Civil del Perú 1984](paginas/cc1984.md)
-- [Código Civil del Perú 1936](paginas/cc1936.md)
-- [Código Civil del Perú 1852](paginas/cc1852.md)
-- [Código Civil Santa-Cruz del Estado Nor-Peruano/Sud-Peruano 1836](paginas/cc1836.md)
+- [Código Civil del Perú 1984](proyecto2/cc1984.md)
+- [Código Civil del Perú 1936](proyecto2/cc1936.md)
+- [Código Civil del Perú 1852](proyecto2/cc1852.md)
+- [Código Civil Santa-Cruz del Estado Nor-Peruano/Sud-Peruano 1836](proyecto/cc1836.md)
 
 #### Derecho Procesal Civil en el Perú
-- [Código de Enjuiciamientos en Materia Civil del Perú 1852](paginas/cpcivil1852.md)
+- [Código de Enjuiciamientos en Materia Civil del Perú 1852](proyecto2/cpcivil1852.md)
 
 #### Derecho Administrativo en el Perú
 - Recopilación de Normas que Administran los Bienes Inmuebles Estatales (Pronto)
 
 #### Derecho de la Monarquía Hispánica
-- [Recopilación de Leyes de los Reynos de las Indias 1680](paginas/recopilacion1680)
-- [Siete Partidas del Rey Don Alfonso el Sabio [Versión 1555] ](paginas/sietepartidas)
-- [Leyes de Toro 1505](paginas/leyestoro)
+- [Recopilación de Leyes de los Reynos de las Indias 1680](proyecto2/recopilacion1680)
+- [Siete Partidas del Rey Don Alfonso el Sabio [Versión 1555] ](proyecto2/sietepartidas)
+- [Leyes de Toro 1505](proyecto2/leyestoro)
 
 
 [Subir](#top)
