@@ -2,7 +2,10 @@
 layout: default
 ---
 ## DIGITALIZACIÓN DE LOS CUERPOS LEGALES DEL PERÚ: VIRREINATO Y REPÚBLICA
-*San Juan de Miraflores, 1 de septiembre de 2022* (Última actualización)
+<div align="right">
+*San Juan de Miraflores, 1 de agosto de 2022* 
+
+(Última actualización)</div>
 
 #### CONTENIDO
 **1. ANTECEDENTES**
@@ -31,7 +34,7 @@ El Proyecto busca referenciar los cuerpos legales principales, abrogados y vigen
 
 - **Las modificaciones de los cuerpos legales**. El objetivo es que al menos el estudiante tenga en un solo sitio web los cuerpos legales para la consulta académica y uso técnico. Así como los cambios internos que han sufrido los diferentes documentos hasta el momento de su derogación. Por ello, los documentos presentarán como estos han sido modificados de manera interna, pero primero se colocará su primera versión promulgada; para luego ir agregando las reformas progresivamente. 
 
--**Nota:**. Se pensó como parte del proyecto agregar las concordancias para los cuerpos legales post-codificación -Perú republicano-, así lograr tener Códigos autorreferenciados; sin embargo, por la magnitud y recursos con los que se cuenta, esto fue parcialmente descartado, aún así, no se excluye totalmente que en un futuro puedan agregarse tales concordancias. 
+- **Nota:**. Se pensó como parte del proyecto agregar las concordancias para los cuerpos legales post-codificación -Perú republicano-, así lograr tener Códigos autorreferenciados; sin embargo, por la magnitud y recursos con los que se cuenta, esto fue parcialmente descartado, aún así, no se excluye totalmente que en un futuro puedan agregarse tales concordancias. 
 
 ### 3. DOCUMENTOS
 
@@ -52,7 +55,7 @@ El Proyecto busca referenciar los cuerpos legales principales, abrogados y vigen
 - [Siete Partidas del Rey Don Alfonso el Sabio [Versión 1555] ](/sietepartidas.md)
 - [Leyes de Toro 1505](/leyestoro.md)
 
-*San Juan de Miraflores, 1 de agosto de 2022*
+<div align="right">*San Juan de Miraflores, 1 de agosto de 2022*</div>
 
 [Subir](#top)
 
