@@ -2,10 +2,6 @@
 layout: default
 ---
 ## DIGITALIZACIÓN DE LOS CUERPOS LEGALES DEL PERÚ: VIRREINATO Y REPÚBLICA
-<div align="right">
-<i>San Juan de Miraflores, 1 de agosto de 2022</i><br>
-(Última actualización)
-</div>
 
 #### CONTENIDO
 **1. ANTECEDENTES**
@@ -56,7 +52,8 @@ El Proyecto busca referenciar los cuerpos legales principales, abrogados y vigen
 - [Leyes de Toro 1505](/leyestoro.md)
 
 <div align="right">
-<i>San Juan de Miraflores, 1 de agosto de 2022</i> (Última actualización)
+<i>San Juan de Miraflores, 1 de agosto de 2022</i><br>
+(Última actualización)
 </div>
 
 [Subir](#top)
