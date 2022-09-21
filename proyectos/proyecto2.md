@@ -2,6 +2,7 @@
 layout: default
 ---
 ## DIGITALIZACIÓN DE LOS CUERPOS LEGALES DEL PERÚ: VIRREINATO Y REPÚBLICA
+
 #### CONTENIDO
 **1. ANTECEDENTES**
 
@@ -10,8 +11,6 @@ layout: default
 **3. REGLAS DE USO**
 
 **4. DOCUMENTOS**
-
-**5. REFERENCIAS**
 
 ---
 
@@ -49,12 +48,10 @@ Cada enlace direcciona a una página que describe el cuerpo legal específico; y
 - Recopilación de Normas que Administran los Bienes Inmuebles Estatales (Pronto)
 
 #### Derecho de la Monarquía Hispánica
-- [Recopilación de Leyes de los Reynos de las Indias 1680](paginas/recopilacion1680.md)
-- [Siete Partidas del Rey Don Alfonso el Sabio [Versión 1555] ](paginas/sietepartidas.md)
-- [Leyes de Toro 1505](paginas/leyestoro.md)
+- [Recopilación de Leyes de los Reynos de las Indias 1680](paginas/recopilacion1680)
+- [Siete Partidas del Rey Don Alfonso el Sabio [Versión 1555] ](paginas/sietepartidas)
+- [Leyes de Toro 1505](paginas/leyestoro)
 
-
-### 4. REFERENCIAS
 
 [^1]: Revoredo de DeBakey, D. (1985). *Código civil. Antecedentes legislativos, comparación con el Código de 1936*. T.1, parte I. Artes Gráficas de la Industria Avanzada.
 [^2]: Revoredo de DeBakey, D. (1985). *Código civil. Antecedentes legislativos, comparación con el Código de 1936*. T.2, parte I. Artes Gráficas de la Industria Avanzada.
