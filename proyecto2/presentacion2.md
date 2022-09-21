@@ -3,9 +3,10 @@ layout: default
 ---
 ## DIGITALIZACIÓN DE LOS CUERPOS LEGALES DEL PERÚ: VIRREINATO Y REPÚBLICA
 <div align="right">
-*San Juan de Miraflores, 1 de agosto de 2022* 
+<i>San Juan de Miraflores, 1 de agosto de 2022</i>
 
-(Última actualización)</div>
+(Última actualización)
+</div>
 
 #### CONTENIDO
 **1. ANTECEDENTES**
