@@ -11,7 +11,7 @@ layout: default
 ## PROYECTOS
 ### Digitalización de los cuerpos legales del Perú: Virreinato y República
 - **Publicación:** Agosto, 2022
-- **Descripción:** El Proyecto busca referenciar los cuerpos legales principales, abrogados y vigentes, que fueron parte de la historia jurídica del Perú. El Virreinato y la República son dos etapas de una sociedad en constante cambio, y como tal, son un *continuum*, por ello, para este trabajo (que se desarrolla de manera progresiva) se ha previsto considerar los principales cuerpos legales y recopilaciones temáticas, según las necesidades más inmediatas del autor. Existen dos tipos de almacenes: **1)** la carpeta que contiene las páginas de presentación de los diferentes cuerpos legales del proyecto, y **2)** los repositorios en donde se ubican los documentos jurídicos.
+- **Descripción:** El Proyecto busca referenciar los cuerpos legales principales, abrogados y vigentes, que fueron parte de la historia jurídica del Perú. El Virreinato y la República son dos etapas de una sociedad en constante cambio, y como tal, son un *continuum*, por ello, para este trabajo (que se desarrolla de manera progresiva) se ha previsto considerar los principales cuerpos legales y recopilaciones temáticas, según las necesidades más inmediatas del autor. Existen dos tipos de almacenes: **1)** la carpeta que contiene las páginas de presentación de los diferentes cuerpos legales del proyecto, y **2)** los repositorios en donde se ubican los documentos jurídicos. 
 - **Enlace:** [Proyecto2](proyecto2/presentacion2.md)
 
 ### Base de datos de las Normas Legislativas del Perú 1904-2021
