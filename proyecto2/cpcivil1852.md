@@ -6,7 +6,7 @@ layout: default
 
 28 de julio 1852[^1]
 
-[> Ver repositorio]
+[> Ver repositorio](https://github.com/actio1680/Cuerpos-legales-Peru/tree/main/Codigo-Procesal-Civil/1852)
 
 [> Regresar al proyecto2](https://actio1680.github.io/proyecto2/presentacion2)
 
