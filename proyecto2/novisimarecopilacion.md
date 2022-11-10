@@ -65,7 +65,7 @@ La novísima recopilación[^1]
 - Título XXI. De las testamentarías, inventarios, cuentas y particiones
 - Título XXII. De los bienes vacantes y mostrencos
 - Título XXIII. De las escrituras públicas, sus notas y registros
-- Título XXIV. Del uso del papel sellado en las escrituras , autos é instrumentos públicos
+- Título XXIV. Del uso del papel sellado en las escrituras, autos é instrumentos públicos
 
 #### LIBRO XI. DE LOS JUICIOS CIVILES, ORDINARIOS Y EXECUTIVOS
 
@@ -85,7 +85,7 @@ La novísima recopilación[^1]
 - Título XIV. De los alegatos, é informaciones en derecho
 - Título XV. De la conclusion de los pleytos para sentencia
 - Título XVI. De las sentencias interlocutorias y difinitivas
-- Título XVII. De la execucion de las sentencias , y despacho de executorias
+- Título XVII. De la execucion de las sentencias, y despacho de executorias
 - Título XVIII. De la nulidad de las sentencias
 - Título XIX. De las costas, y su tasacion
 - Título XX. De las apelaciones
@@ -118,7 +118,7 @@ La novísima recopilación[^1]
 - Título IX. De los desertores del Real servicio, su persecucion y castigo
 - Título X. De los que resisten á las Justicias y sus Ministros
 - Título XI. De los tumultos, asonadas y conmociones populares
-- Título XII. De los ayuntamientos , bandos y ligas; cofradías y otras parcialidades
+- Título XII. De los ayuntamientos, bandos y ligas; cofradías y otras parcialidades
 - Título XIII. De las máscaras, y otros disfraces
 - Título XIV. De los hurtos, y ladrones
 - Título XV. De los robos, y fuerzas
@@ -138,7 +138,7 @@ La novísima recopilación[^1]
 - Título XXIX. De los incestos, y estupros  
 - Título XXX. De la sodomía, y bestialidad
 - Título XXXI. De los vagos; y modo de proceder á su recogimiento y destino
-- Título XXXII. De las causas criminales ; y modo de proceder en ellas, y en el exámen de testigos 
+- Título XXXII. De las causas criminales; y modo de proceder en ellas, y en el exámen de testigos 
 - Título XXXIII. De las delaciones, y acusaciones
 - Título XXXIV. De las pesquisas y sumarias; y Jueces pesquisidores
 - Título XXXV. De los Alcaldes y Oficiales de la Hermandad, y de los casos y delitos sujetos á su jurisdiccion
