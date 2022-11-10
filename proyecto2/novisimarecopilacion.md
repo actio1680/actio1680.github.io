@@ -4,7 +4,7 @@ layout: default
 ## LA NOVÍSIMA RECOPILACIÓN DE LAS LEYES DE ESPAÑA 1805
 La novísima recopilación[^1]
 
-[> Ver repositorio]( )
+[> Ver repositorio](https://github.com/actio1680/Cuerpos-legales-Monarquia-Hispanica/tree/main/Novisima-recopilacion-1805)
 
 [> Regresar al proyecto2](https://actio1680.github.io/proyecto2/presentacion2)
 
