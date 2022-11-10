@@ -9,25 +9,37 @@ La novísima recopilación[^1]
 [> Regresar al proyecto2](https://actio1680.github.io/proyecto2/presentacion2)
 
 #### DESCRIPCIÓN
-- **PRIMER LIBRO**. Aqui ceencia.
+- **LIBRO I**. De la Santa Iglesia.
 
-- **SEGUNDO LIBRO**. Siguese laan de mantener en justicia, e verdad. 
+- **LIBRO II**. De la jurisdicción eclesiástica.
 
-- **TERCER LIBRO**. Tercera partida que fablyzio, e por obra de fecho para desembargar los pleytos.
+- **LIBRO III**. Del rey y de su casa real y corte.
 
-- **CUARTO LIBRO**. Aqvi comiença la qvarta partida qve fabla de los desposorios, e de los casamientos.
+- **LIBRO IV**. De la real jurisdicción ordinaria.
 
-- **QUINTO LIBRO**. Aqui ompra n los omes entre si, de qual natura quier que sean.
+- **LIBRO V**. De las Chancillerías y Audiencias del Reyno: sus ministros y oficiales.
 
-- **SEXTO LIBRO**. Aqui comiença l ias. 
+- **LIBRO VI**. De los vasallos.
 
-- **SEPTIMO LIBRO**. Aqui Com eficios que uer por ende. 
+- **LIBRO VII**. De los pueblos y de su gobierno civil, económico y político.
+
+- **LIBRO VIII**. De las ciencias, artes y ofícios.
+
+- **LIBRO IX**. Del comercio, moneda y minas.
+
+- **LIBRO X**. De los contratos y obligaciones, testamentos y herencias.
+
+- **LIBRO XI**. De los juicios civiles, ordinarios y ejecutivos.
+
+- **LIBRO XII**. De los delitos y sus penas y de los juicios criminales.
 
 ---
 ### ÍNDICE
-#### PRIMERA PARTIDA
+#### LIBRO I
 
-- Titulo I. Que fabla de las leyes,
+- Titulo I. las leyes,
+
+
 
 
 
