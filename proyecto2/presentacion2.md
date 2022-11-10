@@ -55,7 +55,7 @@ Se considera tanto al Virreinato (Monarquía Hispánica), como a la República(R
 - [Leyes de Toro 1505](/leyestoro.md)
 
 <div align="right">
-<i>San Juan de Miraflores, 1 de agosto de 2022</i><br>
+<i>San Juan de Miraflores, 1 de noviembre de 2022</i><br>
 (Última actualización)
 </div>
 
