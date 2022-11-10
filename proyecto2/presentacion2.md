@@ -49,7 +49,7 @@ Se considera tanto al Virreinato (Monarquía Hispánica), como a la República(R
 - Recopilación de los cuerpos legales que Administran los Bienes Inmuebles Estatales (Pronto)
 
 #### Derecho de la Monarquía Hispánica
-- Novísima Recopilación de las Leyes de España 1805  
+- [Novísima Recopilación de las Leyes de España 1805](/novisimarecopilacion.md)
 - [Recopilación de Leyes de los Reynos de las Indias 1680](/recopilacion1680.md)
 - [Siete Partidas del Rey Don Alfonso el Sabio [Versión 1555] ](/sietepartidas.md)
 - [Leyes de Toro 1505](/leyestoro.md)
