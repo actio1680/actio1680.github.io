@@ -26,7 +26,8 @@
     <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
 
     {% if site.favicon %}
-    <link rel="shortcut icon" href="/_image/favicon.png" type="image/png">    
+ 
+    <link rel="shortcut icon" type="image/png" href="{{ "/_image/favicon.png" | prepend: site.baseurl }}" >
     {% endif %}
    
     {% if site.twitter_username %}
