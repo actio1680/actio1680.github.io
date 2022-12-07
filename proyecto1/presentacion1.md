@@ -103,5 +103,5 @@ La característica **Promulgación** fue agregada con la pretensión de establec
 ---
 
 [^1]: Congreso del Perú. (s.f.). *Archivo Digital de la Legislación del Perú. Guía de Usuario*. [Enlace](https://www.leyes.congreso.gob.pe/documentos/Guia-Usuario.pdf)
-[^2]: García, F. (1860). Diccionario de la Legislación Peruana. Tomo I A-D. Imprenta del Estado. [Enlace](http://bdh-rd.bne.es/viewer.vm?id=0000134395&page=1)
+[^2]: García-Calderón, F. (1860). Diccionario de la Legislación Peruana. Tomo I A-D. Imprenta del Estado. [Enlace](http://bdh-rd.bne.es/viewer.vm?id=0000134395&page=1)
 
