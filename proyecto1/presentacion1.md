@@ -44,6 +44,7 @@ Diferenciar de las Resoluciones Legislativas del Congreso de la República, ampa
 - **Decreto Legislativo:** 
 
 
+
 ### 2. BASE DE DATOS DE NORMAS DEL SIGLO XIX
 Las bases de datos son una sistematización de las normas legislativas y ejecutivas, principalmente contenidas en el [Archivo Digital de la Legislación del Perú](https://www.leyes.congreso.gob.pe/) y otros documentos. El archivo actualizado es de formato XLSX.
 
@@ -57,6 +58,8 @@ Las normas abordadas son del periodo de **1820 a 1904**. La base de datos consta
 
 La característica **Promulgación_B** fue agregada para lograr organizar las fechas de promulgación de manera ascendente o descendente. 
 
+
+
 |DOCUMENTOS||
 | --- | --- |
 | **Archivo XLSX** ||
@@ -65,6 +68,7 @@ La característica **Promulgación_B** fue agregada para lograr organizar las fe
 | **Archivo HTML**||
 |Está elaborado para tener una visualización directa y rápida del contenido. El cual no contiene las categorías de "promulgación" y "enlace", ni las actualizaciones de la base de datos XLSX. |![HTML](https://user-images.githubusercontent.com/54146735/206073437-8af3a156-977b-4f75-a25d-53edff7ce559.png)|
 ||[Descargar HTML](https://github.com/actio1680/Cuerpos-legales-Peru/blob/main/Normas-Legislativo-Ejecutivo/BD-Normas-XIX/Normas-LE-XIX.html)|
+
 
 
 ### 3. BASE DE DATOS DE NORMAS DEL SIGLO XX y XXI
@@ -81,6 +85,8 @@ La base de datos consta de las siguientes características:
  - **Enlace:** Conduce al almacenamiento virtual de la norma.
 
 La característica **Promulgación** fue agregada con la pretensión de establecer una fecha guía inalterable, a diferencia de la fecha de publicación que cambia según la época. En la actualidad, según la Constitución de 1993 sobre la vigencia y obligatoriedad de la ley, articulo 109; señala que, la ley es obligatoria desde el día siguiente de su publicación en el diario oficial, salvo alguna disposición contraria de la misma ley que posterga su vigencia en todo o en parte.
+
+
 
 |DOCUMENTOS||
 | --- | --- |
