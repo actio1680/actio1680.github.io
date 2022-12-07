@@ -30,19 +30,16 @@ Los tipos de normas cambian de denominación según la autoridad que las emite, 
 
 Conforme a lo señalado, se definen las siguientes normas según la Guía de Usuario referida:
 
- - **Decreto:**[^2] 
+ - **Decreto:** Son normas promulgadas por el Poder Ejecutivo. Tienen como objetivo prescribir el cumplimiento de una ley dirigida a toda la república[^2]. 
 
  - **Ley:** Son normas promulgadas por el Poder Legislativo, la primera norma fue emitida en octubre de 1904 con el N.°1. Antes de la delegación de facultades al Poder Ejecutivo, las normas con rango de ley expedidas directamente por el Ejecutivo, se denominaban igualmente Leyes y seguían la numeración de las expedidas por el Poder Legislativo. Actualmente, las normas del Poder Ejecutivo tienen su propia forma y numeración.
 
  - **Resolución Legislativa:**  Son promulgadas por el Poder Legislativo. Estas ratifican o denuncian Tratados Ordinarios, se autoriza al presidente de la República a ausentarse del territorio nacional, se concede la prórroga del estado de sitio, se designan determinados funcionarios, se autoriza el ingreso de tropas y armamento extranjero, se otorgan pensiones de gracia, y se modifican resoluciones legislativas según dispone la Constitución. Siguen la misma numeración de las leyes.
 Diferenciar de las Resoluciones Legislativas del Congreso de la República, amparadas en el inciso i) del artículo 72 del Reglamento del Congreso de la República, las cuales tienen como objetivo aprobar las normas del reglamento interno del Congreso.
 
- - **Reglamento:**
-
  - **Decreto Ley:** Son  normas que siguen la numeración de las Leyes y Resoluciones Legislativas, pero dictadas por el Poder Ejecutivo asumiendo facultades legislativas en las oportunidades en que se han instaurado gobiernos de facto. Los primeros decretos leyes expedidos con tal denominación fueron dictados por el gobierno resultante del golpe de estado del General Sánchez Cerro en 1931.
 
-- **Decreto Legislativo:** 
-
+ - **Reglamento:** Expedido por el Poder Ejecutivo en la misma forma que los decretos; y su objetivo es determinar el modo de proceder el manejo de una oficina, arreglar la dirección y gobierno de una corporación[^2]. 
 
 
 ### 2. BASE DE DATOS DE NORMAS DEL SIGLO XIX
@@ -59,7 +56,6 @@ Las normas abordadas son del periodo de **1820 a 1904**. La base de datos consta
 La característica **Promulgación_B** fue agregada para lograr organizar las fechas de promulgación de manera ascendente o descendente. 
 
 
-
 |DOCUMENTOS||
 | --- | --- |
 | **Archivo XLSX** ||
@@ -68,7 +64,6 @@ La característica **Promulgación_B** fue agregada para lograr organizar las fe
 | **Archivo HTML**||
 |Está elaborado para tener una visualización directa y rápida del contenido. El cual no contiene las categorías de "promulgación" y "enlace", ni las actualizaciones de la base de datos XLSX. |![HTML](https://user-images.githubusercontent.com/54146735/206073437-8af3a156-977b-4f75-a25d-53edff7ce559.png)|
 ||[Descargar HTML](https://github.com/actio1680/Cuerpos-legales-Peru/blob/main/Normas-Legislativo-Ejecutivo/BD-Normas-XIX/Normas-LE-XIX.html)|
-
 
 
 ### 3. BASE DE DATOS DE NORMAS DEL SIGLO XX y XXI
@@ -87,7 +82,6 @@ La base de datos consta de las siguientes características:
 La característica **Promulgación** fue agregada con la pretensión de establecer una fecha guía inalterable, a diferencia de la fecha de publicación que cambia según la época. En la actualidad, según la Constitución de 1993 sobre la vigencia y obligatoriedad de la ley, articulo 109; señala que, la ley es obligatoria desde el día siguiente de su publicación en el diario oficial, salvo alguna disposición contraria de la misma ley que posterga su vigencia en todo o en parte.
 
 
-
 |DOCUMENTOS||
 | --- | --- |
 | **Archivo XLSX** ||
@@ -98,7 +92,7 @@ La característica **Promulgación** fue agregada con la pretensión de establec
 ||[Descargar HTML](https://github.com/actio1680/Cuerpos-legales-Peru/blob/main/Normas-Legislativo-Ejecutivo/BD-Normas-XX-XXI/Normas-LE-XX-XXI.html)|
 
 
-
+<br>
 <div align="right">
 <i>San Juan de Miraflores, 10 de diciembre de 2022</i><br>
 (Última actualización)
@@ -109,5 +103,5 @@ La característica **Promulgación** fue agregada con la pretensión de establec
 ---
 
 [^1]: Congreso del Perú. (s.f.). *Archivo Digital de la Legislación del Perú. Guía de Usuario*. [Enlace](https://www.leyes.congreso.gob.pe/documentos/Guia-Usuario.pdf)
-[^2]: 
+[^2]: García, F. (1860). Diccionario de la Legislación Peruana. Tomo I A-D. Imprenta del Estado. [Enlace](http://bdh-rd.bne.es/viewer.vm?id=0000134395&page=1)
 
