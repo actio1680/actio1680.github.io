@@ -59,10 +59,10 @@ La característica **Promulgación_B** fue agregada para lograr organizar las fe
 |DOCUMENTOS||
 | --- | --- |
 | **Archivo XLSX** ||
-|Es la base de datos principal, será actualizada periódicamente las fechas de promulgación. |![XLSX](https://user-images.githubusercontent.com/54146735/206073555-56ca38e9-4261-49ca-867b-b13bd8ad9fc2.png)|
+|Es la base de datos principal. La fecha de promulgación, PROMULGACIÓN_B,  es el eje de ordenación |![XLSX](https://user-images.githubusercontent.com/54146735/206073555-56ca38e9-4261-49ca-867b-b13bd8ad9fc2.png)|
 ||[Descargar XLSX](https://github.com/actio1680/Cuerpos-legales-Peru/blob/main/Normas-Legislativo-Ejecutivo/BD-Normas-XIX/Normas-LE-XIX.xlsx)|
 | **Archivo HTML**||
-|Está elaborado para tener una visualización directa y rápida del contenido. El cual no contiene las categorías de "promulgación" y "enlace", ni las actualizaciones de la base de datos XLSX. |![HTML](https://user-images.githubusercontent.com/54146735/206073437-8af3a156-977b-4f75-a25d-53edff7ce559.png)|
+|Está elaborado para tener una visualización directa y rápida del contenido. La categoría de PROMULGACIÓN_A de la base de datos XLSX se denomina aquí PROMULGACIÓN, y no contiene la categoría PROMULGACIÓN_B ni ENLACE.|![HTML](https://user-images.githubusercontent.com/54146735/206073437-8af3a156-977b-4f75-a25d-53edff7ce559.png)|
 ||[Descargar HTML](https://github.com/actio1680/Cuerpos-legales-Peru/blob/main/Normas-Legislativo-Ejecutivo/BD-Normas-XIX/Normas-LE-XIX.html)|
 
 
@@ -85,16 +85,16 @@ La característica **Promulgación** fue agregada con la pretensión de establec
 |DOCUMENTOS||
 | --- | --- |
 | **Archivo XLSX** ||
-|Es la base de datos principal, será actualizada periódicamente las fechas de promulgación. |![XLSX](https://user-images.githubusercontent.com/54146735/206044645-ddfe34d7-fb37-4cb3-9126-b0be5366baeb.png)|
+|Es la base de datos principal, será actualizada y completada periódicamente las categorías PROMULGACIÓN; el NÚMERO de la norma será el eje de ordenación.|![XLSX](https://user-images.githubusercontent.com/54146735/206044645-ddfe34d7-fb37-4cb3-9126-b0be5366baeb.png)|
 ||[Descargar XLSX](https://github.com/actio1680/Cuerpos-legales-Peru/blob/main/Normas-Legislativo-Ejecutivo/BD-Normas-XX-XXI/Normas-LE-XX-XXI.xlsx)|
 | **Archivo HTML**||
-|Está elaborado para tener una visualización directa y rápida del contenido. El cual no contiene las categorías de "promulgación" y "enlace", ni las actualizaciones de la base de datos XLSX. |![HTML](https://user-images.githubusercontent.com/54146735/206043803-e1a9c51c-cf7c-43bc-b190-9d8561692bf8.png)|
+|Está elaborado para tener una visualización directa y rápida del contenido. El cual no contiene las categorías de PROMULGACIÓN y ENLACE, ni otras actualizaciones de la base de datos XLSX. |![HTML](https://user-images.githubusercontent.com/54146735/206043803-e1a9c51c-cf7c-43bc-b190-9d8561692bf8.png)|
 ||[Descargar HTML](https://github.com/actio1680/Cuerpos-legales-Peru/blob/main/Normas-Legislativo-Ejecutivo/BD-Normas-XX-XXI/Normas-LE-XX-XXI.html)|
 
 
 <br>
 <div align="right">
-<i>San Juan de Miraflores, 10 de diciembre de 2022</i><br>
+<i>San Juan de Miraflores, 8 de diciembre de 2022</i><br>
 (Última actualización)
 </div>
 
