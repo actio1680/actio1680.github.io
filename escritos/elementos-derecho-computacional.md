@@ -1,5 +1,5 @@
 ## DERECHO COMPUTACIONAL: ELEMENTOS INTRODUCTORIOS
-La sociedad de la computación es el nuevo reto de los abogados del siglo XXI, esto por los grandes avances que ha tenido las ciencias de la computación en las últimas décadas; en ese sentido, se describen conceptos intuitivos (de un nativo computacional), para luego señalar como se relaciona la realidad computacional con el Derecho. Por último, se comparte una recopilación de normas que giran en torno a la computación a nivel nacional e internacional.
+La sociedad de la computación es el nuevo reto de los abogados del siglo XXI, esto por los grandes avances que ha tenido las ciencias de la computación en las últimas décadas; en ese sentido, se describen conceptos intuitivos (de un nativo computacional), para luego señalar como se relaciona la realidad computacional con el Derecho. Por último, se comparte una recopilación de normas que giran en torno a la computación a nivel nacional e internacional. 
 
 #### CONTENIDO
 **1. HACIA UNA SOCIEDAD COMPUTACIONAL**
