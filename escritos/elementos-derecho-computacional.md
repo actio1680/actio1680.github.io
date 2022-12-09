@@ -1,4 +1,5 @@
-## INTRODUCCIÓN A LAS INSTITUCIONES DEL DERECHO COMPUTACIONAL
+## DERECHO COMPUTACIONAL: ELEMENTOS INTRODUCTORIOS
+La sociedad de la computación es el nuevo reto de los abogados del siglo XXI, esto por los grandes avances que ha tenido las ciencias de la computación en las últimas décadas; en ese sentido, se describen conceptos intuitivos (de un nativo computacional), para luego señalar como se relaciona la realidad computacional con el Derecho. Por último, se comparte una recopilación de normas que giran entorno a la computación a nivel nacional e internacional.  
 
 #### CONTENIDO
 **1. HACIA UNA SOCIEDAD COMPUTACIONAL**
@@ -10,14 +11,14 @@
 ---
 
 ### 1. HACIA UNA SOCIEDAD COMPUTACIONAL  
-Para buscar las instituciones de la Sociedad de la Computación, o sociedad computacional, primero hay que conocer cuales son los elementos y configuraciones de la computación como una herramienta lógica y física, en sus efectos más generales.
+Para iniciar el estudio de las instituciones de la sociedad de la computación, o sociedad computacional; primero, se tiene que conocer cuales son los elementos y configuraciones de la computación como una herramienta lógica y física, en sus efectos más generales.
 
 #### A. COMPUTADORA
 El objeto clave es la ***computadora***, pero no de cualquier tipo, sino una electrónica. Una ***computadora electrónica*** se define como una máquina electrónica que, mediante determinados programas, permite almacenar y tratar información, y resolver problemas de diversa índole[^1]. Los elementos de esta son ser una maquina electrónica, que mediante el uso programas gestiona información para lograr un fin. 
 
 La maquina electrónica engloba dos componentes; por un lado, el hardware, ***soporte físico***, es la base material de componentes que integran una computadora. Por otro lado, los programas o software, ***soporte lógico***, son las instrucciones y reglas de informática para cumplir una tarea especifica[^2]. El soporte físico y, lógico funcionan de manera interrelacional, no es posible su aislamiento en tanto que se busca que cumpla los fines para lo cual fueron diseñados y construidos. 
 
-Por otro lado, el concepto de ***información*** tiene que entenderse desde la informática, esta ciencia limita el concepto de información por aquella que esta dispuesta de manera adecuada para su tratamiento por una computadora[^1], el nombre que recibe es de ***dato***. El dato, desde la informática, será uno de los elementos clave en la socialización, y con ello; la formación de las instituciones. 
+Por otro lado, el concepto de ***información*** tiene que entenderse desde la informática, esta ciencia limita el concepto de información a todo aquello que recibe tratamiento por un computadora[^1], una denominación alternato es el de ***dato***. El dato, desde la informática, será uno de los elementos clave en la socialización, y con ello; la formación de las instituciones. 
 
 La complejización y transformación de la información empieza a ser llevada por instrucciones cada vez más eficientes, permitiendo el desarrollo del ***algoritmo***. 
 
@@ -47,9 +48,8 @@ La conjunción de lo antes reseñado dará paso a la sociedad computacional, de 
 Todo esto pasara a un plano formal, lo que aquí se ha llamado ***instituciones del derecho computacional***. 
 
 
-
 ### 2. MODOS DE RELACIONARSE DEL DERECHO Y LA REALIDAD COMPUTACIONAL
-Las instituciones de la Sociedad de la Computación se juridizan mediante normas de diferentes niveles de prelación. Así, una institución es un elemento estructural esencial del ordenamiento jurídico o de la ordenación política y social[^2]. Por otro lado, las instituciones emergentes del derecho computacional se configurarán según las maneras en que el derecho se relaciona con la realidad de la computación. 
+Las instituciones de la sociedad de la computación se juridizan mediante normas de diferentes niveles de prelación según su naturaleza. Así, una institución es un elemento estructural esencial del ordenamiento jurídico o de la ordenación política y social[^2]. Por otro lado, las instituciones emergentes del derecho computacional se configurarán según las maneras en que el derecho se relaciona con la realidad de la computación. 
 
 Sin importar la naturaleza de la materia (tributario, penal, civil, procesal, constitucional, aduanero, etc.), los modos de relacionarse son cuatro: **i)** el Derecho regula objetos desde la realidad computacional externa, **ii)** el Derecho regula objetos desde la realidad computacional interna, **iii)** el Derecho usa productos y servicios computacionales y **iv)** el Derecho usa internamente los metódos computacionales. 
 		
