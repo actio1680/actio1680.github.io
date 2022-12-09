@@ -22,7 +22,7 @@ layout: default
 
 ## ESCRITOS
 
-- [Derecho Computacional: Elementos introductorios](escritos/introducción-derecho-computacional.md)
+- [Derecho Computacional: Elementos introductorios](escritos/introduccion-derecho-computacional.md)
 - [Cronología de los Códigos Civiles Iberoaméricanos](escritos/cronologiacc.md)
 - [Apuntes para estudiar los cuerpos jurídicos de la Monarquía Hispánica](escritos/apuntes-derecho-monarquia-hispanica.md)
 
