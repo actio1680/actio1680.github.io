@@ -1,4 +1,4 @@
-## RECOPILACIÓN DE LEYES DE LOS REYNOS DE LAS INDIAS 1680
+## Recopilación de las leyes de los Reynos de las Indias 1680
 
 La Recopilación[^1]
 
@@ -6,24 +6,24 @@ La Recopilación[^1]
 
 [> Regresar al proyecto2](https://actio1680.github.io/proyecto2/presentacion2)
 
-### DESCRIPCIÓN
-- **LIBRO PRIMERO**. De la Santa Fe Católica.
+### Descripción
+- **Libro primero**. De la Santa Fe Católica.
 
-- **LIBRO SEGUNDO**. De las Leyes, Provisiones, Cédulas, y Ordenanzas Reales.
+- **Libro segundo**. De las Leyes, Provisiones, Cédulas, y Ordenanzas Reales.
 
-- **LIBRO TERCERO**. Del dominio, y jurisdiccion Real de las Indias.
+- **Libro tercero**. Del dominio, y jurisdiccion Real de las Indias.
 
-- **LIBRO CUARTO**. De los descubrimientos.
+- **Libro cuarto**. De los descubrimientos.
 
-- **LIBRO QUINTO**. De los términos, division, y agregacion de la Gobernaciones.
+- **Libro quinta**. De los términos, division, y agregacion de la Gobernaciones.
 
-- **LIBRO SEXTO**. De los Indios
+- **Libro sexto**. De los Indios
 
-- **LIBRO SÉPTIMO**. De los Pesquisidores, y Jueces de comision.
+- **Libro séptimo**. De los Pesquisidores, y Jueces de comision.
 
-- **LIBRO OCTAVO**. De las Contadurías de Cuentas, y sus Ministros.
+- **Libro octavo**. De las Contadurías de Cuentas, y sus Ministros.
 
-- **LIBRO NONO**. De la Real Audiencia, y Casa de Contratacion, que reside en Sevilla.
+- **Libro nono**. De la Real Audiencia, y Casa de Contratacion, que reside en Sevilla.
 
 ---
 ### ÍNDICE
