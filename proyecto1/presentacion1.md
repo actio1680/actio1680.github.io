@@ -12,8 +12,8 @@ En la actualidad, gracias a la tecnología la distribución y lectura de las nor
 
 [> Repositorio del proyecto](https://github.com/actio1680/Cuerpos-legales-Peru/tree/main/Normas-Legislativo-Ejecutivo)
 
-### CONTENIDO
-**1. DESCRIPCIÓN DE LAS NORMAS LEGISLATIVAS Y EJECUTIVAS**
+### Contenido 
+**1. Descripción de las normas del legislativo y ejecutivo. ESCRIPCIÓN DE LAS NORMAS LEGISLATIVAS Y EJECUTIVAS**
 
 **2. BASE DE DATOS DE NORMAS DEL SIGLO XIX**
 
@@ -21,7 +21,7 @@ En la actualidad, gracias a la tecnología la distribución y lectura de las nor
 
 ---
 
-### 1. DESCRIPCIÓN DE LAS NORMAS LEGISLATIVAS Y EJECUTIVAS
+### 1. Descripción de las normas del legislativo y ejecutivo
 
 El proceso de independencia de 1821 transformó el Virreinato de la Monarquía Hispánica a una República Democrática, la República del Perú. Esto significó una distinción de las normas emitidas entre el poder legislativo y ejecutivo, antes contenida en la persona del Rey. Las normas legislativas y ejecutivas continuaron con la organización establecida por la administración virreinal, al menos en su gestión administrativa. Así por ejemplo, la legislación desde el inicio de la república hasta 1904 se identifica por la fecha de promulgación. Ya luego de esta fecha, por razones técnicas, se enumeran hasta nuestra época.
 
