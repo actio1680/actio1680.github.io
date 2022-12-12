@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-## DIGITALIZACIÓN DE LOS CUERPOS LEGALES DEL PERÚ: VIRREINATO Y REPÚBLICA
+## Digitalización de los cuerpos legales del Perú: Virreinato y República
+
 La digitalización en Github de las normas jurídicas no es una iniciativa reciente, de esta manera; proyectos como [La Constitución Española en git](https://github.com/hpalacio/leyes), [Congreso Perú](https://github.com/jeqo/peru-congreso), [7 Partidas Digital](https://github.com/7PartidasDigital), [Laws in Git](https://leibniz-internship-report.herokuapp.com/nl_linked_legal_data/laws_in_git), [Utah Code](https://github.com/divegeek/utahcode), [German Federal Law Regulations](https://github.com/bundestag/gesetze), [Council of the District of Columbia](https://github.com/DCCouncil) o [Dutch laws in GitHub](https://github.com/statengeneraal/laws-markdown) han buscado satisfacer necesidades acádemicas y técnicas (Referente a la administración estatal). Si bien algunos de ellos no han logrado una continuidad en el tiempo, se muestra el interés por parte de los especialistas en utilizar las plataformas digitales para compartir y gestionar la información legal. 
 
 #### CONTENIDO
