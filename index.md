@@ -25,8 +25,3 @@ layout: default
 - [Cronología de los Códigos Civiles Iberoaméricanos](escritos/cronologiacc.md)
 - [Apuntes para estudiar los cuerpos jurídicos de la Monarquía y Repúblicas hispánicas](escritos/apuntes-derecho-hispanico.md)
 
-## Documentos
-
-- [La investigación jurídica en el Derecho Inmobiliario [PDF]]()
-- 
-
