@@ -1,1 +1,0 @@
-Exposiciones sobre temas varios
