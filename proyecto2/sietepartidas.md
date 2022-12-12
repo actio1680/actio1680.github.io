@@ -5,6 +5,7 @@ layout: default
 Las siete partidas[^1]
 
 [> Ver repositorio](https://github.com/actio1680/Cuerpos-legales-Monarquia-Hispanica/tree/main/Siete-partidas-1555)
+
 [> Regresar al proyecto2](https://actio1680.github.io/proyecto2/presentacion2)
 
 ### Descripción
@@ -24,7 +25,7 @@ Las siete partidas[^1]
 
 ---
 ### ÍNDICE
-#### Primera partida
+#### PRIMERA PARTIDA
 
 - Titulo I. Que fabla de las leyes, e por quantas razones es este libro partido por titulos, e en que manera  
 - Titulo II. Del vso, e de la costumbre, e del fuero
@@ -51,7 +52,7 @@ Las siete partidas[^1]
 - Titulo XXIII. De la guarda de las fiestas, e de los ayunos, e de como se deuen fazer las limosnas 
 - Titulo XXIIII. De los Romeros, e de los pelegrinos 
 
-#### Segunda partida 
+#### SEGUNDA PARTIDA
 
 - Titulo I. Que fabla de los Emperadores, e de los Reyes: e de los otros grandes señores 
 - Titulo II. Qual deue el Rey ser, en conocer e amar, e temer a Dios 
