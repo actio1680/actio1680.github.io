@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## LEYES DE TORO 1505
+## Leyes de Toro 1505
 
 Las Leyes de Toro se promulgaro el 7 de marzo de 1505, en las Cortes de Toro. Conformado por 83 leyes a pedido de los Reyes  Reyes Católicos, cuyo objetivo era establecer un orden de prelación entre los cuerpos legislativos de los Fueros, Las Siete Partidas y
 los vigentes Ordenamientos. Las Leyes tiene como base el Ordenamiento de Alcalá 1348[^1].
@@ -13,7 +13,8 @@ privado, Propiedad y Posesión *mayorazgos*, Derechos reales, derecho de familia
 
 [> Regresar al proyecto2](https://actio1680.github.io/proyecto2/presentacion2)
 
-### DESCRIPCIÓN[^2]
+---
+### Descripción[^2]
 
 **LEY 1**. Se designan los cuerpos legales que han de servir para la decisión de las causas, y el orden con que se ha de usar y recurrir á ellos, y la graduación que guardan entre sí.
 
