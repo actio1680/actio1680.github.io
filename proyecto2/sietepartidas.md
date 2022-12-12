@@ -12,19 +12,19 @@ Las siete partidas[^1]
 
 - **Segunda partida**. Siguese la Segunda partida deste libro, que fabla de los Emperadores, e de los Reyes, e de los otros grandes Señores de la tierra, que la han de mantener en justicia, e verdad. 
 
-- **TERCERA PARTIDA**. Tercera partida que fabla de la Iusticia, e como se ha de fazer ordenadamente en cada logar, por palabra de Iuyzio, e por obra de fecho para desembargar los pleytos.
+- **Tercera partida**. Tercera partida que fabla de la Iusticia, e como se ha de fazer ordenadamente en cada logar, por palabra de Iuyzio, e por obra de fecho para desembargar los pleytos.
 
-- **CUARTA PARTIDA**. Aqvi comiença la qvarta partida qve fabla de los desposorios, e de los casamientos.
+- **Cuarta partida**. Aqvi comiença la qvarta partida qve fabla de los desposorios, e de los casamientos.
 
-- **QUINTA PARTIDA**. Aqui comiença la quinta Partida deste libro: que fabla de los emprestidos, e de las vendidas, e de las compras, de los cambios, e de todos los otros pleytos, e posturas que fazen los omes entre si, de qual natura quier que sean.
+- **Quinta partida**. Aqui comiença la quinta Partida deste libro: que fabla de los emprestidos, e de las vendidas, e de las compras, de los cambios, e de todos los otros pleytos, e posturas que fazen los omes entre si, de qual natura quier que sean.
 
-- **SEXTA PARTIDA**. Aqui comiença la Sexta partida desde libro: que fabla de los testamentos, e de las herencias. 
+- **Sexta partida**. Aqui comiença la Sexta partida desde libro: que fabla de los testamentos, e de las herencias. 
 
-- **SEPTIMA PARTIDA**. Aqui Comiença la setena partida deste nuestro libro, que fabla de todas las acusaciones, e maleficios que los omes fazen, e que pena merescen auer por ende. 
+- **Séptima partida**. Aqui Comiença la setena partida deste nuestro libro, que fabla de todas las acusaciones, e maleficios que los omes fazen, e que pena merescen auer por ende. 
 
 ---
 ### ÍNDICE
-#### PRIMERA PARTIDA
+#### Primera partida
 
 - Titulo I. Que fabla de las leyes, e por quantas razones es este libro partido por titulos, e en que manera  
 - Titulo II. Del vso, e de la costumbre, e del fuero
@@ -51,7 +51,7 @@ Las siete partidas[^1]
 - Titulo XXIII. De la guarda de las fiestas, e de los ayunos, e de como se deuen fazer las limosnas 
 - Titulo XXIIII. De los Romeros, e de los pelegrinos 
 
-#### SEGUNDA PARTIDA 
+#### Segunda partida 
 
 - Titulo I. Que fabla de los Emperadores, e de los Reyes: e de los otros grandes señores 
 - Titulo II. Qual deue el Rey ser, en conocer e amar, e temer a Dios 
