@@ -12,16 +12,16 @@ En la actualidad, gracias a la tecnología la distribución y lectura de las nor
 
 [> Repositorio del proyecto](https://github.com/actio1680/Cuerpos-legales-Peru/tree/main/Normas-Legislativo-Ejecutivo)
 
-### Contenido 
-**1. Descripción de las normas del legislativo y ejecutivo. ESCRIPCIÓN DE LAS NORMAS LEGISLATIVAS Y EJECUTIVAS**
+### CONTENIDO
+**1. Descripción de las normas del legislativo y ejecutivo**
 
-**2. BASE DE DATOS DE NORMAS DEL SIGLO XIX**
+**2. Base de datos de normas del siglo XIX**
 
-**3. BASE DE DATOS DE NORMAS DEL SIGLO XX y XXI**
+**3. Base de datos de normas del siglo XX y XXI**
 
 ---
 
-### 1. Descripción de las normas del legislativo y ejecutivo
+### 1. DESCRIPCIÓN DE LAS NORMAS DEL LEGISLATIVO Y EJECUTIVO
 
 El proceso de independencia de 1821 transformó el Virreinato de la Monarquía Hispánica a una República Democrática, la República del Perú. Esto significó una distinción de las normas emitidas entre el poder legislativo y ejecutivo, antes contenida en la persona del Rey. Las normas legislativas y ejecutivas continuaron con la organización establecida por la administración virreinal, al menos en su gestión administrativa. Así por ejemplo, la legislación desde el inicio de la república hasta 1904 se identifica por la fecha de promulgación. Ya luego de esta fecha, por razones técnicas, se enumeran hasta nuestra época.
 
@@ -50,7 +50,7 @@ Las normas abordadas son del periodo de **1820 a 1904**. La base de datos consta
 
  - **Norma:** Señala el tipo de la norma.
  - **Promulgación_A:** Es la fecha de promulgación por parte de la autoridad.
- - **Promulgación_B:** Es la fecha de promulgación con otro orden formato.
+ - **Promulgación_B:** Es la fecha de promulgación con otro formato.
  - **Título:** Señala el nombre de la norma.
  - **Enlace:** Conduce al almacenamiento virtual de la norma.
 
@@ -95,7 +95,7 @@ La característica **Promulgación** fue agregada con la pretensión de establec
 
 <br>
 <div align="right">
-<i>San Juan de Miraflores, 8 de diciembre de 2022</i><br>
+<i>San Juan de Miraflores, 10 de diciembre de 2022</i><br>
 (Última actualización)
 </div>
 
