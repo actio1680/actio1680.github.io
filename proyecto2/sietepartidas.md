@@ -1,17 +1,16 @@
 ---
 layout: default
 ---
-## LAS SIETE PARTIDAS DEL REY DON ALFONSO EL SABIO 1555
+## Las Siete Partidas del Rey Don Alfonso el Sabio 1555
 Las siete partidas[^1]
 
 [> Ver repositorio](https://github.com/actio1680/Cuerpos-legales-Monarquia-Hispanica/tree/main/Siete-partidas-1555)
-
 [> Regresar al proyecto2](https://actio1680.github.io/proyecto2/presentacion2)
 
-#### DESCRIPCIÓN
-- **PRIMERA PARTIDA**. Aqui comiença la primera partida, que fabla de todas las cosas que pertenescen a la fe catholica, que faze al ome conoscer a Dios por creencia.
+### Descripción
+- **Primera partida**. Aqui comiença la primera partida, que fabla de todas las cosas que pertenescen a la fe catholica, que faze al ome conoscer a Dios por creencia.
 
-- **SEGUNDA PARTIDA**. Siguese la Segunda partida deste libro, que fabla de los Emperadores, e de los Reyes, e de los otros grandes Señores de la tierra, que la han de mantener en justicia, e verdad. 
+- **Segunda partida**. Siguese la Segunda partida deste libro, que fabla de los Emperadores, e de los Reyes, e de los otros grandes Señores de la tierra, que la han de mantener en justicia, e verdad. 
 
 - **TERCERA PARTIDA**. Tercera partida que fabla de la Iusticia, e como se ha de fazer ordenadamente en cada logar, por palabra de Iuyzio, e por obra de fecho para desembargar los pleytos.
 
