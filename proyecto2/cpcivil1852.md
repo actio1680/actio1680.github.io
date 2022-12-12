@@ -2,21 +2,21 @@
 layout: default
 ---
 
-## CÓDIGO DE ENJUICIAMIENTOS EN MATERIA CIVIL 1852
+## Código de enjuiciamientos en materia civil 1852
 
-28 de julio 1852[^1]
+El 28 de julio 1852[^1]
 
 [> Ver repositorio](https://github.com/actio1680/Cuerpos-legales-Peru/tree/main/Codigo-Procesal-Civil/1852)
 
 [> Regresar al proyecto2](https://actio1680.github.io/proyecto2/presentacion2)
 
-### DESCRIPCIÓN
+### Descripción
 
-- **LIBRO PRIMERO**. De la jursdiccion: De las personas que la ejercen; y de las que intervienen en su ejercicio. 
+- **Libro primero**. De la jursdiccion: De las personas que la ejercen; y de las que intervienen en su ejercicio. 
 
-- **LIBRO SEGUNDO**. De las primeras instancias de los juicios civiles
+- **Libro segundo**. De las primeras instancias de los juicios civiles
 
-- **LIBRO TERCERO**. De las ultimas instancias y de los recursos extraordinarios
+- **Libro tercero**. De las ultimas instancias y de los recursos extraordinarios
 
 ---
 ### ÍNDICE
