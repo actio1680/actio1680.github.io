@@ -1,12 +1,13 @@
 ---
 layout: default
 ---
+## [Introducción]
 
 ¡Hola! soy William ... y [Actio1680](https://github.com/actio1680) es un repositorio de proyectos, escritos y documentos sobre Sociología y Derecho en el mundo digital. El objeto es la creación de herramientas para la investigación y aplicación profesional.
 
 <!-- <img class="profile-picture" src="codefavicon.png"> -->
 
-## Proyectos
+## [Proyectos]
 
 ### Digitalización de los cuerpos legales del Perú: Virreinato y República
 - **Publicación:** Agosto, 2022
@@ -18,9 +19,14 @@ layout: default
 - **Descripción:** Las bases de datos son una sistematización de las normas legislativas y ejecutivas, principalmente contenidas en el Archivo Digital de la Legislación del Perú y otros documentos. Se pone a disposición de la comunidad científica, profesional y público en general dos bases de datos que cubren los 200 años de la vida republicana del país. Los archivos actualizados son de formato XLSX y HTML. 
 - **Enlace:** [Proyecto1](proyecto1/presentacion1.md)
 
-## Escritos
+## [Escritos]
 
 - [Derecho Computacional: Elementos introductorios](escritos/introduccion-derecho-computacional.md)
 - [Cronología de los Códigos Civiles Iberoaméricanos](escritos/cronologiacc.md)
 - [Apuntes para estudiar los cuerpos jurídicos de la Monarquía y Repúblicas hispánicas](escritos/apuntes-derecho-hispanico.md)
+
+## [Documentos]
+
+-
+- 
 
