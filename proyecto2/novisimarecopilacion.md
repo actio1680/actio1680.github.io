@@ -1,44 +1,49 @@
 ---
 layout: default
 ---
-## LA NOVÍSIMA RECOPILACIÓN DE LAS LEYES DE ESPAÑA 1805
+## La Novísima Recopilación de las leyes de España 1805
 La novísima recopilación[^1]
 
 [> Ver repositorio](https://github.com/actio1680/Cuerpos-legales-Monarquia-Hispanica/tree/main/Novisima-recopilacion-1805)
 
 [> Regresar al proyecto2](https://actio1680.github.io/proyecto2/presentacion2)
 
-#### DESCRIPCIÓN
-- **LIBRO I**. De la Santa Iglesia.
+#### Descripción
+- **Libro I**. De la Santa Iglesia.
 
-- **LIBRO II**. De la jurisdicción eclesiástica.
+- **Libro II**. De la jurisdicción eclesiástica.
 
-- **LIBRO III**. Del rey y de su casa real y corte.
+- **Libro III**. Del rey y de su casa real y corte.
 
-- **LIBRO IV**. De la real jurisdicción ordinaria.
+- **Libro IV**. De la real jurisdicción ordinaria.
 
-- **LIBRO V**. De las Chancillerías y Audiencias del Reyno: sus ministros y oficiales.
+- **Libro V**. De las Chancillerías y Audiencias del Reyno: sus ministros y oficiales.
 
-- **LIBRO VI**. De los vasallos.
+- **Libro VI**. De los vasallos.
 
-- **LIBRO VII**. De los pueblos y de su gobierno civil, económico y político.
+- **Libro VII**. De los pueblos y de su gobierno civil, económico y político.
 
-- **LIBRO VIII**. De las ciencias, artes y ofícios.
+- **Libro VIII**. De las ciencias, artes y ofícios.
 
-- **LIBRO IX**. Del comercio, moneda y minas.
+- **Libro IX**. Del comercio, moneda y minas.
 
-- **LIBRO X**. De los contratos y obligaciones, testamentos y herencias.
+- **Libro X**. De los contratos y obligaciones, testamentos y herencias.
 
-- **LIBRO XI**. De los juicios civiles, ordinarios y ejecutivos.
+- **Libro XI**. De los juicios civiles, ordinarios y ejecutivos.
 
-- **LIBRO XII**. De los delitos y sus penas, y de los juicios criminales.
+- **Libro XII**. De los delitos y sus penas, y de los juicios criminales.
 
 ---
 ### ÍNDICE
 #### LIBRO I
 
+- Título I. 
 - Título II.
-
+- Título III.
+- Títutlo IV. 
+- Títutlo V.
+- Títutlo VI. 
+- Títutlo VII
 
 #### LIBRO X. DE LOS CONTRATOS Y OBLIGACIONES; TESTAMENTOS Y HERENCIAS
 
@@ -149,7 +154,6 @@ La novísima recopilación[^1]
 - Título XL. De las penas corporales, su conmutacion, y destino de los reos 
 - Título XLI. De las penas pecuniarias pertenecientes á la Real Cámara y á gastos de Justicia
 - Título XLII. De los indultos y perdones Reales
-
 
 
 
