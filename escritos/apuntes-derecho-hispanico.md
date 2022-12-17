@@ -1,6 +1,3 @@
----
-layout: default
----
 ## Apuntes para estudiar los cuerpos jurídicos de la monarquía y repúblicas hispánicas
 
 En esta entrada se mencionan e indexan los difirentes documentos (con acceso) que servirán para el estudios de los cuerpos jurídicos hispánicos. 
