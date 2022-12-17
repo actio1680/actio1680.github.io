@@ -1,4 +1,4 @@
-### Cronología de los Códigos Civiles Iberoaméricanos
+## Cronología de los Códigos Civiles Iberoaméricanos
 
 La Cronología fue realizada por Gúzman Brito en su obra *La codificación civil en Iberoamérica. Siglos XIX-XXI*[^1].
 
