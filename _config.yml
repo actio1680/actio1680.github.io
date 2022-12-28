@@ -9,7 +9,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://github.com/actio1680"
-footer_text: "Editado por William Atencio Becerra"
+footer_text: "Editado por William Atencio"
 
 sass:
     style: compressed
