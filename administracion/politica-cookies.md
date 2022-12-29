@@ -26,4 +26,5 @@ Los usuarios pueden controlar las cookies que se almacenan en su dispositivo a t
 <div align="right">
 <i>San Juan de Miraflores, diciembre de 2022</i><br>
 (Última actualización)
-</div><br>
+</div>
+<br>
