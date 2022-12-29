@@ -7,7 +7,7 @@ markdown: kramdown
 
 tracking_id: #
 
-footer: no
+footer: yes
 footer_url: "https://github.com/actio1680"
 footer_text: "Editado por William Atencio"
 
