@@ -8,8 +8,8 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://creativecommons.org/licenses/by-sa/4.0/deed.es"
-footer_text: "Actio1680 está bajo una Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional"
+footer_url: "https://actio1680.github.io/administracion/politica-cookies.html/"
+footer_text: "Edición William Atencio"
 
 sass:
     style: compressed
