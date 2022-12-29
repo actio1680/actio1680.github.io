@@ -1,17 +1,29 @@
-## Términos y condiciones
-La presente entrada tiene como objetivo describir los las reglas de uso de https://actio1680.github.io/, en adelante ***sitio web***, y las responsabilidad y licencias de su contenido. 
+---
+layout: default
+---
+## Términos y Condiciones
+Los Términos y Condiciones del Sitio Web tiene como objetivo describir las reglas de su uso, derechos de autor y  la responsabilidad legal. 
 
-### Derechos de autor y licencias
-- **El sitio web y escritos**. 
-- **Obras de terceros**. 
-- **Proyectos de Actio1680**. 
+[> Cuestiones legales](/legal.md)
 
-Los proyectos, escritos y obras de terceros publicados en el sitio web está bajo una <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es">Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional</a>, siempre y cuando el proyectos, escrito y documento
+### Usos del Sitio Web
+Al navegar en el Sitio Web el usuario acepta no darle un uso ilegal. 
+
+### Derechos de autor y reproducción
+A menos que se indique lo contrario, los Escritos, Proyectos y Recursos contenidos en el Sitio Web está bajo una <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es">Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional</a>
+ 
+
+- El Sitio Web. Son todos los archivos que componen el Sitio Web. 
+- Escritos en Actio1680. A menos que se indique lo contrario, las publicaciones que son denominadas "Escritos", pertenecen a la autoría de William Atencio. 
+- Proyectos en Actio1680. Existen dos tipos de proyectos:
+  - Creación unica
+  - Sobre obra de terceros
+- Recursos en Actio1680. 
+- Obras de terceros. 
+
  
 ### Responsabilidad legal 
-
-El SITIO WEB  
-
+Exención de responsabilidad.  Actio1680 
 
 
 
@@ -20,3 +32,4 @@ El SITIO WEB
 <i>San Juan de Miraflores, diciembre de 2022</i><br>
 (Última actualización)
 </div>
+<br>
