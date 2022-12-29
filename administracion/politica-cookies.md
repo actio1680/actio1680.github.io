@@ -9,7 +9,7 @@ Para efectos de esta Política toda referencia a “nos” o “nosotros”, se 
 
 [> Cuestiones legales](/legal.md)
 
-### Los cookies en el Sitio Web
+### Cookies en el Sitio Web
 Las cookies son pequeños archivos de texto que se almacenan en el dispositivo del usuario cuando visita una página web. 
 
 Para la navegación del presente Sitio Web no es requerido ningún cookie. El Sitio Web trabaja bajo la plataforma de Jekyll, la cual es un generador de sitios web estáticos que se utiliza comúnmente para crear sitios web. Por sí mismo, no tiene la capacidad de utilizar cookies, ya que no tiene componentes del lado del servidor y no puede almacenar ni recuperar datos del navegador del usuario.
