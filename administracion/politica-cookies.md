@@ -7,7 +7,7 @@ Conforme a lo establecido en la Ley N.° 29733 de Protección de Datos Personale
 
 Para efectos de esta Política toda referencia a “nos” o “nosotros”, se refiere a Actio; y cuando se refiera a el “usuario” o los "usuarios”, se entenderá a todos aquellas personas naturales o jurídicas distintas a Actio1680 que naveguan dentro del Sitio Web. Esta Política no se aplica a sitios web, servicios, productos o aplicaciones de terceros, incluso si pueden ser accedidos a través del Sitio Web.
 
-[> Cuestiones legales](administracion/legal.md)
+[> Cuestiones legales](/legal.md)
 
 ### Los cookies en el Sitio Web
 Las cookies son pequeños archivos de texto que se almacenan en el dispositivo del usuario cuando visita una página web. 
