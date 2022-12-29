@@ -17,6 +17,6 @@ El SITIO WEB
 
 <br>
 <div align="right">
-<i>San Juan de Miraflores, 29 de diciembre de 2022</i><br>
+<i>San Juan de Miraflores, diciembre de 2022</i><br>
 (Última actualización)
 </div>
