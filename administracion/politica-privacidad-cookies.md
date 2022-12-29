@@ -12,9 +12,9 @@ Para efectos de esta Política toda referencia a “nos” o “nosotros”, se 
 ### Privacidad y cookies en el Sitio Web
 Las cookies son pequeños archivos de texto que se almacenan en el dispositivo del usuario cuando visita una página web. 
 
-Para la navegación del presente Sitio Web no es requerido ningún cookie. El Sitio Web trabaja bajo la plataforma de [Jekyll](https://jekyllrb.com/), la cual es un generador de sitios web estáticos que se utiliza comúnmente para crear sitios web. Por sí mismo, no tiene la capacidad de utilizar cookies, ya que no tiene componentes del lado del servidor y no puede almacenar ni recuperar datos del navegador del usuario. 
+Para la navegación del presente Sitio Web no es requerido ningún cookie. El Sitio Web trabaja bajo la plataforma de [Jekyll](https://jekyllrb.com/), la cual es un generador de sitios web estáticos que se utiliza comúnmente para crear sitios web. Por sí mismo, no tiene la capacidad de utilizar cookies de los usuario, ya que no tiene componentes del lado del servidor y no puede almacenar ni recuperar datos del navegador del usuario. 
 
-Al no extraer ni almacenar datos personales, no es requerido un protocolo de privacidad. 
+Al no extraer ni almacenar datos personales, no es requerido un protocolo de privacidad. En caso de alguna implementación técnica que requiera la utilización de cookies, Actio1680 se compromete a cambiar la Política para alertar a sus usuarios de las nuevas funcionalidades y proteger sus derechos según ley.  
 
 <br>
 <div align="right">
