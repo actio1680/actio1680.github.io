@@ -4,7 +4,7 @@ layout: default
 ## Términos y Condiciones de Uso
 Los Términos y Condiciones de Uso del Sitio Web tiene como objetivo describir las reglas de su uso, derechos de autor y  la responsabilidad legal. 
 
-Los Términos y Condiciones de Uso regulan el acceso y uso de los servicios y funcionalidades del Sitio Web por parte del usuario. La condición de usuario se adquiere al navegar y/o utilizar el Sitio Web. Los usuarios pueden acceder y navegar libremente sin necesidad de registrarse o suscribirse.
+Los Términos y Condiciones de Uso regulan el acceso y uso de los servicios y funcionalidades en [actio1680.github.io](https://actio1680.github.io/), en adelante el “Sitio Web”, por parte del usuario. La condición de usuario se adquiere al navegar y/o utilizar el Sitio Web. Los usuarios pueden acceder y navegar libremente sin necesidad de registrarse o suscribirse.
 
 [> Cuestiones legales](/legal.md)
 
