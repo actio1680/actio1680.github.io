@@ -20,3 +20,5 @@ nav:
    link: "/"
  - name: "Linkedin"
    link: "https://bit.ly/Linkedin-wab"
+ - name: "Legal"
+   link: "/administracion/legal"
