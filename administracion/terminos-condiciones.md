@@ -16,7 +16,7 @@ El Decreto Legislativo N.° 822, Ley sobre el Derecho de Autor, define la obra c
 
 Los Escritos, Proyectos y Recursos contenidos en el Sitio Web se encuentran bajo la autoría de William Atencio, a menos que se indique lo contrario. La Obra de terceros son aquellas obras cuya titularidad de derechos de autor descansa en personas distintas a William Atencio.  
 
-El contenido (Escritos, Proyectos y Recursos) del presente Sitio Web está bajo una <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es">Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional</a>. El contenido de terceros presente en el Sitio Web solo puede ser utilizado con la autorización del propietario o de acuerdo con las leyes aplicables. Los presentes Términos y Condiciones de Uso no confieren a terceros ningún derecho o beneficio en relación con dicho contenido.
+El contenido (Escritos, Proyectos y Recursos) del presente Sitio Web está bajo una <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es">Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional</a>, siempre y cuando no se indique lo contrario. El contenido de terceros presente en el Sitio Web solo puede ser utilizado con la autorización del propietario o de acuerdo con las leyes aplicables. Los presentes Términos y Condiciones de Uso no confieren a terceros ningún derecho o beneficio en relación con dicho contenido.
 
 ### Responsabilidad legal 
 Este Sitio Web proporciona Escritos, Proyectos, Recursos y Obra de terceros sin garantías de ningún tipo, ya sean expresas o implícitas. No se garantiza la exactitud, fiabilidad, actualidad o integridad de la información proporcionada en este sitio.
@@ -28,7 +28,7 @@ Este sitio puede contener enlaces a sitios web de terceros. No tenemos control s
 
 <br>
 <div align="right">
-<i>San Juan de Miraflores, diciembre de 2022</i><br>
+<i>San Juan de Miraflores, enero de 2023</i><br>
 (Última actualización)
 </div>
 <br>
