@@ -23,4 +23,6 @@ nav:
  - name: "Legal"
    link: "/administracion/legal"
 
-favicon: /image_/favicon.ico
+favicon: "/image_/favicon.ico"
+
+
