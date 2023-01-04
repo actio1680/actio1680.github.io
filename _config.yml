@@ -22,3 +22,5 @@ nav:
    link: "https://bit.ly/Linkedin-wab"
  - name: "Legal"
    link: "/administracion/legal"
+
+favicon: /image_/favicon.ico
