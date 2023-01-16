@@ -13,18 +13,16 @@ Un hecho es seguro, esta primera obra sería el antecedente de las recopilacione
 
 Es así que, el presente proyecto busca sistematizar y referenciar en una base de datos los títulos de las sentencias publicadas por la Corte Suprema de Justicia del Perú, durante 1870 y 1972. En este primer lanzamiento, la base de datos tuvo como fuente los Anales judiciales de la Corte Suprema de Justicia, que en 64 tomos aborda un poco más de 100 años de sentencias supremas. Esta herramienta pretende ser útil para los juristas e investigadores en lo que respecta a la Historia del Derecho peruano. 
 
+[> Repositorio del proyecto](https://github.com/actio1680/Cuerpos-legales-Peru/tree/main/Sentencias-supremas)
 
-## CONTENIDO
-**1. Descripción de las sentencias supremas**
+### CONTENIDO
+**1. Base de datos de las sentencias de la Corte Suprema de Justicia**
 
-**2. Base de datos de las sentencias de la Corte Suprema de Justicia**
+**2. Documento XLSX**
 
 ---
 
-### 1. DESCRIPCIÓN DE LAS SENTENCIAS DE LAS CORTE SUPREMA DE JUSTICIA
-
-
-### 2. BASE DE DATOS DE LAS SENTENCIAS DE LA CORTE SUPREMA DE JUSTICA
+### 1. BASE DE DATOS DE LAS SENTENCIAS DE LA CORTE SUPREMA DE JUSTICA
 La obra principal para la confección de la base de datos fueron los primeros 64 tomos de los Anales judiciales de la Corte Suprema de Justicia, que comprenden los años judiciales de 1870 a 1972. Los tomos contienen sentencias escogidas por operadores de justicia y profesionales especializados en la materia; es decir, no todas las sentencias fueron publicadas en los, sino las más trascendentes.
 
 La base de datos consta de las siguientes características:
@@ -41,7 +39,6 @@ La base de datos consta de las siguientes características:
  - **F. Tomo:** La fuente del tomo donde se extraen los títulos de la sentencia suprema. 
  - **Enlace:** Conduce al almacenamiento virtual de la obra.
 
-No todo el contenido esta volcado en el archivo, puesto que, aún se estan extrayendo los datos. Los datos secundarios, así que no afectan a la base de datos en general, sino que la complementan. Las categorías ejes fundamentales son el **Título general** y el **Título especifíco** porque según los modos de organizar las sentencias en cada período histórico ha sido distinta; así por ejemplo, mientras en la actualidad prima el código, antaño era o bien la sumilla o la materia. El archivo actualizado que tienenes de formato XLSX.
 
 Respecto al contenido, se pinto de un color especifico y colocó un símbolo según la descripción siguiente: 
 - Negro: Sin información en el documento. Símbolo ( --- ). 
@@ -49,12 +46,16 @@ Respecto al contenido, se pinto de un color especifico y colocó un símbolo seg
 - Rojo: Creado por nosotros con base en las sentencias supremas para ayudar al lector de la base de datos. 
 
 
+### 2. DOCUMENTO XLSX
+
+
 |DOCUMENTO||
 | --- | --- |
-|Base de datos de las sentencias de la Corte Suprema de Justicia del Perú 1870-1972|![XLSX](https://user-images.githubusercontent.com/54146735/206073555-56ca38e9-4261-49ca-867b-b13bd8ad9fc2.png)|
+|Base de datos de las sentencias de la Corte Suprema de Justicia del Perú 1870-1972|![XLSX](https://user-images.githubusercontent.com/54146735/212601491-cc32e2e9-6c30-4a8e-9933-9e39824e60d7.png)|
 ||[Descargar XLSX](https://github.com/actio1680/Cuerpos-legales-Peru/tree/main/Sentencias-supremas/BD-AJCS-XX-XXI)|
 
 
+No todo el contenido esta volcado en el archivo, puesto que, aún se estan extrayendo los datos. Los datos secundarios, así que no afectan a la base de datos en general, sino que la complementan. Las categorías ejes fundamentales son el **Título general** y el **Título especifíco** porque según los modos de organizar las sentencias en cada período histórico ha sido distinta; así por ejemplo, mientras en la actualidad prima el código, antaño era o bien la sumilla o la materia. El archivo actualizado que tienenes de formato XLSX.
 
 
 <div align="right">
