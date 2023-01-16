@@ -9,6 +9,11 @@ layout: default
 
 ## Proyectos 
 
+### Base de datos de las sentencias de la Corte Suprema de Justicia del Perú 1870-1972
+- **Publicación:** Enero, 2023
+- **Descripción:** El proyecto busca sistematizar y referenciar en una base de datos los títulos de las sentencias publicadas por la Corte Suprema de Justicia del Perú, durante 1870 y 1972. En este primer lanzamiento, la base de datos tuvo como fuente los Anales judiciales de la Corte Suprema de Justicia, que en 64 tomos aborda un poco más de 100 años de sentencias supremas. Esta herramienta pretende ser útil para los juristas e investigadores en lo que respecta a la Historia del Derecho peruano. 
+- **Enlace:** [Proyecto3](proyecto2/presentacion3.md)
+
 ### Digitalización de los cuerpos legales del Perú: Virreinato y República
 - **Publicación:** Agosto, 2022
 - **Descripción:** El Proyecto busca referenciar los cuerpos legales principales, abrogados y vigentes, que fueron parte de la historia jurídica del Perú. El Virreinato y la República son dos etapas de una sociedad en constante cambio, y como tal, son un *continuum*; por ello, de manera progresiva se ha previsto considerar los principales cuerpos legales y recopilaciones temáticas. Existen dos tipos de almacenamiento: **1)** Indices de presentación de los cuerpos legales del proyecto, y **2)** los repositorios en Github donde se ubican los documentos jurídicos. 
