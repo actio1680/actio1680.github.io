@@ -13,7 +13,7 @@ Un hecho es seguro, esta primera obra sería el antecedente de las recopilacione
 
 Es así que, el presente proyecto busca sistematizar y referenciar en una base de datos los títulos de las sentencias publicadas por la Corte Suprema de Justicia del Perú, durante 1870 y 1972. En este primer lanzamiento, la base de datos tuvo como fuente los Anales judiciales de la Corte Suprema de Justicia, que en 64 tomos aborda un poco más de 100 años de sentencias supremas. Esta herramienta pretende ser útil para los juristas e investigadores en lo que respecta a la Historia del Derecho peruano. 
 
-[> Repositorio del proyecto](https://github.com/actio1680/Cuerpos-legales-Peru/tree/main/Sentencias-supremas)
+[> Repositorio del proyecto](https://github.com/actio1680/Cuerpos-legales-Peru/tree/main/Sentencias-supremas/BD-AJCS-XX-XXI)
 
 ### CONTENIDO
 **1. Base de datos de las sentencias de la Corte Suprema de Justicia**
