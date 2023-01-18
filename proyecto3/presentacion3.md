@@ -58,6 +58,7 @@ Respecto al contenido, se pinto de un color especifico y colocó un símbolo seg
 No todo el contenido esta volcado en el archivo, puesto que, aún se estan extrayendo los datos. Los datos secundarios, así que no afectan a la base de datos en general, sino que la complementan. Las categorías ejes fundamentales son el **Título general** y el **Título especifíco** porque según los modos de organizar las sentencias en cada período histórico ha sido distinta; así por ejemplo, mientras en la actualidad prima el código, antaño era o bien la sumilla o la materia. El archivo actualizado que tienenes de formato XLSX.
 
 
+<br>
 <div align="right">
 <i>San Juan de Miraflores, enero de 2023</i><br>
 (Última actualización)
