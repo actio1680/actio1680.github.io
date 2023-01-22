@@ -43,7 +43,13 @@ Se considera tanto al Virreinato (Monarquía Hispánica), como a la República(R
 - [Código Civil Santa-Cruz del Estado Nor-Peruano/Sud-Peruano 1836](/cc1836.md)
 
 #### Derecho Procesal Civil en el Perú
+- Código Procesal Civil 1993
+- Código de Procedimientos Civiles 1912
 - [Código de Enjuiciamientos en Materia Civil del Perú 1852](/cpcivil1852.md)
+
+#### Derecho Penal en el Perú
+
+#### Derecho Procesal Penal en el Perú
 
 #### Derecho Administrativo en el Perú
 - Recopilación de los cuerpos legales que Administran los Bienes Inmuebles Estatales (Pronto)
