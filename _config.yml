@@ -18,8 +18,8 @@ sass:
 nav:
  - name: "Inicio"
    link: "/"
- - name: "Linkedin"
-   link: "https://bit.ly/Linkedin-wab"
+ - name: "Hola"
+   link: "/hola"
  - name: "Legal"
    link: "/administracion/legal"
 
