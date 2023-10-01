@@ -8,7 +8,7 @@ Sociológo y abogado interesado en el estudio científico e histórico de las in
 
 He investigado la ciudad de Lima durante el siglo XX, especialmente, al sur de la ciudad. Así también, explora las instituciones estatales y su relación con los proyectos inmobiliarios de vivienda durante el siglo XX. Asimismo, participé como colaborador en investigaciones criminológicas y penales. 
 
-Desde el 2021 hasta la actualidad es miembro principal del *[Grupo de Estudios de Derecho Inmobiliario – GEDI UNMSM](https://www.facebook.com/GEDI.SanMarcos)*. Así también, es miembro principal en el Instituto Pamplona.
+Desde el 2021 hasta la actualidad es miembro principal del *[Grupo de Estudios de Derecho Inmobiliario – GEDI UNMSM](https://www.facebook.com/GEDI.SanMarcos)*. Así también, es miembro principal en el Instituto Pamplona y co-fundador de Social-Lab *[Social-Lab. Laboratorio de Datos Sociales](https://www.facebook.com/people/Social-Lab/100092960187270/)*
 
 [*] Contacto william.atencio@unmsm.edu.pe
 
@@ -18,3 +18,6 @@ Desde el 2021 hasta la actualidad es miembro principal del *[Grupo de Estudios d
 [2] [Linkendin](https://linkedin.com/)
 
 [3] [Github](https://github.com/actio1680)
+
+
+
