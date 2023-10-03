@@ -11,8 +11,8 @@ layout: default
 
 ### Discursos presidenciales del Perú 
 - **Publicación:** Julio, 2023
-- **Descripción:** El presente repositorio almacena y analiza en nubes de palabras (wordclouds) los discursos presidenciales durante las fiestas patrias del 28 de julio de los gobernantes peruanos del siglo XIX, XX y XXI, de facto y derecho, almacenados en la sección "Mensajes presidenciales y otros documentos para la Historia política del Perú" del sitio web del Congreso de la Républica.
-- **Enlace:** [Proyecto4](proyecto3/presentacion4.md)
+- **Descripción:** El presente repositorio almacena y analiza en nubes de palabras (wordclouds) los discursos presidenciales durante las fiestas patrias del 28 de julio de los gobernantes peruanos del siglo XIX, XX y XXI, de facto y derecho, almacenados en la sección "Mensajes presidenciales y otros documentos para la Historia política del Perú" del sitio web del Congreso de la Républica, analizando un total  de 138 discursos presidenciales. 
+- **Enlace:** [Proyecto4](proyecto4/presentacion4.md)
 
 ### Base de datos de las sentencias de la Corte Suprema de Justicia del Perú 1870-1972
 - **Publicación:** Enero, 2023
