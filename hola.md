@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Sobre mí
+## Hola
 
 Soy sociológo y abogado interesado en el estudio científico e histórico de las instituciones reales-contractuales, urbanistícas, administrativas y penales. Así como en la investigación en proyectos de ciencia de datos aplicados a la investigación social. 
 
