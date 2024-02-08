@@ -20,6 +20,8 @@ nav:
    link: "/"
  - name: "Hola"
    link: "/hola"
+ - name: "Apuntes"
+   link: "/apuntes"
  - name: "Legal"
    link: "/administracion/legal"
 
