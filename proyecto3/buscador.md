@@ -1,7 +1,7 @@
 ---
 title: Table test
 ---
-
+<div class="datatable-begin"></div>
 <table>
   {% for row in site.data.authors %}
     {% if forloop.first %}
@@ -17,3 +17,4 @@ title: Table test
     {% endtablerow %}
   {% endfor %}
 </table>
+<div class="datatable-end"></div>
