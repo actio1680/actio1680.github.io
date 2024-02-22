@@ -4,8 +4,6 @@ title: "Ejemplo DataTables optimizado"
 
 ## Tabla con paginación y búsqueda
 
-{% search_box %}
-
 <table>
   <thead>
     <tr>
@@ -15,7 +13,6 @@ title: "Ejemplo DataTables optimizado"
     </tr>
   </thead>
   <tbody>
-    {% paginate %}
       {% for author in page.authors %}
         <tr>
           {% for value in author %}
@@ -23,6 +20,5 @@ title: "Ejemplo DataTables optimizado"
           {% endfor %}
         </tr>
       {% endfor %}
-    {% endpaginate %}
   </tbody>
 </table>
