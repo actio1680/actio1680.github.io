@@ -11,24 +11,31 @@ title: Table test
 </head>
 
 <body> 
+
 <div class="datatable-begin"></div>
 <table>
-  {% for row in site.data.authors %}
-    {% if forloop.first %}
-    {% search_box %}  
+  {% search_box %}
+  <thead>
     <tr>
-      {% for pair in row %}
+      {% for pair in site.data.authors[0] %}
         <th>{{ pair[0] }}</th>
       {% endfor %}
     </tr>
-    {% endif %}
-
-    {% tablerow pair in row %}
-      {{ pair[1] }}
-    {% endtablerow %}
-  {% endfor %}
+  </thead>
+  <tbody>
+    {% paginate %}
+      {% for row in page.authors %}
+        <tr>
+          {% for pair in row %}
+            <td>{{ pair[1] }}</td>
+          {% endfor %}
+        </tr>
+      {% endfor %}
+    {% endpaginate %}
+  </tbody>
 </table>
 <div class="datatable-end"></div>
+
 </body>
 
 </html> 
