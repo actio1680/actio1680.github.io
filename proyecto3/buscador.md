@@ -1,20 +1,12 @@
 ---
-title: Table test
+title: "Ejemplo DataTables optimizado"
 ---
-<html>
 
-<head>
-  <meta charset="UTF-8">
-  <title>Table test</title>
-  <link rel="stylesheet" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css">
-  <link rel="stylesheet" href="styles.css">
-</head>
+## Tabla con paginación y búsqueda
 
-<body> 
+{% search_box %}
 
-<div class="datatable-begin"></div>
 <table>
-  {% search_box %}
   <thead>
     <tr>
       {% for pair in site.data.authors[0] %}
@@ -24,18 +16,13 @@ title: Table test
   </thead>
   <tbody>
     {% paginate %}
-      {% for row in page.authors %}
+      {% for author in page.authors %}
         <tr>
-          {% for pair in row %}
-            <td>{{ pair[1] }}</td>
+          {% for value in author %}
+            <td>{{ value }}</td>
           {% endfor %}
         </tr>
       {% endfor %}
     {% endpaginate %}
   </tbody>
 </table>
-<div class="datatable-end"></div>
-
-</body>
-
-</html> 
