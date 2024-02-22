@@ -14,6 +14,7 @@ title: Table test
 <div class="datatable-begin"></div>
 <table>
   {% for row in site.data.authors %}
+    {% search_box %} 
     {% if forloop.first %}
     <tr>
       {% for pair in row %}
