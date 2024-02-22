@@ -1,6 +1,16 @@
 ---
 title: Table test
 ---
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Table test</title>
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body> 
 <div class="datatable-begin"></div>
 <table>
   {% for row in site.data.authors %}
@@ -18,3 +28,6 @@ title: Table test
   {% endfor %}
 </table>
 <div class="datatable-end"></div>
+</body>
+
+</html> 
