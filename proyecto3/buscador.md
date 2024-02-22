@@ -15,6 +15,7 @@ title: Table test
 <table>
   {% for row in site.data.authors %}
     {% if forloop.first %}
+    {% search_box %}  
     <tr>
       {% for pair in row %}
         <th>{{ pair[0] }}</th>
