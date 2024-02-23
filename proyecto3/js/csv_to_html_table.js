@@ -1,5 +1,5 @@
 var CsvToHtmlTable = CsvToHtmlTable || {};
-
+ 
 CsvToHtmlTable = {
     init: function (options) {
         options = options || {};
