@@ -19,14 +19,11 @@
     <div class="container-fluid">
         <main class="row">
             <div class="col">
-                <h1>CSV to HTML Table</h1>
+                <h1>Tabla de prueba</h1>
 
-                <p>Display any CSV file as a searchable, filterable, pretty HTML table. Done in 100% JavaScript. <a
-                        href="https://github.com/derekeder/csv-to-html-table">Code
-                        on GitHub</a>.</p>
+                <p>La presente página de Actio1680 es un página de prueba para comprobar si es que se puede ejecutar archivos csv en este espacio.</p>
 
-                <p> Here's a table of Health Clinics from the <a href="https://data.cityofchicago.org/browse?q=health%20clinic&sortBy=relevance&utf8=%E2%9C%93">City
-                        of Chicago Data Portal</a>.
+                <p> El presente proyecto pueden encontrarlo en Proyecto 3 <a href="https://actio1680.github.io/proyecto3/"> Proyecto03</a>.
                 </p>
 
                 <div id="table-container"></div>
@@ -35,9 +32,7 @@
         <footer class="row">
             <div class="col">
                 <hr>
-                <p class="text-right"><a href="https://github.com/derekeder/csv-to-html-table">CSV to HTML Table</a> by
-                    <a href="http://derekeder.com">Derek
-                        Eder</a></p>
+                <p class="text-right"><a href="https://actio1680.github.io/proyecto3/">Actio1680 </a> por William Atencio </p>
             </div>
         </footer>
     </div>
@@ -56,11 +51,11 @@
         }
 
         CsvToHtmlTable.init({
-            csv_path: "data/Health Clinics in Chicago.csv",
+            csv_path: "data/Libro1.csv",
             element: "table-container",
             allow_download: true,
             csv_options: {
-                separator: ",",
+                separator: ";",
                 delimiter: '"'
             },
             datatables_options: {
