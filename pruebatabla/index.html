@@ -1,33 +1,49 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en"> 
+
 <head>
-    <meta charset="UTF-8">
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>CSV to HTML Table</title>
+    <meta name="author" content="Derek Eder">
+    <meta content="Display any CSV file as a searchable, filterable, pretty HTML table">
 
-    <link rel="stylesheet" type="text/css" href="css/jquery.dataTables.min.css">
-    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-    <!--<link rel="stylesheet" type="text/css" href="css/dataTables.bootstrap.min.css"> -original-->
-     <!-- Insertado mixto -->
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS"
+        crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css">
-    
-    <link rel="stylesheet" type="text/css" href="css/buttons.dataTables.min.css">
-    <link rel="stylesheet" type="text/css" href="css/style.css">
-
-    <title>Beautiful Tables</title>
 </head>
 
-<body class="container">
-<h1 class="text-center">Sample DataTables Project</h1>
+<body>
+    <div class="container-fluid">
+        <main class="row">
+            <div class="col">
+                <h1>Tabla de prueba</h1>
 
+                <p>La presente página de Actio1680 es un página de prueba para comprobar si es que se puede ejecutar archivos csv en este espacio.</p>
 
-  <!-- Insertado mixto -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.2.1/js/bootstrap.bundle.min.js"></script>
-<script src="js/jquery.csv.min.js"></script>
-<script src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js"></script>
-<script src="js/csv_to_html_table.js"></script>   
-      <!-- Insertado mixto -->
+                <p> El presente proyecto pueden encontrarlo en Proyecto 3 <a href="https://actio1680.github.io/proyecto3/"> Proyecto03</a>.
+                </p>
 
+                <div id="table-container"></div>
+            </div>
+        </main>
+        <footer class="row">
+            <div class="col">
+                <hr>
+                <p class="text-right"><a href="https://actio1680.github.io/proyecto3/">Actio1680 </a> por William Atencio </p>
+            </div>
+        </footer>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.2.1/js/bootstrap.bundle.min.js"></script>
+    <script src="js/jquery.csv.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js"></script>
+    <script src="js/csv_to_html_table.js"></script>
 
- <script>
+    <script>
         function format_link(link) {
             if (link)
                 return "<a href='" + link + "' target='_blank'>" + link + "</a>";
@@ -35,11 +51,11 @@
         }
 
         CsvToHtmlTable.init({
-            csv_path: "data/Health Clinics in Chicago.csv",
+            csv_path: "data/Libro1.csv",
             element: "table-container",
             allow_download: true,
             csv_options: {
-                separator: ",",
+                separator: ";",
                 delimiter: '"'
             },
             datatables_options: {
@@ -50,8 +66,6 @@
             ]
         });
     </script>
-    
-<footer>For documentation and licensing visit <a href="https://datatables.net/">DataTables</a></footer>
 </body>
 
 </html>
