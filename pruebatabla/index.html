@@ -18,126 +18,6 @@
 <body class="container">
 <h1 class="text-center">Sample DataTables Project</h1>
 
-<table id="maintable" class="display compact cell-border" cellspacing="0" width="100%">
-    <thead>
-    <tr>
-        <th>Name</th>
-        <th>Position</th>
-        <th>City</th>
-        <th>Age</th>
-        <th>Start Date</th>
-        <th>Salary</th>
-    </tr>
-    </thead>
-    <tbody>
-    <tr>
-        <td>Tiger Nixon</td>
-        <td>System Architecture</td>
-        <td>Edinburgh</td>
-        <td>61</td>
-        <td>2011/04/25</td>
-        <td>$320,800</td>
-    </tr>
-    <tr>
-        <td> Harold Franklin</td>
-        <td> Financial Advisor</td>
-        <td> Tuwiri Wetan</td>
-        <td> 43</td>
-        <td> 06/18/2011</td>
-        <td> $159671.33</td>
-    </tr>
-    <tr>
-        <td> Rose Porter</td>
-        <td> Geologist IV</td>
-        <td> Banjar Sandinggianyar</td>
-        <td> 36</td>
-        <td> 12/11/2010</td>
-        <td> $204836.19</td>
-    </tr>
-    <tr>
-        <td> Tammy Garcia</td>
-        <td> Engineer I</td>
-        <td> Cardona</td>
-        <td> 27</td>
-        <td> 06/05/2014</td>
-        <td> $247546.34</td>
-    </tr>
-    <tr>
-        <td> Donna Hayes</td>
-        <td> Office Assistant IV</td>
-        <td> Guandu</td>
-        <td> 35</td>
-        <td> 06/18/2016</td>
-        <td> $209189.26</td>
-    </tr>
-    <tr>
-        <td> Ruth Morris</td>
-        <td> Senior Sales Associate</td>
-        <td> Nankun</td>
-        <td> 62</td>
-        <td> 03/19/2013</td>
-        <td> $64013.22</td>
-    </tr>
-    <tr>
-        <td> Alice Matthews</td>
-        <td> Registered Nurse</td>
-        <td> Shikārpur</td>
-        <td> 28</td>
-        <td> 11/11/2010</td>
-        <td> $66930.52</td>
-    </tr>
-    <tr>
-        <td> Paul Ortiz</td>
-        <td> Media Manager III</td>
-        <td> Khonj</td>
-        <td> 32</td>
-        <td> 04/25/2016</td>
-        <td> $380822.96</td>
-    </tr>
-    <tr>
-        <td> Patricia Howard</td>
-        <td> Accounting Assistant II</td>
-        <td> Babakanloa</td>
-        <td> 61</td>
-        <td> 04/04/2012</td>
-        <td> $136172.22</td>
-    </tr>
-    <tr>
-        <td> Jeremy Warren</td>
-        <td> Tax Accountant</td>
-        <td> Yafan</td>
-        <td> 26</td>
-        <td> 11/11/2014</td>
-        <td> $169815.84</td>
-    </tr>
-    <tr>
-        <td> Mildred Gomez</td>
-        <td> Graphic Designer</td>
-        <td> Banamba</td>
-        <td> 33</td>
-        <td> 07/27/2012</td>
-        <td> $370674.63</td>
-    </tr>
-    <tr>
-        <td> John Washington</td>
-        <td> Assistant Professor</td>
-        <td> Hūn</td>
-        <td> 55</td>
-        <td> 04/20/2016</td>
-        <td> $168488.87</td>
-    </tr>
-    </tbody>
-    <tfoot style="background-color: #c0c0c0; color: #ffffff; font-size: 0.9em; ">
-    <tr>
-        <th>Name</th>
-        <th>Position</th>
-        <th>City</th>
-        <th>Age</th>
-        <th>Start Date</th>
-        <th>Salary</th>
-    </tr>
-    </tfoot>
-</table>
 
 <script type="text/javascript" src="js/jquery-2.2.4.min.js"></script>
 <script type="text/javascript" src="js/jquery.dataTables.min.js"></script>
@@ -157,6 +37,31 @@
 <script src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js"></script>
 <script src="js/csv_to_html_table.js"></script>   
       <!-- Insertado mixto -->
+
+
+ <script>
+        function format_link(link) {
+            if (link)
+                return "<a href='" + link + "' target='_blank'>" + link + "</a>";
+            else return "";
+        }
+
+        CsvToHtmlTable.init({
+            csv_path: "data/Health Clinics in Chicago.csv",
+            element: "table-container",
+            allow_download: true,
+            csv_options: {
+                separator: ",",
+                delimiter: '"'
+            },
+            datatables_options: {
+                paging: false
+            },
+            custom_formatting: [
+                [4, format_link]
+            ]
+        });
+    </script>
     
 <footer>For documentation and licensing visit <a href="https://datatables.net/">DataTables</a></footer>
 </body>
