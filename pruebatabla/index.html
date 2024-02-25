@@ -50,7 +50,7 @@
     }
 
     CsvToHtmlTable.init({
-      csv_path: "data/BDCS_XIX-XX_resumen.csv",
+      csv_path: "data/BDCS_XIX-XX_reducido.csv",
       element: "table-container",
       allow_download: true,
       csv_options: {
@@ -58,8 +58,7 @@
         delimiter: '"'
       },
       datatables_options: {
-        paging: true,
-        scrollX: true
+        paging: true
 
       },
       custom_formatting: [
