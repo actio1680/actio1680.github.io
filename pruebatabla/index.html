@@ -16,6 +16,10 @@ layout: default
 </head>
 
 <body>
+  <div id="table-container">
+  <input type="text" id="search-input" placeholder="Buscar...">
+  </div>
+  
   <div class="container-fluid">
     <main class="row">
       <div class="col">
@@ -39,10 +43,6 @@ layout: default
   <script src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js"></script>
   <script src="js/csv_to_html_table.js"></script>
 
-  <div id="table-container">
-  <input type="text" id="search-input" placeholder="Buscar...">
-  </div>
-
   <script>
     function format_link(link) {
       if (link)
@@ -59,8 +59,9 @@ layout: default
         delimiter: '"'
       },
       datatables_options: {
-        paging: true
-
+        paging: true,
+        searching: true // Habilita la funcionalidad de búsqueda
+    },
       },
       custom_formatting: [
         [3, format_link]
