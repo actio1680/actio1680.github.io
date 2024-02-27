@@ -26,12 +26,11 @@ layout: default
         <p> Para informarse sobre los detalles técnicos de la base de datos leer el <a href="https://actio1680.github.io/proyecto3/presentacion3.html">artículo principal</a>.
         </p>
 
-        <div id="table-container">
-        </div>
+        <div id="table-container"></div>
       </div>
     </main>
   </div>
-
+  
   <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.2.1/js/bootstrap.bundle.min.js"></script>
   <script src="js/jquery.csv.min.js"></script>
@@ -40,30 +39,29 @@ layout: default
   <script src="js/csv_to_html_table.js"></script>
 
   <script>
-    function format_link(link) {
-      if (link)
-        return "<a href='" + link + "' target='_blank'>Enlace</a>";
-      else return "";
-    }
+      function format_link(link) {
+          if (link)
+              return "<a href='" + link + "' target='_blank'>Enlace</a>";
+          else return "";
+      }
 
-    CsvToHtmlTable.init({
-      csv_path: "data/BDCS_XIX-XX_reducido4.csv",
-      element: "table-container",
-      allow_download: false,
-      csv_options: {
-        separator: ";",
-        delimiter: '"'
-      },
-      datatables_options: {
-        paging: true
-      
-    },
-      },
-      custom_formatting: [
-        [3, format_link]
-      ]
-    });
+      CsvToHtmlTable.init({
+          csv_path: "data/BDCS_XIX-XX_reducido4.csv",
+          element: "table-container",
+          allow_download: false,
+          csv_options: {
+              separator: ";",
+              delimiter: '"'
+          },
+          datatables_options: {
+              paging: true
+          },
+          custom_formatting: [
+              [3, format_link]
+          ]
+      });
   </script>
 </body>
 
 </html>
+
