@@ -20,6 +20,14 @@ CsvToHtmlTable = {
         var $containerElement = $("#" + el);
         $containerElement.empty().append($table);
 
+     
+        $("#search-input").on("input", function() {
+            var searchTerm = $(this).val();
+        $("#table-container-table").DataTable().search(searchTerm).draw();
+        });
+
+
+     
         $.when($.get(csv_path)).then(
             function (data) {
                 var csvData = $.csv.toArrays(data, csv_options);
