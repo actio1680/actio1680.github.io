@@ -86,9 +86,12 @@
                 {{ content }}
                 {% if site.footer == true %}
                     <hr />
-                    <p style="text-align: center; margin-bottom: 10px">
-                    <a href="{{ site.footer_url }}" style="color: black"><small>{{ site.footer_text }}</small></a>
-                    </p>
+                    <div style="text-align: center; margin-bottom: 10px">
+                        <a href="{{ site.footer_url }}" style="color: black; text-decoration: none;">
+                            <small>{{ site.footer_text }}</small>
+                        </a>
+                        <br>
+                    </div>
                 {% endif %}
             </div>
     </div>
