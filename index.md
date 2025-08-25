@@ -25,8 +25,7 @@ layout: default
 - **Enlace:** [Proyecto2](proyecto2/presentacion2.md)
 
 ### Base de datos de las Normas del Poder Legislativo y Ejecutivo en el Perú 1820-2025 
-[**Enlace:** [Proyecto1](proyecto1/presentacion1.md) **Publicación:** Diciembre, 2021]
-- **Descripción:** Las bases de datos son una sistematización de las normas legislativas y ejecutivas, principalmente contenidas en el Archivo Digital de la Legislación del Perú y otros documentos. Se cubren 200 años de vida republicana del país. Los archivos actualizados son de formato XLSX y HTML. 
+- **Descripción:** Las bases de datos son una sistematización de las normas legislativas y ejecutivas, principalmente contenidas en el Archivo Digital de la Legislación del Perú y otros documentos. Se cubren 200 años de vida republicana del país. Los archivos actualizados son de formato XLSX y HTML. [**Enlace:** [Proyecto1](proyecto1/presentacion1.md), **Publicación:** Diciembre, 2021]
  
 
 ## Escritos
