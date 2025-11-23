@@ -1,47 +1,75 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <title>Normas 1820–2025 | Actio1680</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <style>
-    body { font-family: sans-serif; line-height: 1.6; max-width: 900px; margin: 2rem auto; padding: 0 1rem; }
-    h1 { border-bottom: 2px solid #333; padding-bottom: 0.3rem; }
-    .loading { color: #666; }
-    table { border-collapse: collapse; width: 100%; margin: 1rem 0; }
-    th, td { border: 1px solid #ccc; padding: 0.5rem; text-align: left; }
-    a { color: #0645ad; }
-  </style>
-</head>
-<body>
-  <a href="../">← Volver a Actio1680</a>
+---
+layout: default
+title: Normas 1820–2025
+---
+
+<div class="proyecto-contenido">
   <h1>Base de datos de Normas del Poder Legislativo y Ejecutivo (1820–2025)</h1>
   
-  <div id="content">
-    <p class="loading">Cargando contenido desde GitHub…</p>
+  <div id="bd-normas-content">
+    <p>Cargando base de datos desde GitHub…</p>
   </div>
 
-  <!-- Librerías externas (CDN) -->
-  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/dompurify@3.0.5/dist/purify.min.js"></script>
+  <p class="nota">
+    ⚙️ Los datos se obtienen directamente desde el repositorio 
+    <a href="https://github.com/actio1680/Cuerpos-legales-Peru/tree/main/Normas-Legislativo-Ejecutivo/BD-Normas-XIX" target="_blank">
+      Cuerpos-legales-Peru/BD-Normas-XIX
+    </a>. 
+    Cualquier actualización allí se refleja aquí al instante.
+  </p>
+</div>
 
-  <script>
-    const rawUrl = 'https://raw.githubusercontent.com/actio1680/Cuerpos-legales-Peru/main/Normas-Legislativo-Ejecutivo/BD-Normas-XIX/README.md';
-    
-    fetch(rawUrl)
-      .then(res => res.ok ? res.text() : Promise.reject('Archivo no encontrado'))
-      .then(md => {
-        const dirty = marked.parse(md);
-        const clean = DOMPurify.sanitize(dirty, {
-          USE_PROFILES: { html: true },
-          ALLOWED_TAGS: ['h1','h2','h3','p','ul','ol','li','table','thead','tbody','tr','th','td','a','br','strong','em','code'],
-          ALLOWED_ATTR: ['href']
-        });
-        document.getElementById('content').innerHTML = clean;
-      })
-      .catch(err => {
-        document.getElementById('content').innerHTML = `<p style="color:red">❌ Error al cargar: ${err}</p>`;
+<script>
+  // Solo se ejecuta en el cliente
+  document.addEventListener('DOMContentLoaded', function() {
+    const url = 'https://raw.githubusercontent.com/actio1680/Cuerpos-legales-Peru/main/Normas-Legislativo-Ejecutivo/BD-Normas-XIX/README.md';
+    const container = document.getElementById('bd-normas-content');
+
+    // Cargar librerías si no están ya en tu layout
+    if (typeof marked === 'undefined') {
+      const libs = [
+        'https://cdn.jsdelivr.net/npm/marked/marked.min.js',
+        'https://cdn.jsdelivr.net/npm/dompurify@3.1.0/dist/purify.min.js'
+      ];
+      libs.forEach(src => {
+        const s = document.createElement('script');
+        s.src = src;
+        s.async = false;
+        document.head.appendChild(s);
       });
-  </script>
-</body>
-</html>
+    }
+
+    // Función para cargar y renderizar cuando estén listas las librerías
+    function loadContent() {
+      if (typeof marked === 'undefined' || typeof DOMPurify === 'undefined') {
+        setTimeout(loadContent, 100); // esperar
+        return;
+      }
+
+      fetch(url)
+        .then(res => res.ok ? res.text() : Promise.reject('No se pudo cargar el README.md'))
+        .then(md => {
+          const dirty = marked.parse(md);
+          const clean = DOMPurify.sanitize(dirty, {
+            ALLOWED_TAGS: ['h1','h2','h3','p','ul','ol','li','table','thead','tbody','tr','th','td','a','br','strong','em','code','pre'],
+            ALLOWED_ATTR: ['href', 'target']
+          });
+          container.innerHTML = clean;
+        })
+        .catch(err => {
+          container.innerHTML = `<p class="error">⚠️ Error: ${err.message}</p>`;
+        });
+    }
+
+    loadContent();
+  });
+</script>
+
+<style>
+  .proyecto-contenido h1 { margin-top: 0; }
+  .proyecto-contenido table { width: 100%; border-collapse: collapse; margin: 1rem 0; }
+  .proyecto-contenido th, .proyecto-contenido td { border: 1px solid #ccc; padding: 0.5rem; text-align: left; }
+  .proyecto-contenido th { background-color: #f5f5f5; }
+  .proyecto-contenido .error { color: #c0392b; }
+  .proyecto-contenido .nota { font-size: 0.9em; color: #7f8c8d; margin-top: 2rem; }
+</style>
