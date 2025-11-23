@@ -1,7 +1,3 @@
----
-layout: default
----
-
 ## Base de datos de las normas del Poder Legislativo y Ejecutivo en el Perú 1820-2021
 
 Las primeras colecciones, como se denominó a la recopilación y sistematización de leyes y decretos, fueron dadas en el siglo XIX por la necesidad de contar con libros de consulta; pues, a diferencia de nuestra época digital en aquellos días la distribución de la información mediante diarios era más limitada.
