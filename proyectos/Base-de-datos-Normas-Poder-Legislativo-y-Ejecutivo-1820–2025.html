@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Base de datos de Normas (1820–2025)
+title: Base de datos de Normas del Poder Legislativo y Ejecutivo (1820–2025)
 ---
 
 <div class="proyecto-dinamico" data-repo="BD-Normas-XIX">
@@ -12,33 +12,32 @@ title: Base de datos de Normas (1820–2025)
 
   <p class="small-note">
     ⚙️ Los datos se obtienen directamente desde 
-    <a href="https://raw.githubusercontent.com/actio1680/actio1680.github.io/main/proyecto1/" target="_blank">
+    <a href="https://github.com/actio1680/Cuerpos-legales-Peru/tree/main/Normas-Legislativo-Ejecutivo/BD-Normas-XIX" target="_blank">
       Cuerpos-legales-Peru/BD-Normas-XIX
     </a>.
   </p>
 </div>
 
 <script>
-  // ✅ Seguro, auto-contenido, compatible con tu layout
   document.addEventListener('DOMContentLoaded', function() {
     const container = document.querySelector('.proyecto-dinamico[data-repo="BD-Normas-XIX"]');
     if (!container) return;
 
     const loader = document.getElementById('normas-loader');
-    const url = 'https://raw.githubusercontent.com/actio1680/actio1680.github.io/main/proyecto1/presentacion1.md';
+    const url = 'https://raw.githubusercontent.com/actio1680/Cuerpos-legales-Peru/main/Normas-Legislativo-Ejecutivo/BD-Normas-XIX/README.md';
 
-    // Esperar librerías
-    function checkLibs() {
+    // Esperar a que las librerías estén listas
+    function waitForLibs() {
       if (typeof marked !== 'undefined' && typeof DOMPurify !== 'undefined') {
         fetchAndRender();
       } else {
-        setTimeout(checkLibs, 50);
+        setTimeout(waitForLibs, 50);
       }
     }
 
     function fetchAndRender() {
       fetch(url)
-        .then(res => res.ok ? res.text() : Promise.reject('Archivo no encontrado (404)'))
+        .then(res => res.ok ? res.text() : Promise.reject('No se pudo cargar el README.md'))
         .then(md => {
           const html = DOMPurify.sanitize(
             marked.parse(md),
@@ -55,7 +54,7 @@ title: Base de datos de Normas (1820–2025)
         });
     }
 
-    checkLibs();
+    waitForLibs();
   });
 </script>
 
