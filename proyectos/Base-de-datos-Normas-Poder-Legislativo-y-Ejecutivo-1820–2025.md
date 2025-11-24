@@ -30,9 +30,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
         /* ---------- imágenes → raw ---------- */
         md = md.replace(/!\[([^\]]*)\]\(([^)\s]+)\)/g, (m, alt, src) => {
-          if (/^https?:/.test(src)) return m;
-          src = src.replace(/^\.\//, '');
-          return `![${alt}](${RAW}${encodeURIComponent(src)})`;
+          if (/^https?:/.test(src)) return m;               // ya es absoluta
+          src = src.replace(/^\.?\//, '');                 // ./img.png  /img.png → img.png
+          return `![${alt}](https://raw.githubusercontent.com/actio1680/Cuerpos-legales-Peru/main/${encodeURIComponent(src)})`;
         });
 
         /* ---------- enlaces de descarga → absolutos ---------- */
