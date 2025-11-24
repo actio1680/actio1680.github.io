@@ -9,8 +9,8 @@ document.addEventListener('DOMContentLoaded', () => {
   const el = document.getElementById('loader');
   if (!el) return;
 
-  const README = 'https://raw.githubusercontent.com/actio1680/Cuerpos-legales-Peru/main/Normas-Legislativo-Ejecutivo/README.md';
-  const RAW    = 'https://raw.githubusercontent.com/actio1680/Cuerpos-legales-Peru/main/';
+  const README = 'https://raw.githubusercontent.com/actio1680/Cuerpos-legales-Peru/refs/heads/main/Normas-Legislativo-Ejecutivo/README.md';
+  const RAW    = 'https://raw.githubusercontent.com/actio1680/Cuerpos-legales-Peru/refs/heads/main/';
 
   function waitLibs() {
     if (typeof marked == 'undefined' || typeof DOMPurify == 'undefined') {
@@ -32,7 +32,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         /* ---------- CORREGIDO: imágenes → raw ---------- */
         md = md.replace(/!\[([^\]]*)\]\(([^)]+)\)/g, (m, alt, src) => {
-          console.log('Imagen encontrada:', {alt, src}); // DEBUG
+          console.log('Imagen encontrada:', {alt, src});
           if (/^https?:/.test(src)) return m;
           
           // Normalizar ruta
