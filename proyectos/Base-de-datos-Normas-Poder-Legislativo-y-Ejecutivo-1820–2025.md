@@ -5,60 +5,78 @@ title: Base de datos de Normas del Poder Legislativo y Ejecutivo (1820–2025)
 <div id="loader">Cargando base de datos desde GitHub…</div>
 
 <script>
-  document.addEventListener('DOMContentLoaded', function() {
-    const el = document.getElementById('loader');
-    if (!el) return;
+document.addEventListener('DOMContentLoaded', () => {
+  const el = document.getElementById('loader');
+  if (!el) return;
 
-    const url = 'https://raw.githubusercontent.com/actio1680/Cuerpos-legales-Peru/main/Normas-Legislativo-Ejecutivo/README.md';
-    const rawBase = 'https://raw.githubusercontent.com/actio1680/Cuerpos-legales-Peru/main/';
+  const README = 'https://raw.githubusercontent.com/actio1680/Cuerpos-legales-Peru/main/Normas-Legislativo-Ejecutivo/README.md';
+  const RAW    = 'https://raw.githubusercontent.com/actio1680/Cuerpos-legales-Peru/main/';
 
-    function waitForLibs() {
-      if (typeof marked !== 'undefined' && typeof DOMPurify !== 'undefined') {
-        fetch(url)
-          .then(r => r.ok ? r.text() : Promise.reject('README no encontrado'))
-          .then(md => {
-            // 1️⃣ Corregir rutas de imágenes y enlaces relativos
-            let fixed = md
-              .replace(/!\[([^\]]*)\]\(([^)\s]+)\)/g, (m, alt, src) => 
-                /^https?:/.test(src) ? m : `![${alt}](${rawBase}${encodeURIComponent(src)})`
-              )
-              .replace(/\[([^\]]+)\]\(([^)]+\.(xlsx|html))\)/g, (m, txt, href) =>
-                /^https?:/.test(href) ? m : `<a href="${rawBase}${encodeURIComponent(href)}" download>${txt}</a>`
-              );
-
-            // 2️⃣ Renderizar con marked
-            const dirty = marked.parse(fixed);
-
-            // 3️⃣ Sanitizar permitiendo HTML personalizado (align, center, footnotes, etc.)
-            const clean = DOMPurify.sanitize(dirty, {
-              ADD_TAGS: ['center', 'div', 'sup', 'a'],
-              ADD_ATTR: ['align', 'id', 'class'],
-              ALLOWED_TAGS: [
-                'h1','h2','h3','h4','p','ul','ol','li','table','thead','tbody','tr','th','td',
-                'a','br','strong','em','code','pre','img','div','center','sup','hr'
-              ],
-              ALLOWED_ATTR: [
-                'href','src','alt','width','height','download','target','id','class','align'
-              ],
-              // Permitir ids para footnotes y saltos (↑ Subir, [^1])
-              KEEP_CONTENT: true
-            });
-
-            el.innerHTML = clean;
-
-            // 4️⃣ Soporte manual para [Subir](#top) → asegurar que #top exista
-            if (!document.getElementById('top')) {
-              document.body.insertAdjacentHTML('afterbegin', '<span id="top"></span>');
-            }
-          })
-          .catch(e => el.innerHTML = `<p style="color:#c0392b;">⚠️ ${e.message}</p>`);
-      } else {
-        setTimeout(waitForLibs, 50);
-      }
+  function waitLibs() {
+    if (typeof marked == 'undefined' || typeof DOMPurify == 'undefined') {
+      return setTimeout(waitLibs, 50);
     }
 
-    waitForLibs();
-  });
+    fetch(README)
+      .then(r => r.ok ? r.text() : Promise.reject('README no encontrado'))
+      .then(md => {
+        /* ---------- footnotes manuales ---------- */
+        const footnotes = {};
+        let fnCounter   = 0;
+        md = md.replace(/\[\^(\d+)\]/g, (_, n) => {
+          footnotes[n] = footnotes[n] || ++fnCounter;
+          return `<sup><a href="#fn${n}" id="fnref${n}" class="footnote-ref">${n}</a></sup>`;
+        });
+
+        /* ---------- imágenes → raw ---------- */
+        md = md.replace(/!\[([^\]]*)\]\(([^)\s]+)\)/g, (m, alt, src) => {
+          if (/^https?:/.test(src)) return m;
+          src = src.replace(/^\.\//, '');
+          return `![${alt}](${RAW}${encodeURIComponent(src)})`;
+        });
+
+        /* ---------- enlaces de descarga → absolutos ---------- */
+        md = md.replace(/\[([^\]]+)\]\(([^)]+\.(xlsx|html|pdf))\)/gi,
+          (m, txt, href) => /^https?:/.test(href)
+            ? m
+            : `<a href="${RAW}${encodeURIComponent(href)}" download>${txt}</a>`
+        );
+
+        /* ---------- renderizar ---------- */
+        let html = marked.parse(md);
+
+        /* ---------- bloque de notas al final ---------- */
+        if (Object.keys(footnotes).length) {
+          const items = Object.keys(footnotes)
+            .sort((a, b) => a - b)
+            .map(n => `<li id="fn${n}"><a href="#fnref${n}" class="footnote-backref">↩</a></li>`)
+            .join('');
+          html += `<div class="footnotes"><ol>${items}</ol></div>`;
+        }
+
+        /* ---------- sanitizar y pegar ---------- */
+        el.innerHTML = DOMPurify.sanitize(html, {
+          ADD_TAGS: ['sup', 'div', 'ol', 'li'],
+          ADD_ATTR: ['class', 'id', 'download'],
+          ALLOWED_TAGS: [
+            'h1','h2','h3','h4','p','ul','ol','li','table','thead','tbody','tr','th','td',
+            'a','br','strong','em','code','pre','img','div','sup','ol','li'
+          ],
+          ALLOWED_ATTR: [
+            'href','src','alt','width','height','download','target','id','class'
+          ]
+        });
+
+        /* ---------- soporte “Subir” ---------- */
+        if (!document.getElementById('top')) {
+          document.body.insertAdjacentHTML('afterbegin', '<span id="top"></span>');
+        }
+      })
+      .catch(e => el.innerHTML = `<p style="color:#c0392b;">⚠️ ${e}</p>`);
+  }
+
+  waitLibs();
+});
 </script>
 
 <style>
