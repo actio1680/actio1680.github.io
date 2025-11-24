@@ -20,6 +20,8 @@ document.addEventListener('DOMContentLoaded', () => {
     fetch(README)
       .then(r => r.ok ? r.text() : Promise.reject('README no encontrado'))
       .then(md => {
+        console.log('Markdown original:', md); // DEBUG
+
         /* ---------- footnotes manuales ---------- */
         const footnotes = {};
         let fnCounter   = 0;
@@ -28,22 +30,33 @@ document.addEventListener('DOMContentLoaded', () => {
           return `<sup><a href="#fn${n}" id="fnref${n}" class="footnote-ref">${n}</a></sup>`;
         });
 
-        /* ---------- imágenes → raw ---------- */
-        md = md.replace(/!\[([^\]]*)\]\(([^)\s]+)\)/g, (m, alt, src) => {
+        /* ---------- CORREGIDO: imágenes → raw ---------- */
+        md = md.replace(/!\[([^\]]*)\]\(([^)]+)\)/g, (m, alt, src) => {
+          console.log('Imagen encontrada:', {alt, src}); // DEBUG
           if (/^https?:/.test(src)) return m;
-          src = src.replace(/^\.?\//, '').trim();   // ← elimina espacios y ./ o /
-          return `![${alt}](https://raw.githubusercontent.com/actio1680/Cuerpos-legales-Peru/main/${encodeURIComponent(src)})`;
+          
+          // Normalizar ruta
+          src = src.trim()
+                  .replace(/^\.?\//, '')
+                  .replace(/\s+/g, '%20');
+          
+          const fullUrl = `${RAW}${src}`;
+          console.log('URL final imagen:', fullUrl); // DEBUG
+          return `![${alt}](${fullUrl})`;
         });
 
         /* ---------- enlaces de descarga → absolutos ---------- */
         md = md.replace(/\[([^\]]+)\]\(([^)]+\.(xlsx|html|pdf))\)/gi,
-          (m, txt, href) => /^https?:/.test(href)
-            ? m
-            : `<a href="${RAW}${encodeURIComponent(href)}" download>${txt}</a>`
+          (m, txt, href) => {
+            if (/^https?:/.test(href)) return m;
+            const fullHref = `${RAW}${href.trim().replace(/^\.?\//, '')}`;
+            return `<a href="${fullHref}" download>${txt}</a>`;
+          }
         );
 
+        console.log('Markdown procesado:', md); // DEBUG
+
         /* ---------- renderizar ---------- */
-        console.log('MARKDOWN A PARSEAR:', md);   // ← muestra el texto que va a marked
         let html = marked.parse(md);
 
         /* ---------- bloque de notas al final ---------- */
@@ -73,7 +86,10 @@ document.addEventListener('DOMContentLoaded', () => {
           document.body.insertAdjacentHTML('afterbegin', '<span id="top"></span>');
         }
       })
-      .catch(e => el.innerHTML = `<p style="color:#c0392b;">⚠️ ${e}</p>`);
+      .catch(e => {
+        console.error('Error:', e);
+        el.innerHTML = `<p style="color:#c0392b;">⚠️ ${e}</p>`;
+      });
   }
 
   waitLibs();
