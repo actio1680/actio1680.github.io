@@ -6,174 +6,132 @@ title: Base de datos de Normas del Poder Legislativo y Ejecutivo (1820–2025)
 
 <script>
 document.addEventListener('DOMContentLoaded', () => {
-  const loader = document.getElementById('loader');
-  if (!loader) return;
+  const el = document.getElementById('loader');
+  if (!el) return;
 
-  const BASE_URL = 'https://raw.githubusercontent.com/actio1680/Cuerpos-legales-Peru/refs/heads/main/Normas-Legislativo-Ejecutivo/';
-  const README_URL = `${BASE_URL}README.md`;
+  const README = 'https://raw.githubusercontent.com/actio1680/Cuerpos-legales-Peru/refs/heads/main/Normas-Legislativo-Ejecutivo/README.md';
+  const RAW    = 'https://raw.githubusercontent.com/actio1680/Cuerpos-legales-Peru/refs/heads/main/Normas-Legislativo-Ejecutivo/';
 
-  function initializeApp() {
-    if (typeof marked === 'undefined' || typeof DOMPurify === 'undefined') {
-      return setTimeout(initializeApp, 50);
+  function waitLibs() {
+    if (typeof marked == 'undefined' || typeof DOMPurify == 'undefined') {
+      return setTimeout(waitLibs, 50);
     }
 
-    loadContent();
-  }
+    fetch(README)
+      .then(r => r.ok ? r.text() : Promise.reject('README no encontrado'))
+      .then(md => {
+        console.log('Markdown original:', md); // DEBUG
 
-  function loadContent() {
-    fetch(README_URL)
-      .then(response => response.ok ? response.text() : Promise.reject('Error cargando README'))
-      .then(processMarkdown)
-      .catch(handleError);
-  }
+        /* ---------- FORMATO [^1] PARA FOOTNOTES ---------- */
+        const footnotes = {};
+        
+        // Primero: extraer las definiciones de footnotes [^1]: contenido
+        const footnoteRegex = /\[\^(\d+)\]:\s*(.+)/g;
+        let match;
+        while ((match = footnoteRegex.exec(md)) !== null) {
+          const [, number, content] = match;
+          footnotes[number] = content.trim();
+        }
 
-  function processMarkdown(markdown) {
-    const { cleanedMarkdown, footnotes } = extractFootnotes(markdown);
-    const processedMarkdown = processLinksAndImages(cleanedMarkdown);
-    const html = renderMarkdown(processedMarkdown, footnotes);
-    
-    displayContent(html);
-  }
+        // Segundo: limpiar las definiciones del markdown para que marked no las procese
+        md = md.replace(/\[\^(\d+)\]:\s*.+?\n/g, '');
 
-  function extractFootnotes(markdown) {
-    const footnotes = {};
-    
-    // Extraer definiciones de footnotes
-    const cleanedMarkdown = markdown.replace(/\[\^(\d+)\]:\s*(.+)/g, (match, number, content) => {
-      footnotes[number] = content.trim();
-      return ''; // Remover del markdown principal
-    });
+        // Tercero: procesar referencias [^1] en el texto
+        md = md.replace(/\[\^(\d+)\]/g, (match, number) => {
+          if (footnotes[number]) {
+            return `<sup><a href="#fn${number}" id="fnref${number}" class="footnote-ref">${number}</a></sup>`;
+          }
+          return match; // Si no hay definición, dejar como está
+        });
 
-    return { cleanedMarkdown, footnotes };
-  }
+        /* ---------- CORREGIDO: imágenes → raw ---------- */
+        md = md.replace(/!\[([^\]]*)\]\(([^)]+)\)/g, (m, alt, src) => {
+          console.log('Imagen encontrada:', {alt, src});
+          if (/^https?:/.test(src)) return m;
+          
+          src = src.trim()
+                  .replace(/^\.?\//, '')
+                  .replace(/\s+/g, '%20');
+          
+          const fullUrl = `${RAW}${src}`;
+          console.log('URL final imagen:', fullUrl);
+          return `![${alt}](${fullUrl})`;
+        });
 
-  function processLinksAndImages(markdown) {
-    return markdown
-      // Procesar imágenes
-      .replace(/!\[([^\]]*)\]\(([^)]+)\)/g, (match, alt, src) => {
-        if (/^https?:/.test(src)) return match;
-        const normalizedSrc = src.trim().replace(/^\.?\//, '').replace(/\s+/g, '%20');
-        return `![${alt}](${BASE_URL}${normalizedSrc})`;
+        /* ---------- enlaces de descarga → absolutos ---------- */
+        md = md.replace(/\[([^\]]+)\]\(([^)]+\.(xlsx|html|pdf))\)/gi,
+          (m, txt, href) => {
+            if (/^https?:/.test(href)) return m;
+            const fullHref = `${RAW}${href.trim().replace(/^\.?\//, '')}`;
+            return `<a href="${fullHref}" download>${txt}</a>`;
+          }
+        );
+
+        console.log('Markdown procesado:', md);
+
+        /* ---------- renderizar ---------- */
+        let html = marked.parse(md);
+
+        /* ---------- BLOQUE DE FOOTNOTES CORREGIDO ---------- */
+        if (Object.keys(footnotes).length > 0) {
+          const footnoteNumbers = Object.keys(footnotes).sort((a, b) => a - b);
+          const items = footnoteNumbers.map(number => 
+            `<li id="fn${number}">[${number}] ↩ ${footnotes[number]}</li>`
+          ).join('');
+          
+          html += `
+            <div class="footnotes">
+              <hr>
+              <ol>${items}</ol>
+            </div>
+          `;
+        }
+
+        /* ---------- sanitizar y pegar ---------- */
+        el.innerHTML = DOMPurify.sanitize(html, {
+          ADD_TAGS: ['sup', 'div', 'ol', 'li', 'hr'],
+          ADD_ATTR: ['class', 'id', 'download', 'align'],
+          ALLOWED_TAGS: [
+            'h1','h2','h3','h4','p','ul','ol','li','table','thead','tbody','tr','th','td',
+            'a','br','strong','em','code','pre','img','div','sup','ol','li','hr'
+          ],
+          ALLOWED_ATTR: [
+            'href','src','alt','width','height','download','target','id','class','align'
+          ]
+        });
+
+        /* ---------- soporte "Subir" ---------- */
+        if (!document.getElementById('top')) {
+          document.body.insertAdjacentHTML('afterbegin', '<span id="top"></span>');
+        }
       })
-      // Procesar enlaces de descarga
-      .replace(/\[([^\]]+)\]\(([^)]+\.(xlsx|html|pdf))\)/gi, (match, text, href) => {
-        if (/^https?:/.test(href)) return match;
-        const normalizedHref = href.trim().replace(/^\.?\//, '');
-        return `<a href="${BASE_URL}${normalizedHref}" download>${text}</a>`;
-      })
-      // Procesar referencias a footnotes
-      .replace(/\[\^(\d+)\]/g, (match, number) => {
-        return `<sup><a href="#fn${number}" id="fnref${number}" class="footnote-ref">${number}</a></sup>`;
+      .catch(e => {
+        console.error('Error:', e);
+        el.innerHTML = `<p style="color:#c0392b;">⚠️ ${e}</p>`;
       });
   }
 
-  function renderMarkdown(markdown, footnotes) {
-    let html = marked.parse(markdown);
-    
-    if (Object.keys(footnotes).length > 0) {
-      html += generateFootnotesSection(footnotes);
-    }
-    
-    return html;
-  }
-
-  function generateFootnotesSection(footnotes) {
-    const footnoteItems = Object.keys(footnotes)
-      .sort((a, b) => a - b)
-      .map(number => 
-        `<li id="fn${number}">${footnotes[number]} <a href="#fnref${number}" class="footnote-backref">↩</a></li>`
-      )
-      .join('');
-
-    return `
-      <div class="footnotes">
-        <hr>
-        <ol>${footnoteItems}</ol>
-      </div>
-    `;
-  }
-
-  function displayContent(html) {
-    loader.innerHTML = DOMPurify.sanitize(html, {
-      ADD_TAGS: ['sup', 'div', 'ol', 'li', 'hr'],
-      ADD_ATTR: ['class', 'id', 'download', 'align'], // ✅ align incluido aquí
-      ALLOWED_TAGS: [
-        'h1','h2','h3','h4','p','ul','ol','li','table','thead','tbody','tr','th','td',
-        'a','br','strong','em','code','pre','img','div','sup','hr'
-      ],
-      ALLOWED_ATTR: [
-        'href','src','alt','width','height','download','target','id','class','align' // ✅ y también aquí
-      ]
-    });
-
-    ensureTopAnchor();
-  }
-
-  function ensureTopAnchor() {
-    if (!document.getElementById('top')) {
-      document.body.insertAdjacentHTML('afterbegin', '<span id="top"></span>');
-    }
-  }
-
-  function handleError(error) {
-    console.error('Error:', error);
-    loader.innerHTML = `<p style="color:#c0392b;">⚠️ ${error}</p>`;
-  }
-
-  // Configurar marked antes de iniciar
-  if (window.marked) {
-    marked.setOptions({
-      gfm: true,
-      breaks: true,
-      smartypants: true,
-      mangle: false,
-      headerIds: true
-    });
-  }
-
-  initializeApp();
+  waitLibs();
 });
 </script>
 
 <style>
-  #loader {
-    line-height: 1.6;
-  }
-
-  #loader table {
-    width: 100%;
-    border-collapse: collapse;
-    margin: 1.2em 0;
-  }
-
-  #loader th,
-  #loader td {
-    border: 1px solid #ccc;
-    padding: 0.5em;
-    text-align: left;
-  }
-
-  #loader th {
-    background: #f9f9f9;
-  }
-
-  #loader img {
-    max-width: 200px;
-    height: auto;
-  }
-
+  #loader table { width: 100%; border-collapse: collapse; margin: 1.2em 0; }
+  #loader th, #loader td { border: 1px solid #ccc; padding: 0.5em; text-align: left; }
+  #loader th { background: #f9f9f9; }
+  #loader img { max-width: 200px; height: auto; }
   #loader a[download] {
     display: inline-block;
     background: #27ae60;
-    color: white;
+    color: white !important;
     padding: 0.3em 0.7em;
     text-decoration: none;
     border-radius: 3px;
     margin: 0.2em 0;
   }
-
-  /* Footnotes styling */
-  .footnote-ref {
+  
+  /* Estilos para footnotes */
+  sup a.footnote-ref { 
     font-size: 0.75em;
     text-decoration: none;
     color: #2980b9;
@@ -182,11 +140,12 @@ document.addEventListener('DOMContentLoaded', () => {
     background: #f8f9fa;
     border-radius: 2px;
   }
-
-  .footnote-ref:hover {
+  
+  sup a.footnote-ref:hover {
     background: #e3f2fd;
+    color: #1565c0;
   }
-
+  
   .footnotes {
     margin-top: 2em;
     padding-top: 1em;
@@ -194,22 +153,24 @@ document.addEventListener('DOMContentLoaded', () => {
     font-size: 0.85em;
     color: #666;
   }
-
+  
   .footnotes ol {
     padding-left: 1.5em;
   }
-
+  
   .footnotes li {
     margin-bottom: 0.8em;
     line-height: 1.5;
+    position: relative;
   }
-
+  
   .footnote-backref {
     text-decoration: none;
     margin-left: 0.5em;
     color: #95a5a6;
+    font-size: 0.9em;
   }
-
+  
   .footnote-backref:hover {
     color: #2980b9;
   }
