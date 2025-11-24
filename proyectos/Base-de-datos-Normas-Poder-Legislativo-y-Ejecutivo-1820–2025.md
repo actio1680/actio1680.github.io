@@ -94,4 +94,12 @@ document.addEventListener('DOMContentLoaded', () => {
     margin: 0.2em 0;
   }
   sup a.footnote-ref { font-size: 0.8em; }
+  .footnotes {
+  margin-top: 2rem;
+  border-top: 1px solid #ccc;
+  font-size: 0.9em;
+  }
+  .footnotes ol { padding-left: 1.2em; }
+  .footnote-ref { text-decoration: none; }
+  .footnote-backref { margin-left: 0.3em; font-weight: bold; }
 </style>
