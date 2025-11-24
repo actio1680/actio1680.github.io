@@ -43,6 +43,7 @@ document.addEventListener('DOMContentLoaded', () => {
         );
 
         /* ---------- renderizar ---------- */
+        console.log('MARKDOWN A PARSEAR:', md);   // ← muestra el texto que va a marked
         let html = marked.parse(md);
 
         /* ---------- bloque de notas al final ---------- */
