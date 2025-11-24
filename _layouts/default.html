@@ -27,7 +27,6 @@
 
     {% if site.favicon %}
         <link rel="icon" type="image/png" href="{{ site.favicon }}">
-        <!-- Alternativo png <link rel="icon" type="image/x-icon" href="{{ site.favicon }}"> -->
     {% endif %}
     
     {% if site.twitter_username %}
@@ -56,22 +55,20 @@
     {% endif %}
 
     
-<!-- ✅ marked + soporte para footnotes + configuración segura -->
+<!-- ✅ marked + configuración segura -->
 <script>
   // Configurar marked una vez (antes de que se use)
   window.marked = null;
   const s = document.createElement('script');
   s.src = 'https://cdn.jsdelivr.net/npm/marked/marked.min.js';
   s.onload = () => {
-    // Habilitar footnotes, autolink, y más
+    // Configuración básica de marked
     marked.setOptions({
       gfm: true,
       breaks: true,
       smartypants: true,
       mangle: false,
-      headerIds: true,
-      // ✅ Habilitar footnotes: [^1], [^1]: ...
-      gfmFootnotes: true
+      headerIds: true
     });
     window.marked = marked;
   };
