@@ -71,13 +71,13 @@ document.addEventListener('DOMContentLoaded', () => {
         /* ---------- sanitizar y pegar ---------- */
         el.innerHTML = DOMPurify.sanitize(html, {
           ADD_TAGS: ['sup', 'div', 'ol', 'li'],
-          ADD_ATTR: ['class', 'id', 'download'],
+          ADD_ATTR: ['class', 'id', 'download', 'align'],
           ALLOWED_TAGS: [
             'h1','h2','h3','h4','p','ul','ol','li','table','thead','tbody','tr','th','td',
             'a','br','strong','em','code','pre','img','div','sup','ol','li'
           ],
           ALLOWED_ATTR: [
-            'href','src','alt','width','height','download','target','id','class'
+            'href','src','alt','width','height','download','target','id','class','align'
           ]
         });
 
