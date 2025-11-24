@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
   if (!el) return;
 
   const README = 'https://raw.githubusercontent.com/actio1680/Cuerpos-legales-Peru/refs/heads/main/Normas-Legislativo-Ejecutivo/README.md';
-  const RAW    = 'https://raw.githubusercontent.com/actio1680/Cuerpos-legales-Peru/refs/heads/main/';
+  const RAW    = 'https://raw.githubusercontent.com/actio1680/Cuerpos-legales-Peru/refs/heads/main/Normas-Legislativo-Ejecutivo';
 
   function waitLibs() {
     if (typeof marked == 'undefined' || typeof DOMPurify == 'undefined') {
