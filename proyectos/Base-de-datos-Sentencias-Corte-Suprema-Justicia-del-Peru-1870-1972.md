@@ -2,7 +2,7 @@
 layout: default
 title: Base de datos de las sentencias de la Corte Suprema de Justicia del Perú (1870-1972)
 ---
-<div id="loader">Cargando base de datos desde GitHub…</div>
+<div id="loader">Cargando base de datos desde GitHub… </div>
 
 <script>
 document.addEventListener('DOMContentLoaded', () => {
