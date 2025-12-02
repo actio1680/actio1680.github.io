@@ -13,8 +13,7 @@ layout: default
 - **Descripción:** Pronto nuevo proyectos. [[Ir a proyecto](proyectos/xxxxxxxx.md)]
 
 ### Discursos presidenciales del Perú 
-- **Publicación:** Julio, 2023
-- **Descripción:** El presente repositorio almacena y analiza en nubes de palabras (wordclouds) los discursos presidenciales durante las fiestas patrias del 28 de julio de los gobernantes peruanos del siglo XIX, XX y XXI, de facto y derecho, almacenados en la sección "Mensajes presidenciales y otros documentos para la Historia política del Perú" del sitio web del Congreso de la Républica, analizando un total  de 138 discursos presidenciales. [[Ir a proyecto](proyecto4/presentacion4.md)]
+- **Descripción:** El repositorio almacena y analiza en nubes de palabras (wordclouds) los discursos presidenciales durante las fiestas patrias del 28 de julio de los gobernantes peruanos del siglo XIX, XX y XXI, de facto y derecho, almacenados en la sección "Mensajes presidenciales y otros documentos para la Historia política del Perú" del sitio web del Congreso de la Républica, analizando un total  de 138 discursos. [[Ir a proyecto](proyectos/Discursos-presidenciales-del-Peru.md)]
 
 ### Base de datos de las sentencias de la Corte Suprema de Justicia del Perú 1870-1972
 - **Descripción:** La base de datos sistematiza y referencia en una base de datos los títulos de las sentencias publicadas por la Corte Suprema de Justicia del Perú, durante 1870 y 1972. En este primer lanzamiento, la base de datos tuvo como fuente los Anales judiciales de la Corte Suprema de Justicia, que en 64 tomos aborda un poco más de 100 años de sentencias supremas. [[Ir a proyecto](proyectos/Base-de-datos-Sentencias-Corte-Suprema-Justicia-del-Peru-1870-1972.html)]
