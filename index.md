@@ -18,6 +18,9 @@ layout: default
 ### Base de datos de las sentencias de la Corte Suprema de Justicia del Perú 1870-1972
 - **Descripción:** La base de datos sistematiza y referencia en una base de datos los títulos de las sentencias publicadas por la Corte Suprema de Justicia del Perú, durante 1870 y 1972. En este primer lanzamiento, la base de datos tuvo como fuente los Anales judiciales de la Corte Suprema de Justicia, que en 64 tomos aborda un poco más de 100 años de sentencias supremas. [[Ir a proyecto](proyectos/Base-de-datos-Sentencias-Corte-Suprema-Justicia-del-Peru-1870-1972.html)]
 
+### Perú Normas Bot - [PROYECTO DESCONTINUADO]
+- **Descripción:** El presente proyecto implementó un bot automatizado en un canal de Telegram para la publicación de normas legales del diario El Peruano. Mediante un script configurado en la plataforma Heroku el bot pública el título, el tipo de norma, la fecha de publicación, la descripción de la norma y el enlace de descarga en PDF. [[Ir a proyecto](proyectos/proyectos/Peru-normas-bot.html)]
+
 ### Base de datos de las Normas del Poder Legislativo y Ejecutivo en el Perú 1820-2025 
 - **Descripción:** Las bases de datos son una sistematización de las normas legislativas y ejecutivas, principalmente contenidas en el Archivo Digital de la Legislación del Perú y otros documentos. Se cubren 200 años de vida republicana del país. Los archivos actualizados son de formato XLSX y HTML. [[Ir a proyecto](proyectos/Base-de-datos-Normas-Poder-Legislativo-y-Ejecutivo-1820–2025.html)]
  
