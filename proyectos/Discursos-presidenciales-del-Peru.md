@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
   if (!el) return;
 
   const README = 'https://raw.githubusercontent.com/actio1680/discurso-presidencial-peru/refs/heads/main/README.md';
-  const RAW    = 'https://raw.githubusercontent.com/actio1680/discurso-presidencial-peru/refs/heads/main/';
+  const RAW    = 'https://raw.githubusercontent.com/actio1680/discurso-presidencial-peru/refs/heads/main/imagen/';
 
   function waitLibs() {
     if (typeof marked == 'undefined' || typeof DOMPurify == 'undefined') {
