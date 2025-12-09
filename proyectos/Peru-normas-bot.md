@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
   if (!el) return;
 
   const README = 'https://raw.githubusercontent.com/actio1680/peru-normas-bot/refs/heads/main/README.md';
-  const RAW    = 'https://raw.githubusercontent.com/actio1680/peru-normas-bot/refs/heads/main/imagen';
+  const RAW    = 'https://raw.githubusercontent.com/actio1680/peru-normas-bot/refs/heads/main/';
 
   function waitLibs() {
     if (typeof marked == 'undefined' || typeof DOMPurify == 'undefined') {
