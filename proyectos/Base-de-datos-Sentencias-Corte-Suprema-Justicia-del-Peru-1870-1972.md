@@ -9,8 +9,8 @@ document.addEventListener('DOMContentLoaded', () => {
   const el = document.getElementById('loader');
   if (!el) return;
 
-  const README = 'https://raw.githubusercontent.com/actio1680/Cuerpos-legales-Peru/refs/heads/main/Sentencias-supremas/README.md';
-  const RAW    = 'https://raw.githubusercontent.com/actio1680/Cuerpos-legales-Peru/refs/heads/main/Sentencias-supremas/';
+  const README = 'https://raw.githubusercontent.com/actio1680/Cuerpos-legales-Peru/refs/heads/main/Sentencias-supremas/BD-AJCS-XIX-XX/README.md';
+  const RAW    = 'https://raw.githubusercontent.com/actio1680/Cuerpos-legales-Peru/refs/heads/main/Sentencias-supremas/BD-AJCS-XIX-XX';
 
   function waitLibs() {
     if (typeof marked == 'undefined' || typeof DOMPurify == 'undefined') {
