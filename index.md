@@ -28,8 +28,6 @@ layout: default
 - [Cronología de los Códigos Civiles Iberoaméricanos](escritos/cronologiacc.md)
 - [Apuntes para estudiar los cuerpos jurídicos de la Monarquía y Repúblicas hispánicas](escritos/apuntes-derecho-hispanico.md)
 
-## Recursos
-- [Contratos Inteligentes](https://github.com/actio1680/Contratos-inteligentes)
 
 
 
