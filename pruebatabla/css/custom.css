@@ -126,11 +126,11 @@ table th:nth-child(1), table td:nth-child(1) { width: 10%; }  /* codigo */
 table th:nth-child(2), table td:nth-child(2) { width: 15%; }  /* rotulo */
 table th:nth-child(3), table td:nth-child(3) { width: 6%; }   /* anio */
 table th:nth-child(4), table td:nth-child(4) { width: 6%; }   /* fecha */
-table th:nth-child(5), table td:nth-child(5) { width: 20%; }  /* descripcion */
+table th:nth-child(5), table td:nth-child(5) { width: 28%; }  /* descripcion */
 table th:nth-child(6), table td:nth-child(6) { width: 6%; }   /* folios */
 table th:nth-child(7), table td:nth-child(7) { width: 5%; }   /* caja */
 table th:nth-child(8), table td:nth-child(8) { width: 8%; }   /* serie */
 table th:nth-child(9), table td:nth-child(9) { width: 8%; }   /* caja_ref / caja_slug */
-table th:nth-child(10), table td:nth-child(10) { width: 8%; } /* archivo */
+table th:nth-child(10), table td:nth-child(10) { width: 0%; } /* archivo */
 table th:nth-child(11), table td:nth-child(11) { width: 10%; } /* url */
 
