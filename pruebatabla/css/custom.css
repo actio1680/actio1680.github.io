@@ -128,4 +128,4 @@ table th:nth-child(3),  table td:nth-child(3)  { width: 10%  !important; } /* an
 table th:nth-child(4),  table td:nth-child(4)  { width: 10%  !important; } /* fecha */
 table th:nth-child(5),  table td:nth-child(5)  { width: 40% !important; } /* descripcion */
 table th:nth-child(6),  table td:nth-child(6)  { width: 10%  !important; } /* folios */
-table th:nth-child(7), table td:nth-child(12) { width: 10%  !important; } /* url */
+table th:nth-child(7), table td:nth-child(7) { width: 10%  !important; } /* url */
