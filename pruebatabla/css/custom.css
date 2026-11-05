@@ -103,3 +103,34 @@ h2 {
   margin-right: 8px;
   opacity: 0.7;
 }
+
+/* 1. Forzar comportamiento controlado y evitar desbordamientos */
+table {
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+/* 2. Controlar la visualización del texto largo en las celdas (especialmente la columna de URLs) */
+th, td {
+    padding: 8px;
+    text-align: left;
+    vertical-align: top;
+    font-size: 14px;
+    overflow-wrap: break-word;
+    word-break: break-all;      /* Rompe los enlaces largos en varias líneas para no estirar la columna */
+}
+
+/* 3. Definición proporcional de los anchos de cada columna (Ajusta los % si lo deseas) */
+table th:nth-child(1), table td:nth-child(1) { width: 10%; }  /* codigo */
+table th:nth-child(2), table td:nth-child(2) { width: 15%; }  /* rotulo */
+table th:nth-child(3), table td:nth-child(3) { width: 6%; }   /* anio */
+table th:nth-child(4), table td:nth-child(4) { width: 6%; }   /* fecha */
+table th:nth-child(5), table td:nth-child(5) { width: 20%; }  /* descripcion */
+table th:nth-child(6), table td:nth-child(6) { width: 6%; }   /* folios */
+table th:nth-child(7), table td:nth-child(7) { width: 5%; }   /* caja */
+table th:nth-child(8), table td:nth-child(8) { width: 8%; }   /* serie */
+table th:nth-child(9), table td:nth-child(9) { width: 8%; }   /* caja_ref / caja_slug */
+table th:nth-child(10), table td:nth-child(10) { width: 8%; } /* archivo */
+table th:nth-child(11), table td:nth-child(11) { width: 10%; } /* url */
+
