@@ -1,93 +1,96 @@
-/* Contenedor para scroll horizontal en pantalla1s pequeñas */
+/* =========================================================
+   ESTILOS LOCALES DE LA TABLA (pruebatabla)
+   ========================================================= */
+
+/* 1. HEREDAR LA TIPOGRAFÍA DE TU PÁGINA PRINCIPAL */
+.dataTables_wrapper, 
+table.dataTable, 
+.dataTables_filter input, 
+.dataTables_length select,
+.dataTables_info,
+.pagination {
+    font-family: inherit !important;
+}
+
+/* 2. LA "ISLA" DE CONTROLES (Buscador y cantidad de registros) */
+/* Esto separa los controles de la tabla dándoles un fondo suave y bordes redondeados */
+.dataTables_wrapper .row:first-child {
+    background-color: #f8f9fa; /* Un gris muy suave */
+    border: 1px solid #e9ecef;
+    border-radius: 8px;
+    padding: 15px;
+    margin-bottom: 20px;
+    align-items: center;
+}
+
+/* 3. LA TABLA (Amplitud y limpieza) */
 #table-container {
     width: 100%;
-    overflow-x: auto;
-    margin-top: 2rem;
+    overflow-x: auto; /* Permite scroll horizontal sin romper la página */
     margin-bottom: 2rem;
 }
 
-/* Dar un poco de aire a las celdas para que no se vea apretado */
-table.dataTable tbody td, 
+table.dataTable {
+    border-collapse: collapse !important;
+    width: 100% !important;
+    border: none !important;
+}
+
+/* 4. CABECERAS Y CELDAS */
 table.dataTable thead th {
-    padding: 12px 15px;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 0.85rem;
+    letter-spacing: 0.5px;
+    border-top: none !important;
+    border-bottom: 2px solid #333 !important; /* Línea elegante */
+    background-color: transparent !important;
+    padding: 15px 10px;
+    white-space: nowrap; /* Evita que los títulos se partan en dos líneas */
+}
+
+table.dataTable tbody td {
+    padding: 12px 10px;
+    border-bottom: 1px solid #eaeaea !important;
     vertical-align: middle;
 }
 
-/* Línea sutil debajo de los encabezados */
-table.dataTable thead th {
-    font-weight: bold;
-    border-bottom: 2px solid #333;
-    text-transform: uppercase;
-    font-size: 0.9rem;
-    letter-spacing: 0.5px;
-}
-
-/* Borde sutil entre las filas */
-table.dataTable tbody tr {
-    border-bottom: 1px solid #eaeaea;
-}
-
-/* Efecto al pasar el ratón por la fila */
 table.dataTable tbody tr:hover {
-    background-color: #f9f9f9;
+    background-color: #f1f1f1 !important;
 }
 
-/* Estilo del enlace "Ver PDF" */
+/* 5. LA PAGINACIÓN (Abajo, como otra pequeña isla) */
+.dataTables_wrapper .row:last-child {
+    margin-top: 20px;
+    align-items: center;
+}
+
+.page-item.active .page-link {
+    background-color: #333 !important;
+    border-color: #333 !important;
+}
+
+.page-link {
+    color: #333 !important;
+    border-radius: 4px !important;
+    margin: 0 2px;
+}
+
+/* 6. ENLACES "VER PDF" */
 table.dataTable a {
-    text-decoration: underline;
     font-weight: 500;
+    text-decoration: underline;
     color: #0056b3;
 }
 
-table.dataTable a:hover {
-    color: #003d82;
-}
-
 /* =========================================================
-   📏 ANCHOS DE LAS COLUMNAS (Porcentajes)
-   Las columnas de tu CSV son:
-   1. codigo    | 2. rotulo | 3. anio  | 4. fecha 
-   5. descripcion | 6. folios | 7. url
+   📏 ANCHOS DE LAS COLUMNAS (Configurados con min-width)
    ========================================================= */
-
-/* 1. Código */
-#miTabla th:nth-child(1),
-#miTabla td:nth-child(1) { 
-    width: 10%; 
-}
-
-/* 2. Rótulo */
-#miTabla th:nth-child(2),
-#miTabla td:nth-child(2) { 
-    width: 20%; 
-}
-
-/* 3. Año */
-#miTabla th:nth-child(3),
-#miTabla td:nth-child(3) { 
-    width: 8%; 
-}
-
-/* 4. Fecha */
-#miTabla th:nth-child(4),
-#miTabla td:nth-child(4) { 
-    width: 10%; 
-}
-
-/* 5. Descripción (La más ancha) */
-#miTabla th:nth-child(5),
-#miTabla td:nth-child(5) { 
-    width: 35%; 
-}
-
-/* 6. Folios */
-#miTabla th:nth-child(6),
-#miTabla td:nth-child(6) { 
-    width: 7%; 
-}
-
-/* 7. URL */
-#miTabla th:nth-child(7),
-#miTabla td:nth-child(7) { 
-    width: 10%; 
-}
+/* Usamos min-width en lugar de width para que la tabla no se aplaste */
+#miTabla th:nth-child(1) { min-width: 80px; }  /* codigo */
+#miTabla th:nth-child(2) { min-width: 200px; } /* rotulo */
+#miTabla th:nth-child(3) { min-width: 60px; }  /* anio */
+#miTabla th:nth-child(4) { min-width: 90px; }  /* fecha */
+#miTabla th:nth-child(5) { min-width: 350px; } /* descripcion (La más ancha) */
+#miTabla th:nth-child(6) { min-width: 70px; }  /* folios */
+#miTabla th:nth-child(7) { min-width: 80px; }  /* url */
