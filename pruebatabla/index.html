@@ -8,8 +8,8 @@ layout: default
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="autores" content="edición base por Derek Eder y editado por William Atencio Becerra">
-  <meta content="Display any CSV file as a searchable, filterable, pretty HTML table">
+  <meta name="autores" content="Editado por William Atencio Becerra">
+  <meta content="Para convertir y mostrar cualquier archivo CSV como una tabla HTML bonita">
 
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
   <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css">
@@ -20,20 +20,40 @@ layout: default
     <main class="row">
       <div class="col">
         <h3><center>Base de Datos de Documentos Históricos - AGN Perú</center></h3>
-
-        <p>Explorador interactivo de expedientes judiciales, administrativos, militares y eclesiásticos del Perú, Siglos XVI - XX (Información actualizada al 25/10/2026). </p>
-
+	
+        <h3><center>Base de datos de las sentencias de la Corte Suprema de Justicia del Perú 1870-1972</center></h3>
+        <p>Explorador interactivo de expedientes judiciales, administrativos, militares y eclesiásticos del Perú, Siglos XVI-XX</p>
+        <p>(Información actualizada al 25/10/2026).</p>
         <p><i>Los datos y documentos pertenecen al Archivo General de la Nación del Perú (AGN). Este visor es demostrativo y sin fines de lucro. La difusión de esta información se ampara en la normativa peruana sobre Derechos de Autor (D. Leg. 822), que no protege las recopilaciones de datos fácticos ni los textos oficiales, así como en el principio de publicidad de la Ley 27806. Los enlaces redirigen a los servidores oficiales del AGN; no alojamos los archivos PDF.
+	
+        <p> Para informarse sobre los detalles técnicos de la base de datos leer el <a href="xxxxxxxxxxxxxxxxxxx">artículo principal</a>.
         </i></p>
 
         <div id="table-container"></div>
+
+        <!-- BOTÓN DE DESCARGA VERSIÓN LITE -->
+        <!-- Para ocultarlo, agrega "d-none" a la clase del div (class="text-center mt-4 mb-5 d-none") -->
+        <div class="text-center mt-4 mb-5">
+          <a href="data/A_r.csv" class="btn btn-success btn-lg" download>
+            <span>⬇️</span> Descargar versión lite (CSV)
+          </a>
+        </div>
+        <!-- FIN DEL BOTÓN -->
+        <!-- BOTÓN DE DESCARGA VERSIÓN LITE -->
+        <div class="text-center mt-4 mb-5">
+          <a href="data/A_r.csv" class="btn btn-success btn-lg" download>
+            <span>⬇️</span> Descargar versión lite (CSV)
+          </a>
+        </div>
+        <!-- FIN DEL BOTÓN -->
+
       </div>
     </main>
   </div>
   
   <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.2.1/js/bootstrap.bundle.min.js"></script>
-  <script src="js/jquery.csv.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.7.0/papaparse.min.js"></script>
   <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
   <script src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js"></script>
   <script src="js/csv_to_html_table.js"></script>
@@ -41,21 +61,21 @@ layout: default
   <script>
       function format_link(link) {
           if (link)
-              return "<a href='" + link + "' target='_blank'>Enlace</a>";
+              return "<a href='" + link + "' target='_blank'>Documento</a>";
           else return "";
       }
 
       CsvToHtmlTable.init({
           csv_path: "data/A_r.csv",
           element: "table-container",
-          allow_download: false,
           csv_options: {
               separator: ";",
               delimiter: '"'
           },
           datatables_options: {
               paging: true,
-              autoWidth: false
+              autoWidth: false,
+              deferRender: true 
           },
           custom_formatting: [
               [6, format_link]
@@ -65,4 +85,3 @@ layout: default
 </body>
 
 </html>
-
