@@ -51,7 +51,10 @@ layout: default
 
         <!-- Contenedor donde se inyectará la tabla -->
         <div id="table-container" class="mt-4">
-            <div class="text-center p-5 font-weight-bold">Cargando datos, por favor espere...</div>
+            <!-- Mensaje inicial de carga -->
+            <div class="text-center p-5 font-weight-bold" id="loading-msg">
+                Cargando datos, por favor espere...
+            </div>
         </div>
 
         <!-- Botón de descarga -->
@@ -85,75 +88,81 @@ layout: default
           const contenedor = document.getElementById("table-container");
           const rutaCSV = "data/A_r.csv"; 
 
-          // Configuración de PapaParse
-          Papa.parse(rutaCSV, {
-              download: true,
-              worker: true,          // Procesa en hilo separado para no congelar Chrome
-              header: true,          // Detecta: codigo;rotulo;anio;fecha;descripcion;folios;url
-              delimiter: ";",        // Tu separador personalizado
-              skipEmptyLines: true,
-              complete: function(results) {
-                  const encabezados = results.meta.fields; 
-                  const datos = results.data;               
+          // Usamos setTimeout para permitir que el navegador dibuje el mensaje de carga
+          // antes de que empiece a procesar el archivo pesado.
+          setTimeout(function() {
+              
+              Papa.parse(rutaCSV, {
+                  download: true,
+                  worker: false,         // ⬅️ DESACTIVADO: Evita que se quede colgado en GitHub Pages
+                  header: true,          // Detecta las columnas automáticamente
+                  delimiter: ";",        // Tu separador
+                  skipEmptyLines: true,
+                  complete: function(results) {
+                      const encabezados = results.meta.fields; 
+                      const datos = results.data;               
 
-                  if (!datos || datos.length === 0) {
-                      contenedor.innerHTML = "<div class='alert alert-warning'>El archivo CSV está vacío o no tiene el formato correcto.</div>";
-                      return;
-                  }
-
-                  // Si ya existía una tabla, la destruimos para evitar duplicados
-                  if ($.fn.DataTable.isDataTable('#miTabla')) {
-                      $('#miTabla').DataTable().destroy();
-                  }
-
-                  // Creamos la estructura base de la tabla
-                  contenedor.innerHTML = '<table id="miTabla" class="table table-striped table-bordered table-hover" style="width:100%"><thead></thead><tbody></tbody></table>';
-
-                  // Construimos la configuración de columnas
-                  const columnasConfig = encabezados.map(function(titulo, index) {
-                      let config = { 
-                          data: titulo, 
-                          title: titulo.toUpperCase() // Los títulos en mayúsculas se ven mejor
-                      };
-                      
-                      // Aplicar formato a la columna URL (índice 6)
-                      if (index === 6) {
-                          config.render = function(data) { return format_link(data); };
+                      if (!datos || datos.length === 0) {
+                          contenedor.innerHTML = "<div class='alert alert-warning text-center'>El archivo CSV está vacío o no tiene el formato correcto.</div>";
+                          return;
                       }
-                      return config;
-                  });
 
-                  // Inicializar DataTables
-                  $('#miTabla').DataTable({
-                      data: datos,
-                      columns: columnasConfig,
-                      deferRender: true,     // Magia: dibuja solo lo que se ve en pantalla
-                      searchDelay: 400,      // Retardo de búsqueda para evitar lag en archivos gigantes
-                      paging: true,
-                      autoWidth: false,      
-                      pageLength: 10,
-                      lengthMenu: [[10, 50, 100, 1000], [10, 50, 100, 1000]],
-                      language: {
-                          search: "Buscar:",
-                          lengthMenu: "Mostrar _MENU_ registros",
-                          info: "Mostrando _START_ a _END_ de _TOTAL_ registros",
-                          infoEmpty: "Mostrando 0 registros",
-                          infoFiltered: "(filtrado de _MAX_ registros totales)",
-                          zeroRecords: "No se encontraron resultados",
-                          paginate: {
-                              first: "Primero",
-                              last: "Último",
-                              next: "Siguiente",
-                              previous: "Anterior"
+                      // Si ya existía una tabla, la destruimos
+                      if ($.fn.DataTable.isDataTable('#miTabla')) {
+                          $('#miTabla').DataTable().destroy();
+                      }
+
+                      // Inyectamos el HTML de la tabla
+                      contenedor.innerHTML = '<table id="miTabla" class="table table-striped table-bordered table-hover" style="width:100%"><thead></thead><tbody></tbody></table>';
+
+                      // Configuramos las columnas
+                      const columnasConfig = encabezados.map(function(titulo, index) {
+                          let config = { 
+                              data: titulo, 
+                              title: titulo.toUpperCase() 
+                          };
+                          
+                          // Formato para la columna 6 (URL)
+                          if (index === 6) {
+                              config.render = function(data) { return format_link(data); };
                           }
-                      }
-                  });
-              },
-              error: function(error) {
-                  contenedor.innerHTML = "<div class='alert alert-danger'>Error al cargar los datos. Revisa que el archivo exista y sea accesible.</div>";
-                  console.error("Error CSV:", error);
-              }
-          });
+                          return config;
+                      });
+
+                      // Inicializamos DataTables
+                      $('#miTabla').DataTable({
+                          data: datos,
+                          columns: columnasConfig,
+                          deferRender: true,     // Solo dibuja lo visible
+                          searchDelay: 400,      // Evita lag al buscar en 25MB
+                          paging: true,
+                          autoWidth: false,      
+                          pageLength: 10,
+                          lengthMenu: [[10, 50, 100, 1000], [10, 50, 100, 1000]],
+                          language: {
+                              search: "Buscar:",
+                              lengthMenu: "Mostrar _MENU_ registros",
+                              info: "Mostrando _START_ a _END_ de _TOTAL_ registros",
+                              infoEmpty: "Mostrando 0 registros",
+                              infoFiltered: "(filtrado de _MAX_ registros totales)",
+                              zeroRecords: "No se encontraron resultados",
+                              paginate: {
+                                  first: "Primero",
+                                  last: "Último",
+                                  next: "Siguiente",
+                                  previous: "Anterior"
+                              }
+                          }
+                      });
+                  },
+                  error: function(error) {
+                      // Si hay un error, lo mostramos en pantalla
+                      contenedor.innerHTML = "<div class='alert alert-danger text-center'>Error al cargar los datos. Revisa que el archivo <b>" + rutaCSV + "</b> exista en el repositorio.</div>";
+                      console.error("Error CSV:", error);
+                  }
+              });
+
+          }, 100); // 100 milisegundos de retardo para que se pinte el mensaje
       });
   </script>
 </body>
