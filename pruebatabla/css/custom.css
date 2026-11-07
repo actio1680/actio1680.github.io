@@ -2,20 +2,16 @@
    ESTILOS LOCALES DE LA TABLA (pruebatabla)
    ========================================================= */
 
-/* 1. HEREDAR LA TIPOGRAFÍA DE TU PÁGINA PRINCIPAL */
-.dataTables_wrapper, 
-table.dataTable, 
-.dataTables_filter input, 
-.dataTables_length select,
-.dataTables_info,
-.pagination {
-    font-family: inherit !important;
+/* 0. FORZAR LA TIPOGRAFÍA DE TU PÁGINA PRINCIPAL */
+/* Esto anula la fuente por defecto de Bootstrap y hereda la tuya */
+body, h1, h2, h3, h4, h5, h6, p, .lead, table, .dataTables_wrapper, input, select, button, .page-link {
+    font-family: "Courier New", Courier, monospace !important; 
+    /* Si tu página principal usa una fuente web específica (como 'Gibson'), cámbiala aquí */
 }
 
-/* 2. LA "ISLA" DE CONTROLES (Buscador y cantidad de registros) */
-/* Esto separa los controles de la tabla dándoles un fondo suave y bordes redondeados */
+/* 1. LA "ISLA" DE CONTROLES (Buscador y cantidad de registros) */
 .dataTables_wrapper .row:first-child {
-    background-color: #f8f9fa; /* Un gris muy suave */
+    background-color: #f8f9fa;
     border: 1px solid #e9ecef;
     border-radius: 8px;
     padding: 15px;
@@ -23,10 +19,10 @@ table.dataTable,
     align-items: center;
 }
 
-/* 3. LA TABLA (Amplitud y limpieza) */
+/* 2. LA TABLA (Amplitud y limpieza) */
 #table-container {
     width: 100%;
-    overflow-x: auto; /* Permite scroll horizontal sin romper la página */
+    overflow-x: auto;
     margin-bottom: 2rem;
 }
 
@@ -36,30 +32,30 @@ table.dataTable {
     border: none !important;
 }
 
-/* 4. CABECERAS Y CELDAS */
+/* 3. CABECERAS Y CELDAS */
 table.dataTable thead th {
-    font-weight: 600;
+    font-weight: bold; /* En tipografía mono, la negrita resalta bien */
     text-transform: uppercase;
-    font-size: 0.85rem;
-    letter-spacing: 0.5px;
+    font-size: 0.9rem;
     border-top: none !important;
-    border-bottom: 2px solid #333 !important; /* Línea elegante */
+    border-bottom: 2px solid #333 !important;
     background-color: transparent !important;
     padding: 15px 10px;
-    white-space: nowrap; /* Evita que los títulos se partan en dos líneas */
+    white-space: nowrap;
 }
 
 table.dataTable tbody td {
     padding: 12px 10px;
     border-bottom: 1px solid #eaeaea !important;
     vertical-align: middle;
+    font-size: 0.95rem;
 }
 
 table.dataTable tbody tr:hover {
     background-color: #f1f1f1 !important;
 }
 
-/* 5. LA PAGINACIÓN (Abajo, como otra pequeña isla) */
+/* 4. LA PAGINACIÓN */
 .dataTables_wrapper .row:last-child {
     margin-top: 20px;
     align-items: center;
@@ -76,21 +72,20 @@ table.dataTable tbody tr:hover {
     margin: 0 2px;
 }
 
-/* 6. ENLACES "VER PDF" */
+/* 5. ENLACES "VER PDF" */
 table.dataTable a {
-    font-weight: 500;
+    font-weight: bold;
     text-decoration: underline;
     color: #0056b3;
 }
 
 /* =========================================================
-   📏 ANCHOS DE LAS COLUMNAS (Configurados con min-width)
+   📏 ANCHOS DE LAS COLUMNAS
    ========================================================= */
-/* Usamos min-width en lugar de width para que la tabla no se aplaste */
 #miTabla th:nth-child(1) { min-width: 80px; }  /* codigo */
 #miTabla th:nth-child(2) { min-width: 200px; } /* rotulo */
 #miTabla th:nth-child(3) { min-width: 60px; }  /* anio */
 #miTabla th:nth-child(4) { min-width: 90px; }  /* fecha */
-#miTabla th:nth-child(5) { min-width: 350px; } /* descripcion (La más ancha) */
+#miTabla th:nth-child(5) { min-width: 350px; } /* descripcion */
 #miTabla th:nth-child(6) { min-width: 70px; }  /* folios */
 #miTabla th:nth-child(7) { min-width: 80px; }  /* url */
