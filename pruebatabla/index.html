@@ -15,7 +15,7 @@ layout: default
   <!-- CSS de DataTables con Bootstrap 4 -->
   <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css">
   
-  <!-- Tu CSS Local -->
+  <!-- Tu CSS Local (Con la corrección de tipografía) -->
   <link rel="stylesheet" href="css/custom.css">
 </head>
 
@@ -23,9 +23,14 @@ layout: default
   <div class="container-fluid">
     <main class="row">
       <div class="col">
-        <h3 class="text-center my-4">Base de Datos de Documentos Históricos - AGN Perú</h3>
+        
+        <!-- Título alineado a la izquierda, sin clases de Bootstrap que lo deformen -->
+        <h2 class="mt-4 mb-3">Base de Datos de Documentos Históricos - AGN Perú</h2>
+        
         <p class="lead">Explorador interactivo de expedientes judiciales, administrativos, militares y eclesiásticos del Perú, Siglos XVI-XX</p>
+        
         <p><em>(Información actualizada al 25/10/2026).</em></p>
+        
         <p class="text-justify">
           <small>Los datos y documentos pertenecen al Archivo General de la Nación del Perú (AGN). Este visor es demostrativo y sin fines de lucro. La difusión de esta información se ampara en la normativa peruana sobre Derechos de Autor (D. Leg. 822), que no protege las recopilaciones de datos fácticos ni los textos oficiales, así como en el principio de publicidad de la Ley 27806. Los enlaces redirigen a los servidores oficiales del AGN; no alojamos los archivos PDF. Para informarse sobre los detalles técnicos de la base de datos leer el <a href="xxxxxxxxxxxxxxxxxxx">artículo principal</a>.</small>
         </p>
@@ -47,7 +52,7 @@ layout: default
     </main>
   </div>
   
-  <!-- Librerías JS (Restauramos el JS de Bootstrap para DataTables) -->
+  <!-- Librerías JS -->
   <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.bundle.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/papaparse@5.7.0/papaparse.min.js"></script>
@@ -87,7 +92,6 @@ layout: default
                           $('#miTabla').DataTable().destroy();
                       }
 
-                      // Usamos las clases de Bootstrap "table table-hover" junto con "display"
                       contenedor.innerHTML = '<table id="miTabla" class="table table-hover display" style="width:100%"><thead></thead><tbody></tbody></table>';
 
                       const columnasConfig = encabezados.map(function(titulo, index) {
@@ -108,7 +112,7 @@ layout: default
                           deferRender: true,     
                           searchDelay: 400,      
                           paging: true,
-                          autoWidth: false, // Respeta el CSS
+                          autoWidth: false, 
                           pageLength: 10,
                           lengthMenu: [[10, 50, 100, 1000], [10, 50, 100, 1000]],
                           language: {
