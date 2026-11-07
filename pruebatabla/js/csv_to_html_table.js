@@ -17,14 +17,14 @@ CsvToHtmlTable = {
         var $table = $("<table class='table table-striped table-condensed' id='" + el + "-table' style='width:100%'></table>");
         var $containerElement = $("#" + el);
         $containerElement.empty().append($table);
-     
+
         var $loadingMsg = $("<p id='csv-loading' style='font-weight:bold; color:#007bff;'><i class='fas fa-spinner fa-spin'></i> Cargando datos, por favor espere...</p>");
         $containerElement.prepend($loadingMsg);
 
         Papa.parse(csv_path, {
             delimiter: csv_options.separator || ",",
             download: true,
-            worker: true,
+            worker: false, // Desactivado para evitar fallos de carga
             skipEmptyLines: true,
             complete: function (results) {
                 $loadingMsg.remove();
@@ -56,7 +56,8 @@ CsvToHtmlTable = {
                     }
                     $tableBody.append($tableBodyRow);
                 }
-                $table.append($tableBody);         
+                $table.append($tableBody);
+
                 $table.DataTable(datatables_options);
             },
             error: function(error) {
