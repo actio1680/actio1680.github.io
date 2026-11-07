@@ -9,12 +9,10 @@ layout: default
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <title>Base de Datos de Documentos Históricos - AGN Perú</title>
 
-  <!-- 1. CSS Global (Jekyll lo carga solo con layout: default) -->
-  
-  <!-- 2. CSS de la Librería (Estructura básica de la tabla) -->
+  <!-- 1. CSS de la Librería (Estructura básica de DataTables) -->
   <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css">
   
-  <!-- 3. CSS Local (Los toques finales SOLO para esta tabla) -->
+  <!-- 2. CSS Local (Aquí están tus anchos y estilos) -->
   <link rel="stylesheet" href="css/custom.css">
 </head>
 
@@ -22,12 +20,11 @@ layout: default
   <div class="container-fluid">
     <main class="row">
       <div class="col">
-        <!-- Tu texto original -->
         <h3 class="text-center my-4">Base de Datos de Documentos Históricos - AGN Perú</h3>
         <p class="lead">Explorador interactivo de expedientes judiciales, administrativos, militares y eclesiásticos del Perú, Siglos XVI-XX</p>
         <p><em>(Información actualizada al 25/10/2026).</em></p>
         <p class="text-justify">
-          <small>Los datos y documentos pertenecen al Archivo General de la Nación del Perú (AGN)...</small>
+          <small>Los datos y documentos pertenecen al Archivo General de la Nación del Perú (AGN). Este visor es demostrativo y sin fines de lucro. La difusión de esta información se ampara en la normativa peruana sobre Derechos de Autor (D. Leg. 822), que no protege las recopilaciones de datos fácticos ni los textos oficiales, así como en el principio de publicidad de la Ley 27806. Los enlaces redirigen a los servidores oficiales del AGN; no alojamos los archivos PDF. Para informarse sobre los detalles técnicos de la base de datos leer el <a href="xxxxxxxxxxxxxxxxxxx">artículo principal</a>.</small>
         </p>
 
         <!-- Contenedor de la tabla -->
@@ -37,7 +34,7 @@ layout: default
             </div>
         </div>
 
-        <!-- Botón de descarga (con clase de Bootstrap) -->
+        <!-- Botón de descarga -->
         <div class="text-center mt-4 mb-5">
           <a href="data/A_r.csv" class="btn btn-outline-dark btn-lg" download>
             <span>⬇️</span> Descargar versión lite (CSV)
@@ -47,12 +44,12 @@ layout: default
     </main>
   </div>
   
-  <!-- Librerías JS -->
+  <!-- Librerías JS (Sin el JS de Bootstrap para DataTables) -->
   <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/papaparse@5.7.0/papaparse.min.js"></script>
   <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
 
-  <!-- Lógica JS (Igual que ya te funcionó) -->
+  <!-- Lógica de Carga Optimizada -->
   <script>
       function format_link(url) {
           if (url && url.trim() !== "") {
@@ -68,7 +65,7 @@ layout: default
           setTimeout(function() {
               Papa.parse(rutaCSV, {
                   download: true,
-                  worker: false,         
+                  worker: false, // Evita el bloqueo en GitHub Pages         
                   header: true,          
                   delimiter: ";",        
                   skipEmptyLines: true,
@@ -85,10 +82,15 @@ layout: default
                           $('#miTabla').DataTable().destroy();
                       }
 
+                      // Al usar class="display", la tabla toma la estructura base
                       contenedor.innerHTML = '<table id="miTabla" class="display" style="width:100%"><thead></thead><tbody></tbody></table>';
 
                       const columnasConfig = encabezados.map(function(titulo, index) {
-                          let config = { data: titulo, title: titulo.toUpperCase() };
+                          let config = { 
+                              data: titulo, 
+                              title: titulo.toUpperCase() 
+                          };
+                          
                           if (index === 6) {
                               config.render = function(data) { return format_link(data); };
                           }
@@ -101,7 +103,7 @@ layout: default
                           deferRender: true,     
                           searchDelay: 400,      
                           paging: true,
-                          autoWidth: false,      
+                          autoWidth: false, 
                           pageLength: 10,
                           lengthMenu: [[10, 50, 100, 1000], [10, 50, 100, 1000]],
                           language: {
