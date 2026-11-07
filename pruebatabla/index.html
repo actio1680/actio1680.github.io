@@ -2,35 +2,59 @@
 layout: default
 ---
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
 <head>
   <meta charset="utf-8">
-  <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="autores" content="Editado por William Atencio Becerra">
-  <meta content="Para convertir y mostrar cualquier archivo CSV como una tabla HTML bonita">
+  <meta name="description" content="Explorador interactivo de expedientes históricos del AGN Perú">
 
+  <title>Base de Datos de Documentos Históricos - AGN Perú</title>
+
+  <!-- Bootstrap y DataTables CSS -->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
   <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css">
+  
+  <style>
+    /* Contenedor con scroll horizontal si la tabla es muy ancha */
+    #table-container {
+        width: 100%;
+        overflow-x: auto;
+    }
+    
+    /* Estilo para los enlaces generados en la columna URL */
+    table.dataTable a {
+        font-weight: bold;
+        text-decoration: underline;
+        color: #007bff;
+    }
+    
+    /* Evitar que el buscador ocupe demasiado espacio en móviles */
+    @media (max-width: 768px) {
+        .dataTables_filter { text-align: left !important; }
+    }
+  </style>
 </head>
 
 <body>
   <div class="container-fluid">
     <main class="row">
       <div class="col">
-        <h3><center>Base de Datos de Documentos Históricos - AGN Perú</center></h3>
-	    <p>Explorador interactivo de expedientes judiciales, administrativos, militares y eclesiásticos del Perú, Siglos XVI-XX</p>
-        <p>(Información actualizada al 25/10/2026).</p>
-        <p><i>Los datos y documentos pertenecen al Archivo General de la Nación del Perú (AGN). Este visor es demostrativo y sin fines de lucro. La difusión de esta información se ampara en la normativa peruana sobre Derechos de Autor (D. Leg. 822), que no protege las recopilaciones de datos fácticos ni los textos oficiales, así como en el principio de publicidad de la Ley 27806. Los enlaces redirigen a los servidores oficiales del AGN; no alojamos los archivos PDF.
-	
-        <p> Para informarse sobre los detalles técnicos de la base de datos leer el <a href="xxxxxxxxxxxxxxxxxxx">artículo principal</a>.
-        </i></p>
+        <h3 class="text-center my-4">Base de Datos de Documentos Históricos - AGN Perú</h3>
+        <p class="lead">Explorador interactivo de expedientes judiciales, administrativos, militares y eclesiásticos del Perú, Siglos XVI-XX</p>
+        <p><em>(Información actualizada al 25/10/2026).</em></p>
+        <p class="text-justify">
+          <small>Los datos y documentos pertenecen al Archivo General de la Nación del Perú (AGN). Este visor es demostrativo y sin fines de lucro. La difusión de esta información se ampara en la normativa peruana sobre Derechos de Autor (D. Leg. 822), que no protege las recopilaciones de datos fácticos ni los textos oficiales, así como en el principio de publicidad de la Ley 27806. Los enlaces redirigen a los servidores oficiales del AGN; no alojamos los archivos PDF. Para informarse sobre los detalles técnicos de la base de datos leer el <a href="xxxxxxxxxxxxxxxxxxx">artículo principal</a>.</small>
+        </p>
 
-        <div id="table-container"></div>
+        <!-- Contenedor donde se inyectará la tabla -->
+        <div id="table-container" class="mt-4">
+            <div class="text-center p-5 font-weight-bold">Cargando datos, por favor espere...</div>
+        </div>
 
-        <!-- BOTÓN DE DESCARGA VERSIÓN LITE -->
-        <!-- Para ocultarlo, agrega "d-none" a la clase del div (class="text-center mt-4 mb-5 d-none") -->
+        <!-- Botón de descarga -->
         <div class="text-center mt-4 mb-5">
           <a href="data/A_r.csv" class="btn btn-success btn-lg" download>
             <span>⬇️</span> Descargar versión lite (CSV)
@@ -40,37 +64,97 @@ layout: default
     </main>
   </div>
   
+  <!-- Librerías JS -->
   <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.2.1/js/bootstrap.bundle.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/papaparse@5.7.0/papaparse.min.js"></script>
   <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
   <script src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js"></script>
-  <script src="js/csv_to_html_table.js"></script>
 
+  <!-- LÓGICA OPTIMIZADA -->
   <script>
-      function format_link(link) {
-          if (link)
-              return "<a href='" + link + "' target='_blank'>Documento</a>";
-          else return "";
+      // Función para formatear la columna URL
+      function format_link(url) {
+          if (url && url.trim() !== "") {
+              return `<a href="${url}" target="_blank" rel="noopener">Ver PDF</a>`;
+          }
+          return ""; 
       }
 
-      CsvToHtmlTable.init({
-          csv_path: "data/A_r.csv",
-          element: "table-container",
-          csv_options: {
-              separator: ";",
-              delimiter: '"'
-          },
-          datatables_options: {
-              paging: true,
-              autoWidth: false,
-              deferRender: true 
-          },
-          custom_formatting: [
-              [6, format_link]
-          ]
+      document.addEventListener("DOMContentLoaded", function() {
+          const contenedor = document.getElementById("table-container");
+          const rutaCSV = "data/A_r.csv"; 
+
+          // Configuración de PapaParse
+          Papa.parse(rutaCSV, {
+              download: true,
+              worker: true,          // Procesa en hilo separado para no congelar Chrome
+              header: true,          // Detecta: codigo;rotulo;anio;fecha;descripcion;folios;url
+              delimiter: ";",        // Tu separador personalizado
+              skipEmptyLines: true,
+              complete: function(results) {
+                  const encabezados = results.meta.fields; 
+                  const datos = results.data;               
+
+                  if (!datos || datos.length === 0) {
+                      contenedor.innerHTML = "<div class='alert alert-warning'>El archivo CSV está vacío o no tiene el formato correcto.</div>";
+                      return;
+                  }
+
+                  // Si ya existía una tabla, la destruimos para evitar duplicados
+                  if ($.fn.DataTable.isDataTable('#miTabla')) {
+                      $('#miTabla').DataTable().destroy();
+                  }
+
+                  // Creamos la estructura base de la tabla
+                  contenedor.innerHTML = '<table id="miTabla" class="table table-striped table-bordered table-hover" style="width:100%"><thead></thead><tbody></tbody></table>';
+
+                  // Construimos la configuración de columnas
+                  const columnasConfig = encabezados.map(function(titulo, index) {
+                      let config = { 
+                          data: titulo, 
+                          title: titulo.toUpperCase() // Los títulos en mayúsculas se ven mejor
+                      };
+                      
+                      // Aplicar formato a la columna URL (índice 6)
+                      if (index === 6) {
+                          config.render = function(data) { return format_link(data); };
+                      }
+                      return config;
+                  });
+
+                  // Inicializar DataTables
+                  $('#miTabla').DataTable({
+                      data: datos,
+                      columns: columnasConfig,
+                      deferRender: true,     // Magia: dibuja solo lo que se ve en pantalla
+                      searchDelay: 400,      // Retardo de búsqueda para evitar lag en archivos gigantes
+                      paging: true,
+                      autoWidth: false,      
+                      pageLength: 10,
+                      lengthMenu: [[10, 50, 100, 1000], [10, 50, 100, 1000]],
+                      language: {
+                          search: "Buscar:",
+                          lengthMenu: "Mostrar _MENU_ registros",
+                          info: "Mostrando _START_ a _END_ de _TOTAL_ registros",
+                          infoEmpty: "Mostrando 0 registros",
+                          infoFiltered: "(filtrado de _MAX_ registros totales)",
+                          zeroRecords: "No se encontraron resultados",
+                          paginate: {
+                              first: "Primero",
+                              last: "Último",
+                              next: "Siguiente",
+                              previous: "Anterior"
+                          }
+                      }
+                  });
+              },
+              error: function(error) {
+                  contenedor.innerHTML = "<div class='alert alert-danger'>Error al cargar los datos. Revisa que el archivo exista y sea accesible.</div>";
+                  console.error("Error CSV:", error);
+              }
+          });
       });
   </script>
 </body>
-
 </html>
