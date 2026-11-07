@@ -9,10 +9,13 @@ layout: default
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <title>Base de Datos de Documentos Históricos - AGN Perú</title>
 
-  <!-- 1. CSS de la Librería (Estructura básica de DataTables) -->
-  <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css">
+  <!-- CSS de Bootstrap (Para los inputs de la isla) -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
   
-  <!-- 2. CSS Local (Aquí están tus anchos y estilos) -->
+  <!-- CSS de DataTables con Bootstrap 4 -->
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css">
+  
+  <!-- Tu CSS Local -->
   <link rel="stylesheet" href="css/custom.css">
 </head>
 
@@ -35,7 +38,7 @@ layout: default
         </div>
 
         <!-- Botón de descarga -->
-        <div class="text-center mt-4 mb-5">
+        <div class="text-center mt-5 mb-5">
           <a href="data/A_r.csv" class="btn btn-outline-dark btn-lg" download>
             <span>⬇️</span> Descargar versión lite (CSV)
           </a>
@@ -44,10 +47,12 @@ layout: default
     </main>
   </div>
   
-  <!-- Librerías JS (Sin el JS de Bootstrap para DataTables) -->
+  <!-- Librerías JS (Restauramos el JS de Bootstrap para DataTables) -->
   <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.bundle.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/papaparse@5.7.0/papaparse.min.js"></script>
   <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+  <script src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js"></script>
 
   <!-- Lógica de Carga Optimizada -->
   <script>
@@ -65,7 +70,7 @@ layout: default
           setTimeout(function() {
               Papa.parse(rutaCSV, {
                   download: true,
-                  worker: false, // Evita el bloqueo en GitHub Pages         
+                  worker: false,         
                   header: true,          
                   delimiter: ";",        
                   skipEmptyLines: true,
@@ -82,8 +87,8 @@ layout: default
                           $('#miTabla').DataTable().destroy();
                       }
 
-                      // Al usar class="display", la tabla toma la estructura base
-                      contenedor.innerHTML = '<table id="miTabla" class="display" style="width:100%"><thead></thead><tbody></tbody></table>';
+                      // Usamos las clases de Bootstrap "table table-hover" junto con "display"
+                      contenedor.innerHTML = '<table id="miTabla" class="table table-hover display" style="width:100%"><thead></thead><tbody></tbody></table>';
 
                       const columnasConfig = encabezados.map(function(titulo, index) {
                           let config = { 
@@ -103,7 +108,7 @@ layout: default
                           deferRender: true,     
                           searchDelay: 400,      
                           paging: true,
-                          autoWidth: false, 
+                          autoWidth: false, // Respeta el CSS
                           pageLength: 10,
                           lengthMenu: [[10, 50, 100, 1000], [10, 50, 100, 1000]],
                           language: {
