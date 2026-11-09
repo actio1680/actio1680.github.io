@@ -4,7 +4,7 @@
    
 /* Quita el padding-top del header y ponlo en el body */
 body {
-    padding-top: 40px !important; /* Juega con este número */
+    padding-top: 40px !important; 
 }
 
 header, .site-header {
