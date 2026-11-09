@@ -109,6 +109,11 @@ layout: default
                           if (nombreColumna === 'descripcion' || nombreColumna === 'descripción') {
                               config.className = 'col-descripcion';
                           }
+                          
+                          // 2. Si la columna es año, se hace más ancha
+                          if (nombreColumna === 'annio') {
+                              config.className = 'col-descripcion';
+                          }
 
                           return config;
                       });
