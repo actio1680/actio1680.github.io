@@ -2,9 +2,13 @@
    0. AJUSTES DE LA CABECERA 
    ========================================================= */
    
-/* 1. Dar espacio ARRIBA de "Actio1680" y separar del contenido */
+/* Quita el padding-top del header y ponlo en el body */
+body {
+    padding-top: 40px !important; /* Juega con este número */
+}
+
 header, .site-header {
-    padding-top: 40px !important; 
+    /* Deja solo el espacio de abajo y el margen */
     padding-bottom: 20px !important; 
     margin-bottom: 20px !important; 
 }
