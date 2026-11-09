@@ -136,5 +136,22 @@ table.dataTable {
    6. ANCHOS INTELIGENTES
    ========================================================= */
 .col-descripcion {
-    min-width: 300px !important;
+    min-width: 280px !important;
+}
+
+/* =========================================================
+   7. FORZAR TIPOGRAFÍA EN LA CABECERA (Actio1680)
+   ========================================================= */
+header, 
+header *,
+.site-header, 
+.site-header *,
+.masthead, 
+.masthead *,
+.navbar, 
+.navbar *,
+.site-title,
+.navbar-brand {
+    font-family: "Courier New", Courier, monospace !important; 
+    font-weight: bold !important; 
 }
