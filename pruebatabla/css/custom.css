@@ -134,5 +134,6 @@ table.dataTable a {
    ========================================================= */
 /* Esta clase se la inyecta el JS a la columna que se llame "descripcion" */
 .col-descripcion {
-    min-width: 350px !important; 
+    min-width: 350px !important;
+    font-size: 0.85rem !important;
 }
