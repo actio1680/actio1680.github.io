@@ -1,47 +1,31 @@
 /* =========================================================
-   0. ARREGLO DE LA CABECERA (Para que se vea igual que la web global)
+   ESTILOS LOCALES DE LA TABLA (pruebatabla)
    ========================================================= */
 
-/* 1. Hacer la cabecera más gruesa (Negrita) */
-header h1, 
-header a, 
-.site-title, 
-.navbar-brand {
-    font-weight: bold !important;
+/* 0. FORZAR EL HEADER (Para que iguale a tu página principal) */
+header, .site-header, .navbar {
+    margin-bottom: 2.5rem !important; 
+    padding-bottom: 1rem !important;
+}
+header h1, header a, .site-title {
+    font-family: inherit !important; 
+    font-weight: bold !important;   
 }
 
-/* 2. Agregar espacio de párrafo debajo de la cabecera */
-header, 
-.site-header, 
-.navbar {
-    margin-bottom: 3rem !important; 
-    padding-bottom: 1rem !important; 
-    border-bottom: 1px solid #eaeaea; 
-}
-
-
-/* =========================================================
-   1. ESTILOS LOCALES DE LA TABLA
-   ========================================================= */
-
-/* 0. TIPOGRAFÍA, GROSOR Y TAMAÑOS (Igualando tu página principal) */
-body, p, .lead, small, table, input, select, .dataTables_wrapper, .page-link {
+/* 1. TIPOGRAFÍA (Solo afecta al contenido, no al menú) */
+.container-fluid, p, .lead, small, table, input, select, .dataTables_wrapper, .page-link {
     font-family: "Courier New", Courier, monospace !important; 
-    font-weight: 500 !important; /* Grosor firme para que no se vea light */
+    font-weight: 500 !important; 
 }
 
-/* Títulos compactos y gruesos */
-h1, h2, h3, h4, h5, h6 {
+/* 2. TÍTULOS DEL CONTENIDO  */
+.container-fluid h2 {
     font-family: "Courier New", Courier, monospace !important;
     font-weight: bold !important;
     color: #111 !important;
-}
-
-/* Ajuste específico para el título de la página */
-h2 {
     font-size: 1.8rem !important; 
+    margin-top: 0 !important; 
     margin-bottom: 1.5rem !important;
-    letter-spacing: -0.5px;
 }
 
 .lead {
@@ -51,7 +35,7 @@ h2 {
 }
 
 /* =========================================================
-   2. CONTROLES (Buscador y registros)
+   3. CONTROLES (Buscador y registros)
    ========================================================= */
 .dataTables_wrapper .row:first-child {
     background-color: #f8f9fa;
@@ -63,7 +47,7 @@ h2 {
 }
 
 /* =========================================================
-   3. LA TABLA
+   4. LA TABLA (Cabeceras y Celdas)
    ========================================================= */
 #table-container {
     width: 100%;
@@ -77,11 +61,11 @@ table.dataTable {
     border: none !important;
 }
 
-/* CABECERAS Y CELDAS */
+/* CABECERAS */
 table.dataTable thead th {
     font-weight: bold !important; 
     text-transform: uppercase;
-    font-size: 0.85rem;
+    font-size: 0.75rem; 
     border-top: none !important;
     border-bottom: 2px solid #333 !important;
     background-color: transparent !important;
@@ -90,11 +74,12 @@ table.dataTable thead th {
     min-width: 80px; 
 }
 
+/* CELDAS DE DATOS */
 table.dataTable tbody td {
     padding: 12px 10px;
     border-bottom: 1px solid #eaeaea !important;
     vertical-align: middle;
-    font-size: 0.80rem;
+    font-size: 0.85rem; 
     font-weight: 500 !important; 
 }
 
@@ -103,7 +88,7 @@ table.dataTable tbody tr:hover {
 }
 
 /* =========================================================
-   4. PAGINACIÓN Y ENLACES
+   5. PAGINACIÓN Y ENLACES
    ========================================================= */
 .dataTables_wrapper .row:last-child {
     margin-top: 20px;
@@ -130,10 +115,8 @@ table.dataTable a {
 }
 
 /* =========================================================
-   5.  ANCHOS INTELIGENTES
+   6. ANCHOS INTELIGENTES
    ========================================================= */
-/* Esta clase se la inyecta el JS a la columna que se llame "descripcion" */
 .col-descripcion {
     min-width: 300px !important;
-    font-size: 0.85rem !important;
 }
