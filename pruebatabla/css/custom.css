@@ -138,7 +138,7 @@ table.dataTable {
 .col-descripcion {
     min-width: 280px !important;
 }
-.col-annio {
+.col-anio {
     min-width: 40px !important;
     max-width: 40px !important;
     width: 40px !important;   
