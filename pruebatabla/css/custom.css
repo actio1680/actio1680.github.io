@@ -140,6 +140,9 @@ table.dataTable {
 }
 .col-annio {
     min-width: 50px !important;
+    max-width: 60px !important;
+    width: 60px !important;   
+    white-space: nowrap;    
 }
 
 
