@@ -1,15 +1,36 @@
 /* =========================================================
-   ESTILOS LOCALES DE LA TABLA (pruebatabla)
+   ESTILOS LOCALES DE LA TABLA
    ========================================================= */
 
-/* 0. FORZAR LA TIPOGRAFÍA DE TU PÁGINA PRINCIPAL */
-/* Esto anula la fuente por defecto de Bootstrap y hereda la tuya */
-body, h1, h2, h3, h4, h5, h6, p, .lead, table, .dataTables_wrapper, input, select, button, .page-link {
+/* 0. TIPOGRAFÍA, GROSOR Y TAMAÑOS (Igualando tu página principal) */
+body, p, .lead, small, table, input, select, .dataTables_wrapper, .page-link {
     font-family: "Courier New", Courier, monospace !important; 
-    /* Si tu página principal usa una fuente web específica (como 'Gibson'), cámbiala aquí */
+    font-weight: 500 !important; /* Grosor firme para que no se vea light */
 }
 
-/* 1. LA "ISLA" DE CONTROLES (Buscador y cantidad de registros) */
+/* Títulos compactos y gruesos */
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Courier New", Courier, monospace !important;
+    font-weight: bold !important;
+    color: #111 !important;
+}
+
+/* Ajuste específico para el título de la página */
+h2 {
+    font-size: 1.8rem !important; 
+    margin-bottom: 1.5rem !important;
+    letter-spacing: -0.5px;
+}
+
+.lead {
+    font-weight: bold !important;
+    font-size: 1.1rem !important;
+    color: #333;
+}
+
+/* =========================================================
+   1. CONTROLES (Buscador y registros)
+   ========================================================= */
 .dataTables_wrapper .row:first-child {
     background-color: #f8f9fa;
     border: 1px solid #e9ecef;
@@ -19,7 +40,9 @@ body, h1, h2, h3, h4, h5, h6, p, .lead, table, .dataTables_wrapper, input, selec
     align-items: center;
 }
 
-/* 2. LA TABLA (Amplitud y limpieza) */
+/* =========================================================
+   2. LA TABLA
+   ========================================================= */
 #table-container {
     width: 100%;
     overflow-x: auto;
@@ -32,16 +55,17 @@ table.dataTable {
     border: none !important;
 }
 
-/* 3. CABECERAS Y CELDAS */
+/* CABECERAS Y CELDAS */
 table.dataTable thead th {
-    font-weight: bold; /* En tipografía mono, la negrita resalta bien */
+    font-weight: bold !important; 
     text-transform: uppercase;
-    font-size: 0.9rem;
+    font-size: 0.85rem;
     border-top: none !important;
     border-bottom: 2px solid #333 !important;
     background-color: transparent !important;
     padding: 15px 10px;
-    white-space: nowrap;
+    white-space: nowrap; 
+    min-width: 80px; 
 }
 
 table.dataTable tbody td {
@@ -49,13 +73,16 @@ table.dataTable tbody td {
     border-bottom: 1px solid #eaeaea !important;
     vertical-align: middle;
     font-size: 0.95rem;
+    font-weight: 500 !important; 
 }
 
 table.dataTable tbody tr:hover {
     background-color: #f1f1f1 !important;
 }
 
-/* 4. LA PAGINACIÓN */
+/* =========================================================
+   3. PAGINACIÓN Y ENLACES
+   ========================================================= */
 .dataTables_wrapper .row:last-child {
     margin-top: 20px;
     align-items: center;
@@ -64,28 +91,26 @@ table.dataTable tbody tr:hover {
 .page-item.active .page-link {
     background-color: #333 !important;
     border-color: #333 !important;
+    font-weight: bold !important;
 }
 
 .page-link {
     color: #333 !important;
     border-radius: 4px !important;
     margin: 0 2px;
+    font-weight: bold !important;
 }
 
-/* 5. ENLACES "VER PDF" */
 table.dataTable a {
-    font-weight: bold;
+    font-weight: bold !important;
     text-decoration: underline;
     color: #0056b3;
 }
 
 /* =========================================================
-   📏 ANCHOS DE LAS COLUMNAS
+   4.  ANCHOS INTELIGENTES
    ========================================================= */
-#miTabla th:nth-child(1) { min-width: 80px; }  /* codigo */
-#miTabla th:nth-child(2) { min-width: 200px; } /* rotulo */
-#miTabla th:nth-child(3) { min-width: 60px; }  /* anio */
-#miTabla th:nth-child(4) { min-width: 90px; }  /* fecha */
-#miTabla th:nth-child(5) { min-width: 350px; } /* descripcion */
-#miTabla th:nth-child(6) { min-width: 70px; }  /* folios */
-#miTabla th:nth-child(7) { min-width: 80px; }  /* url */
+/* Esta clase se la inyecta el JS a la columna que se llame "descripcion" */
+.col-descripcion {
+    min-width: 350px !important; 
+}
