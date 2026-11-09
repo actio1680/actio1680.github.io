@@ -1,30 +1,31 @@
 /* =========================================================
-   ESTILOS LOCALES DE LA TABLA (pruebatabla)
+   0. AJUSTES DE LA CABECERA 
    ========================================================= */
-
-/* 0. FORZAR EL HEADER (Para que iguale a tu página principal) */
-header, .site-header, .navbar {
-    margin-bottom: 2.5rem !important; 
-    padding-bottom: 1rem !important;
-}
-header h1, header a, .site-title {
-    font-family: inherit !important; 
-    font-weight: bold !important;   
+   
+/* 1. Dar espacio ARRIBA de "Actio1680" y separar del contenido */
+header, .site-header {
+    padding-top: 40px !important; 
+    padding-bottom: 20px !important; 
+    margin-bottom: 20px !important; 
 }
 
-/* 1. TIPOGRAFÍA (Solo afecta al contenido, no al menú) */
+/* =========================================================
+   1. TIPOGRAFÍA GENERAL (Contenido)
+   ========================================================= */
 .container-fluid, p, .lead, small, table, input, select, .dataTables_wrapper, .page-link {
     font-family: "Courier New", Courier, monospace !important; 
     font-weight: 500 !important; 
 }
 
-/* 2. TÍTULOS DEL CONTENIDO  */
+/* =========================================================
+   2. TÍTULOS DEL CONTENIDO (Unificados)
+   ========================================================= */
 .container-fluid h2 {
     font-family: "Courier New", Courier, monospace !important;
     font-weight: bold !important;
     color: #111 !important;
     font-size: 1.8rem !important; 
-    margin-top: 0 !important; 
+    margin-top: 10px !important; 
     margin-bottom: 1.5rem !important;
 }
 
@@ -93,25 +94,38 @@ table.dataTable tbody tr:hover {
 .dataTables_wrapper .row:last-child {
     margin-top: 20px;
     align-items: center;
+    border-bottom: none !important; 
+    margin-bottom: 0 !important;
 }
 
+/* El botón activo: Fondo oscuro y LETRA BLANCA */
 .page-item.active .page-link {
     background-color: #333 !important;
     border-color: #333 !important;
+    color: #ffffff !important; 
     font-weight: bold !important;
 }
 
+/* Los botones inactivos (2, 3, 4...) */
 .page-link {
-    color: #333 !important;
+    color: #333 !important; /* Letra oscura */
     border-radius: 4px !important;
     margin: 0 2px;
     font-weight: bold !important;
+    border: 1px solid #ddd !important;
 }
 
-table.dataTable a {
-    font-weight: bold !important;
-    text-decoration: underline;
-    color: #0056b3;
+.page-link:hover {
+    background-color: #e9ecef !important;
+    color: #000 !important;
+}
+
+/* Quitar cualquier línea de borde residual al final de la tabla */
+.dataTables_wrapper {
+    border-bottom: none !important;
+}
+table.dataTable {
+    border-bottom: none !important;
 }
 
 /* =========================================================
