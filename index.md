@@ -10,19 +10,19 @@ ___
 
 ## Proyectos 
 
-### Pronto nuevo proyectos
-
 ### > Discursos presidenciales del Perú
-El repositorio almacena y analiza en nubes de palabras (wordclouds) los discursos presidenciales durante las fiestas patrias del 28 de julio de los gobernantes peruanos del siglo XIX, XX y XXI, de facto y derecho, almacenados en la sección "Mensajes presidenciales y otros documentos para la Historia política del Perú" del sitio web del Congreso de la Républica, analizando un total  de 138 discursos. [[Ir a proyecto](https://github.com/actio1680/discurso-presidencial-peru) - Junio de 2023]
+- El repositorio almacena y analiza en nubes de palabras (wordclouds) los discursos presidenciales durante las fiestas patrias del 28 de julio de los gobernantes peruanos del siglo XIX, XX y XXI, de facto y derecho, almacenados en la sección "Mensajes presidenciales y otros documentos para la Historia política del Perú" del sitio web del Congreso de la Républica, analizando un total  de 138 discursos. [[Ir a proyecto](https://github.com/actio1680/discurso-presidencial-peru) - Junio de 2023]
 
-### Base de datos de las sentencias de la Corte Suprema de Justicia del Perú 1870-1972
-- **Descripción:** La base de datos sistematiza y referencia los títulos de las sentencias de la Corte Suprema de Justicia del Perú para el período 1870–1972. Esta primera versión se sustenta en los Anales Judiciales de la Corte Suprema, colección de sesenta y cuatro tomos que comprende más de cien años de jurisprudencia del tribunal supremo peruano.[[Ir a proyecto](proyectos/Base-de-datos-Sentencias-Corte-Suprema-Justicia-del-Peru-1870-1972.html)]
+### > Base de datos de las sentencias de la Corte Suprema de Justicia del Perú 1870-1972
+- La base de datos sistematiza y referencia los títulos de las sentencias de la Corte Suprema de Justicia del Perú para el período 1870–1972. Esta primera versión se sustenta en los Anales Judiciales de la Corte Suprema, colección de sesenta y cuatro tomos que comprende más de cien años de jurisprudencia del tribunal supremo peruano.[[Ir a proyecto](proyectos/Base-de-datos-Sentencias-Corte-Suprema-Justicia-del-Peru-1870-1972.html)]
 
-### Base de datos de las Normas del Poder Legislativo y Ejecutivo en el Perú 1820-2025 
-- **Descripción:** Las bases de datos son una sistematización de las normas legislativas y ejecutivas, principalmente contenidas en el Archivo Digital de la Legislación del Perú y otros documentos. Se cubren 200 años de vida republicana del país. Los archivos actualizados son de formato XLSX y HTML. [[Ir a proyecto](proyectos/Base-de-datos-Normas-Poder-Legislativo-y-Ejecutivo-1820–2025.html)]
+### > Base de datos de las Normas del Poder Legislativo y Ejecutivo en el Perú 1820-2025 
+- Las bases de datos son una sistematización de las normas legislativas y ejecutivas, principalmente contenidas en el Archivo Digital de la Legislación del Perú y otros documentos. Se cubren 200 años de vida republicana del país. Los archivos actualizados son de formato XLSX y HTML. [[Ir a proyecto](proyectos/Base-de-datos-Normas-Poder-Legislativo-y-Ejecutivo-1820–2025.html)]
  
-### Perú Normas Bot - [PROYECTO DESCONTINUADO]
-- **Descripción:** El presente proyecto implementó un bot automatizado en un canal de Telegram para la publicación de normas legales del diario El Peruano. Mediante un script configurado en la plataforma Heroku el bot pública el título, el tipo de norma, la fecha de publicación, la descripción de la norma y el enlace de descarga en PDF. [[Ir a proyecto](proyectos/Peru-normas-bot.html)]
+### > Perú Normas Bot - (Descontinuado)
+- El presente proyecto implementó un bot automatizado en un canal de Telegram para la publicación de normas legales del diario El Peruano. Mediante un script configurado en la plataforma Heroku el bot pública el título, el tipo de norma, la fecha de publicación, la descripción de la norma y el enlace de descarga en PDF. [[Ir a proyecto](proyectos/Peru-normas-bot.html)]
+
+___
 
 ## Escritos
 - [Elementos para un Derecho Computacional](escritos/elementos-derecho-computacional.md)
