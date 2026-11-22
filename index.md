@@ -1,14 +1,11 @@
 ---
 layout: default
 ---
-## Introducción
 
 ¡Hola! soy William ... y [Actio1680](https://github.com/actio1680) es un repositorio de proyectos, escritos y documentos sobre Sociología y Derecho en el mundo digital. El objeto es la creación de herramientas para la investigación y aplicación profesional.
 
 <!-- <img class="profile-picture" src="codefavicon.png"> -->
 ___
-
-## Proyectos 
 
 ### > Discursos presidenciales del Perú
 - El repositorio almacena y analiza en nubes de palabras (wordclouds) los discursos presidenciales durante las fiestas patrias del 28 de julio de los gobernantes peruanos del siglo XIX, XX y XXI, de facto y derecho, almacenados en la sección "Mensajes presidenciales y otros documentos para la Historia política del Perú" del sitio web del Congreso de la Républica, analizando un total  de 138 discursos. [[Ir a proyecto](https://github.com/actio1680/discurso-presidencial-peru) - Junio de 2023]
