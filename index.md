@@ -6,6 +6,7 @@ layout: default
 ¡Hola! soy William ... y [Actio1680](https://github.com/actio1680) es un repositorio de proyectos, escritos y documentos sobre Sociología y Derecho en el mundo digital. El objeto es la creación de herramientas para la investigación y aplicación profesional.
 
 <!-- <img class="profile-picture" src="codefavicon.png"> -->
+___
 
 ## Proyectos 
 
