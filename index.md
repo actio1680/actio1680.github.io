@@ -19,13 +19,6 @@ ___
 ### > Perú Normas Bot - (Descontinuado)
 - El presente proyecto implementó un bot automatizado en un canal de Telegram para la publicación de normas legales del diario El Peruano. Mediante un script configurado en la plataforma Heroku el bot pública el título, el tipo de norma, la fecha de publicación, la descripción de la norma y el enlace de descarga en PDF. [[Ir a proyecto](proyectos/Peru-normas-bot.html)]
 
-___
-
-## Escritos
-- [Elementos para un Derecho Computacional](escritos/elementos-derecho-computacional.md)
-- [Cronología de los Códigos Civiles Iberoaméricanos](escritos/cronologiacc.md)
-- [Apuntes para estudiar los cuerpos jurídicos de la Monarquía y Repúblicas hispánicas](escritos/apuntes-derecho-hispanico.md)
-
 
 
 
