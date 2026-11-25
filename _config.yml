@@ -8,7 +8,7 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://actio1680.github.io/administracion/legal"
+footer_url: "https://actio1680.github.io/administracion/hola"
 footer_text: "Edición William Atencio Becerra"
 
 sass:
@@ -18,12 +18,10 @@ sass:
 nav:
  - name: "Inicio"
    link: "/"
- - name: "Hola"
-   link: "/hola"
+ - name: "Linkedin"
+   link: "https://www.linkedin.com/in/william-atencio-becerra/"
  - name: "Apuntes"
-   link: "/apuntes"
- - name: "Legal"
-   link: "/administracion/legal"
+   link: "https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Atencio%20Becerra%2C%20William%20Junior%22&l=list&p=1&s=10&sort=publication-desc"
 
 favicon: "/_image/favicon.png"
 
